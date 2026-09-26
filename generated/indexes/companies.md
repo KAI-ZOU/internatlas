@@ -46,7 +46,7 @@
 | [Al Warren Oil Company](../companies/al-warren-oil-company.md) | 1/1 | software-engineering |
 | [Alayacare](../companies/alayacare.md) | 1/2 | software-engineering |
 | [Albedo](../companies/albedo.md) | 0/1 | software-engineering |
-| [AlixPartners](../companies/alixpartners.md) | 1/1 | data-science |
+| [AlixPartners](../companies/alixpartners.md) | 0/1 | data-science |
 | [Allegheny County](../companies/allegheny-county.md) | 0/1 | software-engineering |
 | [Allen Control Systems](../companies/allen-control-systems.md) | 2/3 | machine-learning, software-engineering |
 | [Alliance Laundry Systems](../companies/alliance-laundry-systems.md) | 0/1 | software-engineering |

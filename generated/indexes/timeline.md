@@ -53,7 +53,6 @@
 - Akuna Capital — [Software Engineer Intern, Full Stack Web](https://akunacapital.com/careers/job/8018893/?gh_jid=8018893)
 - Al Warren Oil Company — [Software Developer Intern](https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/)
 - Alayacare — [Fullstack Developer Intern - Python](https://alayacare.com/open-positions?gh_jid=8811336002)
-- AlixPartners — [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003)
 - Allen Control Systems — [Computer Vision Intern - Machine Learning](https://jobs.ashbyhq.com/allen-control-systems/a7831fef-7125-4c03-b828-5f0472989037/application?embed=true)
 - Allen Control Systems — [Electrical Engineer Intern](https://jobs.ashbyhq.com/allen-control-systems/cc1618f1-e4b8-4dcb-88fd-9771da972220/application?embed=true)
 - Allied Solutions — [AI Solutions Intern](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074)

@@ -76,6 +76,7 @@ _Generated 2026-09-26_
 - AArete — Data Architecture & Engineering Intern
 - AbbVie — Business Technology Solutions Intern - Data & Software Engineering
 - Acxiom — Data Engineer Intern
+- AlixPartners — Data Scientist Intern
 - Allegheny County — Business Analytics Intern
 - Alliance Laundry Systems — Data & Analytics Intern
 - Amazon — Applied Science Intern - Multiple Teams
