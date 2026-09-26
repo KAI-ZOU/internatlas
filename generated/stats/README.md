@@ -33,9 +33,9 @@ _Generated 2026-09-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3148 | `███████████████` |
+| software-engineering | 3149 | `███████████████` |
 | ai | 414 | `██` |
-| quant | 315 | `█` |
+| quant | 317 | `█` |
 | machine-learning | 232 | `█` |
 | data-science | 203 | `█` |
 | hardware | 203 | `█` |
@@ -73,6 +73,7 @@ _Generated 2026-09-26_
 ## Recently closed
 
 - AArete — Business Analytics Intern - Summer 2027
+- AArete — Data Architecture & Engineering Intern
 - AbbVie — Business Technology Solutions Intern - Data & Software Engineering
 - Acxiom — Data Engineer Intern
 - Allegheny County — Business Analytics Intern
@@ -132,9 +133,11 @@ _Generated 2026-09-26_
 - Bank of Montreal — Workforce Analyst Co-op Intern
 - Bank of Montreal — Workforce Analyst Intern/Co-op
 - Barclays — Customer and Digital Data and Analytics Intern
+- Barclays — Data and Analytics Intern - Customer and Digital
 - Barclays — Marketing Analyst Intern - Marketing
 - Barclays — Technology Analyst Intern
 - Barclays — Technology Developer Intern
+- Barclays — Technology Developer Intern - Programme
 - Barr — Data Science Intern
 - Barrios — Data and Computer Engineering/Computer Science Intern
 - Block — Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)
@@ -258,33 +261,13 @@ _Generated 2026-09-26_
 - Geotab — Software Developer Intern
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gordon Food Service — Category Technology Intern
-- Guardian Life — Life Product Development Intern
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
@@ -305,6 +288,7 @@ _Generated 2026-09-26_
 - IGS Energy — Software Engineer Intern
 - InfiniteQuant — Quantitative Developer Intern
 - Intact — AI Developer Intern Co-op
+- Intact — AI Developer Intern Co-op - Winter 2027
 - Intact — Artificial Intelligence Developer Intern Co-op - Winter 2027
 - Intact — Data Analyst Intern Co-op - Winter 2027
 - Intact — Data Engineering Developer Intern Co-op - Winter 2027
@@ -354,7 +338,6 @@ _Generated 2026-09-26_
 - Marvell — Analog Design Intern
 - Marvell — Applied Machine Learning Scientist Intern
 - Marvell — Design/DSP/Verification Intern
-- Marvell — Design for Test Intern - MS
 - Marvell — Reliability Intern
 - Marvell — Reliability Intern
 - Marvell — SRAM Circuit Design Intern - MS
@@ -432,7 +415,6 @@ _Generated 2026-09-26_
 - Ovintiv — Technology Intern - Data & Digital
 - Paccar — Software Developer Intern
 - Parsons — Software Developer Intern - Fall 2026/Spring 2027
-- PennState University — Research and Development Engineering Intern
 - Persona — Software Engineer Intern
 - Philips — Software Engineer Intern
 - Plastipak — Software Engineer Intern
@@ -445,6 +427,7 @@ _Generated 2026-09-26_
 - PricewaterhouseCoopers (PwC) — Product Management Intern - Commercial Tech & Innovation
 - PricewaterhouseCoopers (PwC) — Tax Innovation Delivery Experience Intern - Multiple Teams
 - PricewaterhouseCoopers (PwC) — Tax Innovation Delivery Experience Intern - Product Management
+- Procter & Gamble — Digital Technologies Intern/Co-op
 - Procter & Gamble — Research and Development PhD Intern - Life Cycle Assessment - Data Science
 - Qorvo — RFIC Design Engineer Intern
 - Qorvo — RFIC Design Intern
@@ -452,6 +435,7 @@ _Generated 2026-09-26_
 - Regions Bank — Technology, Operations, Digital, and Data Analytics Intern
 - Renesas Electronics — Validation Intern
 - Resultant — Data & Analytics Consultant Intern - Summer 2027
+- RGA Reinsurance Company — Data Science/AI Intern
 - Rivet Industries — Software Engineer Intern - XR Team - Fall 2026
 - Robert Bosch Venture Capital — AI Engineering Intern
 - ROCKWOOL Group — Product Management Intern
@@ -658,4 +642,3 @@ _Generated 2026-09-26_
 - Xsolla — AI Engineer Intern
 - Xsolla — AI-First Engineer Intern
 - Zello — Analytics Intern
-- Zurn Elkay Water Solutions — Embedded Firmware Intern - Summer 2027
