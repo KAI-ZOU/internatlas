@@ -248,6 +248,9 @@ _Generated 2026-09-27_
 - GE Aerospace — Applied AI Intern
 - Genentech — Digital Sciences Intern - Product Technical Development
 - General Dynamics Information Technology — Software Development Intern
+- General Motors — Motorsports Strategy Intern - Sportscar Motorsports Strategy
+- General Motors — Race Strategy & Analytics Intern - IndyCar
+- General Motors — Summer Intern - Performance Analysis
 - Genesis Molecular AI — Machine Learning Research Intern
 - Genesis Molecular AI — Machine Learning Research Intern - PhD
 - Genesis Molecular AI — Software Engineer Intern
@@ -302,6 +305,7 @@ _Generated 2026-09-27_
 - Hitachi — Software Analyst Intern
 - Hitachi — Software Analyst Intern
 - HMH — Software Engineer Intern
+- Howmet Aerospace — Artificial Intelligence Intern - AI
 - HP IQ — Software Engineer Intern - Software Systems
 - Humanscale — Electrical Design Engineer Intern
 - ICF International — Software Developer Intern
@@ -386,6 +390,7 @@ _Generated 2026-09-27_
 - MKS Instruments — Business Intelligence/Data Analytics Intern
 - Moog — Embedded Design Engineering Intern
 - NationGraph — Software Engineer Intern
+- Nationwide — Analytic Consulting Advisor Intern
 - Navy Federal — Credit Risk Analyst Intern
 - NBT Bank — Data Warehouse & Analytics Intern
 - Neuralink — Biomedical Engineer Intern
