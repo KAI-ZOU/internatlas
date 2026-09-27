@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-09-26_
+_Generated 2026-09-27_
 
 ## Top hiring companies
 
@@ -189,7 +189,6 @@ _Generated 2026-09-26_
 - Castleton Commodities International — Commodities Trading Analyst Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
 - Centene — Data and Analytics Intern - Undergraduate
-- Charles Schwab — Product Management Intern - Thinkorswim
 - Chemours — Data Visualization Analyst Intern
 - Ciena — Layout Design Intern - Fall 2026
 - Ciena — Wavelogic Systems Design Architecture Intern
@@ -219,7 +218,6 @@ _Generated 2026-09-26_
 - Dell Technologies — Software Engineering Intern
 - Deloitte — AI and Data Engineering Summer Scholar Intern - Government & Public Services
 - Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
-- DiDi Global — Motion Planning Engineer Intern - PhD
 - Dmg Media — AI Engineer Intern - Innovation Team
 - Ecolab — Research and Development Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
@@ -241,6 +239,7 @@ _Generated 2026-09-26_
 - Figure — Firmware Intern
 - Figure — Hardware Reliability Intern
 - Finastra — AI Engineer Intern - Summer 2027
+- First Citizens BancShares — IT Intern - Software Developer
 - Formlabs — AI Software Intern
 - Formlabs — Embedded Software Intern - Winter/Spring 2027
 - Frontier Health — Applied Scientist / Research Engineer Intern
@@ -260,7 +259,6 @@ _Generated 2026-09-26_
 - Geotab — Hardware Developer Intern
 - Geotab — Insights & Integrations Consultancy Data Scientist Intern
 - Geotab — Software Developer Intern
-- GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GlobalFoundries — Systems Engineer Intern
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
@@ -374,8 +372,6 @@ _Generated 2026-09-26_
 - Medpace, Inc. — Data Engineer Intern
 - Merchants Bank of Indiana — Business Technology Intern - Application Development
 - Merck — Medical Data Scientist Intern
-- Meta — Research Scientist Intern - Applied Vision and Image Quality - PhD
-- Meta — Research Scientist Intern - Monetization Generative AI - LLM
 - Meta — Research Scientist Intern - Photorealistic Telepresence
 - Meta — Research Scientist Intern - State Estimation for Dexterous Manipulation
 - MetOx International — Data Science Intern - Spring 2027
@@ -383,15 +379,12 @@ _Generated 2026-09-26_
 - Microchip Technology — Engineering Intern - MEMS Design
 - Microchip Technology — Engineering Intern - Software Development
 - Microchip Technology — Intern – Engineering - Device Software and Test
-- Micron Technology — Design Architecture Intern - HBM
-- Micron Technology — DRAM IP Circuits Design Engineer Intern - IP Development
 - Micron Technology — SoC RTL Design Engineer Intern - HBM
 - Microsoft — AI Software Engineer Intern
 - Microsoft — Optoelectronics Device Engineer Intern
 - Microsoft — Silicon Engineer Intern
 - MKS Instruments — Business Intelligence/Data Analytics Intern
 - Moog — Embedded Design Engineering Intern
-- National Information Solutions Cooperative — Data Engineer Intern
 - NationGraph — Software Engineer Intern
 - Navy Federal — Credit Risk Analyst Intern
 - NBT Bank — Data Warehouse & Analytics Intern
@@ -412,10 +405,7 @@ _Generated 2026-09-26_
 - Nucor — Commodity Markets Analyst Intern
 - NVIDIA — Architecture Research Intern - Architecture - 2027
 - NVIDIA — Generative AI Ph.D. Research Intern
-- NVIDIA — Large Language Models Intern - Research
 - NVIDIA — Networking Research Intern - Networking
-- NVIDIA — Ph.D. Research Autonomous Vehicles Intern
-- NVIDIA — Ph.D. Research Hardware Intern
 - NVIDIA — PhD Research Intern
 - NVIDIA — PhD Research Intern - Circuits
 - NVIDIA — PhD Research Intern - Generalist Embodied Agents Research
@@ -498,7 +488,6 @@ _Generated 2026-09-26_
 - Royal Bank of Canada — Wealth Management Technology Intern
 - RSM — Application Development Intern - Summer 2027
 - RSM — Tax Digital Services Intern - AI Engineering
-- RTX — Artificial Intelligence / Machine Learning Methods Intern
 - RTX — Customer Data Management and Analysis Intern
 - RTX — Data Science and Advanced Analytics Intern
 - RTX — Electrical Engineer Intern
@@ -520,9 +509,7 @@ _Generated 2026-09-26_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
-- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Receiver Exciter and Processing Architecture
-- RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineer Intern - Summer/Fall 2027 - Mission Engineering / Operational Analysis
 - RTX — Software Engineering Intern
 - RTX — Spectrum Dominance Intern
@@ -543,7 +530,6 @@ _Generated 2026-09-26_
 - State Farm — Software Engineer Intern - Innovation Group
 - State Farm — Software Engineer Intern - Multiple Teams
 - State Farm — Technology Product Analyst Intern - Innovation Group
-- Stryten — System Engineer Intern
 - Super — Data Engineer Intern
 - Super — Data Engineer Intern
 - Super — Software Engineer in Data Intern - 8 months
@@ -579,7 +565,6 @@ _Generated 2026-09-26_
 - Tesla — AI/ML Modeling Engineer Intern - ML Modeling Engineer - AI Hardware
 - Tesla — Cell Engineering Intern - Cell Qualification
 - Tesla — Data Analytics Intern - People Analytics
-- Tesla — Data Engineer Intern - Cell Engineering
 - Tesla — Electronic Design Engineer Intern - Optimus
 - Tesla — Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer
 - Tesla — Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus
@@ -593,8 +578,6 @@ _Generated 2026-09-26_
 - The Hartford — Software Engineer Intern - Technology, Data, AI, and Operations
 - The Nuclear Company — AI/ML Engineer Intern - Platform Integration & AI/Data
 - The Toro Company — Embedded Software Engineering Intern
-- The Walt Disney Company — Commercial Data Science Intern
-- The Walt Disney Company — Commercial Data Science Intern - Spring 2027
 - The Walt Disney Company — Computer Science / Computer Engineering Intern - Multiple Teams
 - The Walt Disney Company — Costuming Project Analyst Intern - Spring 2027
 - The Walt Disney Company — Show Control Software Intern
@@ -604,10 +587,8 @@ _Generated 2026-09-26_
 - TikTok — SMB Operations Specialist Project Intern - Product Led Growth - 2026 Start - BS/MS
 - TJX — IT Engineer Intern
 - Tower Research Capital — Software Engineer Intern - Summer 2027
-- Tradeweb — AI Software Engineer Intern
 - Tradeweb — Application Software Engineering Internship - IFI Application
 - Tradeweb — C++ Distributed Systems Developer Intern - C++ Core Services
-- Tradeweb — Credit Software Engineer Intern
 - Tradeweb — Data Platform Intern
 - Tradeweb — Engineering Intern - Distributed Ledger Technology - Engineering
 - Tradeweb — Market Data Developer Intern
@@ -631,7 +612,6 @@ _Generated 2026-09-26_
 - USAA — Data Scientist Intern
 - USAA — Visualization Engineer Intern
 - Vanguard — Technical Product Manager Intern
-- Verizon Communications — AI/ML Engineering Intern - Consumer Group
 - Verizon Communications — AI Science Intern - Multiple Teams
 - Verizon Communications — AI Science Intern - Network and Technology
 - Verizon Communications — Marketing Technology Intern - Consumer Group
@@ -644,7 +624,6 @@ _Generated 2026-09-26_
 - Vital Lyfe — Software Engineer Intern
 - Voltus — Energy Markets Intern - Miso
 - WallStreetQuants — Quantitative Trading Intern
-- Walmart — Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT
 - Walmart — Software Engineer 2 Intern
 - Watts Water — Product Specialist Intern - Summer 2027
 - Wealthsimple — Credit & Fraud Analytics Intern - Winter 2027

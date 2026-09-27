@@ -1078,7 +1078,6 @@
 - Figure — [Power Systems Integration Intern](https://job-boards.greenhouse.io/figureai/jobs/4702104006)
 - Figure — [Special Projects Intern](https://job-boards.greenhouse.io/figureai/jobs/4694889006)
 - Firetiger — [Product Engineer Intern/Co-op](https://jobs.ashbyhq.com/firetiger/7acf0768-f10d-4650-bcfc-12ed6e5d7cfc/application?embed=true)
-- First Citizens BancShares — [IT Intern - Software Developer](https://firstcitizens.jibeapply.com/jobs/35709?icims=1)
 - First Citizens BancShares — [Quantitative Analysis Intern - Quantitative Analysis](https://firstcitizens.jibeapply.com/jobs/35602?icims=1)
 - First National Bank — [AI and Innovation Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811)
 - First National Bank — [AI/Machine Learning Modeler Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851)
