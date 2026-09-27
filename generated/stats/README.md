@@ -174,6 +174,8 @@ _Generated 2026-09-27_
 - Boston Scientific — Data Engineer Intern
 - Boston Scientific — Data Science Engineer Intern
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
+- Boston Scientific — Software Engineer Intern - R&D
+- Brunswick — Software Engineer Intern
 - By Light Professional IT Services — AI Intern
 - CACI — Software Developer/Data Scientist Intern - Summer 2027
 - CACI — Software Engineer Intern
@@ -283,6 +285,7 @@ _Generated 2026-09-27_
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
@@ -414,6 +417,7 @@ _Generated 2026-09-27_
 - NVIDIA — PhD Research Intern
 - NVIDIA — PhD Research Intern - Circuits
 - NVIDIA — PhD Research Intern - Generalist Embodied Agents Research
+- NVIDIA — Physical Design and Timing Engineer Intern
 - NVIDIA — Product Management MBA Intern - Data Center GPU
 - NVIDIA — Quantum and Chemistry Research Intern - Quantum and AI for Chemistry
 - NVIDIA — Research Intern
@@ -449,6 +453,7 @@ _Generated 2026-09-27_
 - Procter & Gamble — Research and Development PhD Intern - Life Cycle Assessment - Data Science
 - Qorvo — RFIC Design Engineer Intern
 - Qorvo — RFIC Design Intern
+- Realm — Software Engineer Intern
 - Regions Bank — Technology Intern - Multiple Teams
 - Regions Bank — Technology, Operations, Digital, and Data Analytics Intern
 - Renesas Electronics — Validation Intern
@@ -629,7 +634,6 @@ _Generated 2026-09-27_
 - Vital Lyfe — Software Engineer Intern
 - Voltus — Energy Markets Intern - Miso
 - WallStreetQuants — Quantitative Trading Intern
-- Walmart — Software Engineer 2 Intern
 - Watts Water — Product Specialist Intern - Summer 2027
 - Wealthsimple — Credit & Fraud Analytics Intern - Winter 2027
 - Wealthsimple — Software Development Intern / Data Science Intern - Multiple Teams
