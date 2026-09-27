@@ -33466,7 +33466,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-09-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72204,7 +72204,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-09-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

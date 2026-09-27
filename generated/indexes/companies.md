@@ -157,7 +157,7 @@
 | [BlackRock](../companies/blackrock.md) | 10/11 | quant, software-engineering |
 | [Blackhawk Network Holdings](../companies/blackhawk-network-holdings.md) | 2/3 | product, software-engineering |
 | [Blackstone](../companies/blackstone.md) | 0/1 | quant |
-| [Bland AI](../companies/bland-ai.md) | 1/1 | machine-learning |
+| [Bland AI](../companies/bland-ai.md) | 0/1 | machine-learning |
 | [Block](../companies/block.md) | 0/2 | research |
 | [Blockhouse](../companies/blockhouse.md) | 0/1 | ai |
 | [Bloxd](../companies/bloxd.md) | 0/1 | software-engineering |
@@ -328,7 +328,7 @@
 | [Deutsche Bank](../companies/deutsche-bank.md) | 5/6 | quant, software-engineering |
 | [Dev Technology Group](../companies/dev-technology-group.md) | 4/4 | ai, machine-learning, software-engineering |
 | [Devon Energy](../companies/devon-energy.md) | 1/1 | data-engineering |
-| [Dexmate](../companies/dexmate.md) | 2/2 | research, software-engineering |
+| [Dexmate](../companies/dexmate.md) | 1/2 | research, software-engineering |
 | [DiDi Global](../companies/didi-global.md) | 0/2 | software-engineering |
 | [Diamondback Energy](../companies/diamondback-energy.md) | 0/1 | software-engineering |
 | [Dick's Sporting Goods](../companies/dick-s-sporting-goods.md) | 3/4 | product, software-engineering |

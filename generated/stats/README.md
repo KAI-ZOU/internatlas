@@ -141,6 +141,7 @@ _Generated 2026-09-27_
 - Barclays — Technology Developer Intern - Programme
 - Barr — Data Science Intern
 - Barrios — Data and Computer Engineering/Computer Science Intern
+- Bland AI — Machine Learning Research Intern - Audio
 - Block — Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)
 - Block — Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)
 - Blue Cross and Blue Shield of Kansas — RPA Engineer Intern
@@ -220,6 +221,7 @@ _Generated 2026-09-27_
 - Dell Technologies — Software Engineering Intern
 - Deloitte — AI and Data Engineering Summer Scholar Intern - Government & Public Services
 - Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
+- Dexmate — Frontend Engineer Intern
 - Dmg Media — AI Engineer Intern - Innovation Team
 - Ecolab — Research and Development Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
