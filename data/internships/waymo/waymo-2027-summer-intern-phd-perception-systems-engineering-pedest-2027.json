@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "east-penn-manufacturing-company-power-bi-analytics-intern-2026",
+  "id": "waymo-2027-summer-intern-phd-perception-systems-engineering-pedest-2027",
   "company": {
-    "name": "East Penn Manufacturing Company",
-    "slug": "east-penn-manufacturing-company"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Power BI & Analytics Intern",
+  "role": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
   "category": "software-engineering",
-  "apply_url": "https://careers-eastpennmanufacturing.icims.com/jobs/30020/job?mobile=true&needsRedirect=false",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ann Arbor",
-      "state": "MI",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
-    "discovered": "2026-07-28",
+    "posted": "2026-09-28",
+    "discovered": "2026-09-28",
     "last_verified": "2026-09-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

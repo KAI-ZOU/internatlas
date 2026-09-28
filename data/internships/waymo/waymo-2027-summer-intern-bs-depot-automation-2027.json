@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "qorvo-software-engineer-intern-2026-48179b",
+  "id": "waymo-2027-summer-intern-bs-depot-automation-2027",
   "company": {
-    "name": "Qorvo",
-    "slug": "qorvo"
+    "name": "Waymo",
+    "slug": "waymo",
+    "career_page": "https://waymo.com/careers"
   },
-  "role": "Software Engineer Intern",
+  "role": "2027 Summer Intern, BS, Depot Automation",
   "category": "software-engineering",
-  "apply_url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern-NC-27409/1421981000/?ats=successfactors",
-  "season": "fall",
-  "year": 2026,
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Greensboro",
-      "state": "NC",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-31",
-    "discovered": "2026-08-31",
+    "posted": "2026-09-28",
+    "discovered": "2026-09-28",
     "last_verified": "2026-09-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

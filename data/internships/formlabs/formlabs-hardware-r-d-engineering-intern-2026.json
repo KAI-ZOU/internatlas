@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "radiance-technologies-software-engineer-intern-2027-a58a9b",
+  "id": "formlabs-hardware-r-d-engineering-intern-2026",
   "company": {
-    "name": "Radiance Technologies",
-    "slug": "radiance-technologies"
+    "name": "Formlabs",
+    "slug": "formlabs"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445",
-  "season": "spring",
-  "year": 2027,
+  "role": "Hardware R&D Engineering Intern",
+  "category": "hardware",
+  "apply_url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dayton",
-      "state": "OH",
+      "city": "Somerville",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-09-25",
+    "posted": "2026-08-21",
+    "discovered": "2026-09-28",
     "last_verified": "2026-09-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

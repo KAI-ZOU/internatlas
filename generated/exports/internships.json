@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-28",
-  "count": 5298,
+  "count": 5299,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2235,7 +2235,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3800,7 +3800,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -30735,7 +30735,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34402,7 +34402,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76782,7 +76782,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80252,7 +80252,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84187,7 +84187,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90252,23 +90252,18 @@
     },
     {
       "schema_version": "1.0",
-      "id": "formlabs-hardware-r-d-engineer-intern-2026",
+      "id": "formlabs-hardware-r-d-engineering-intern-2026",
       "company": {
         "name": "Formlabs",
         "slug": "formlabs"
       },
-      "role": "Hardware R&D Engineer Intern",
+      "role": "Hardware R&D Engineering Intern",
       "category": "hardware",
       "apply_url": "https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "Cambridge",
-          "state": "MA",
-          "country": "USA"
-        },
         {
           "city": "Somerville",
           "state": "MA",
@@ -90297,14 +90292,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-30",
-        "discovered": "2026-09-03",
+        "posted": "2026-08-21",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -190498,60 +190493,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "qorvo-software-engineer-intern-2026-48179b",
-      "company": {
-        "name": "Qorvo",
-        "slug": "qorvo"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern-NC-27409/1421981000/?ats=successfactors",
-      "season": "fall",
-      "year": 2026,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Greensboro",
-          "state": "NC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-31",
-        "discovered": "2026-08-31",
-        "last_verified": "2026-09-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "qorvo-software-engineer-intern-2026-a5b009",
       "company": {
         "name": "Qorvo",
@@ -190721,7 +190662,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1421952100/?ats=successfactors",
+      "apply_url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern-NC-27409/1421981000/?ats=successfactors",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -190739,7 +190680,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -193616,7 +193559,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193668,59 +193611,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "radiance-technologies-software-engineer-intern-2027-a58a9b",
-      "company": {
-        "name": "Radiance Technologies",
-        "slug": "radiance-technologies"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445",
-      "season": "spring",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Dayton",
-          "state": "OH",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-24",
-        "discovered": "2026-09-25",
-        "last_verified": "2026-09-28"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193772,7 +193663,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193787,7 +193678,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442",
+      "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445",
       "season": "spring",
       "year": 2027,
       "work_mode": "onsite",
@@ -195962,7 +195853,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197160,7 +197051,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -207190,7 +207081,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -207403,7 +207294,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209944,7 +209835,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -251078,7 +250969,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -252841,7 +252732,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -266284,7 +266175,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -278104,6 +277995,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-bs-depot-automation-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, BS, Depot Automation",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234553",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-09-28",
+        "last_verified": "2026-09-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-bs-ms-embedded-software-engineer-2027",
       "company": {
         "name": "Waymo",
@@ -280151,6 +280094,111 @@
       "dates": {
         "posted": "2026-09-10",
         "discovered": "2026-09-10",
+        "last_verified": "2026-09-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-machine-learning-research-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Machine Learning Research",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-09-28",
+        "last_verified": "2026-09-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-perception-systems-engineering-pedest-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
