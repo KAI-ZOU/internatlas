@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-09-27_
+_Generated 2026-09-28_
 
 ## Top hiring companies
 
@@ -125,9 +125,6 @@ _Generated 2026-09-27_
 - Bank of Montreal — Full Stack Engineer Intern Co-op - Data Cognition Team
 - Bank of Montreal — Hardware Asset Management Analyst Co-op Intern - 8 months
 - Bank of Montreal — Hardware Asset Management Analyst Co-op Intern - Multiple Teams
-- Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
-- Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
-- Bank of Montreal — Junior Software Developer Co-op Intern - Winter 2027 - 4 months
 - Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
 - Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
 - Bank of Montreal — Software Engineer Co-op Intern - Winter 2027
@@ -223,7 +220,6 @@ _Generated 2026-09-27_
 - Deloitte — AI Innovation Summer Scholar Intern - AI Innovation
 - Dexmate — Frontend Engineer Intern
 - Dmg Media — AI Engineer Intern - Innovation Team
-- Ecolab — Research and Development Intern
 - Eight Sleep — Prototype & Test Engineer Intern - New Product Development
 - Enact Mortgage Insurance — Commercial Analytics and Optimization Team Intern
 - Enact Mortgage Insurance — Data Science Intern
@@ -267,11 +263,35 @@ _Generated 2026-09-27_
 - Geotab — Insights & Integrations Consultancy Data Scientist Intern
 - Geotab — Software Developer Intern
 - GlobalFoundries — Systems Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — Summer Associate Intern
 - Gordon Food Service — Category Technology Intern
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
@@ -292,7 +312,6 @@ _Generated 2026-09-27_
 - ICF International — Software Developer Intern
 - Ignite Digital Services — Engineer/Scientist Intern
 - IGS Energy — Software Engineer Intern
-- InfiniteQuant — Quantitative Developer Intern
 - Intact — AI Developer Intern Co-op
 - Intact — AI Developer Intern Co-op - Winter 2027
 - Intact — Artificial Intelligence Developer Intern Co-op - Winter 2027
@@ -357,7 +376,6 @@ _Generated 2026-09-27_
 - Medpace, Inc. — Data Engineer Intern
 - Merchants Bank of Indiana — Business Technology Intern - Application Development
 - Merck — Medical Data Scientist Intern
-- Meta — Research Scientist Intern - Photorealistic Telepresence
 - Meta — Research Scientist Intern - State Estimation for Dexterous Manipulation
 - MetOx International — Data Science Intern - Spring 2027
 - Metropolitan Transportation Authority — Technology Support Intern - Emerging Talent
@@ -368,7 +386,6 @@ _Generated 2026-09-27_
 - Microsoft — AI Software Engineer Intern
 - Microsoft — Optoelectronics Device Engineer Intern
 - Microsoft — Silicon Engineer Intern
-- MKS Instruments — Business Intelligence/Data Analytics Intern
 - Moog — Embedded Design Engineering Intern
 - NationGraph — Software Engineer Intern
 - Nationwide — Analytic Consulting Advisor Intern
@@ -380,7 +397,6 @@ _Generated 2026-09-27_
 - Nomagic — Engineering Intern - Software or Hardware
 - North Atlantic Industries — Electrical Engineer Intern - Test Systems
 - Northrop Grumman — Cyber Software Engineer Intern
-- Northrop Grumman — Data Analytics Intern
 - Northrop Grumman — Digital Engineer Intern
 - Northrop Grumman — Embedded Software Engineer Intern
 - Northrop Grumman — Embedded Software Engineer Intern
@@ -544,7 +560,6 @@ _Generated 2026-09-27_
 - TD Bank — Product Management Intern Co-op
 - TD Bank — Product Management Intern/Co-op - Personal Savings & Investing
 - TD Bank — Saving & Investing Shopping & Buying Journey Intern Co-op - Saving & Investing
-- TD Bank — Software Engineer Intern - Software Engineering Rotational Program
 - Tencent — Data Product Intern
 - Tencent — Data Product Intern
 - Terranova — Controls/Robotics Intern
@@ -557,7 +572,6 @@ _Generated 2026-09-27_
 - Tesla — Embedded Software Engineer Intern - AI Platforms - Embedded Software Engineer
 - Tesla — Sensor Hardware Engineer Intern - Sensor Hardware Design Engineer - Optimus
 - Tesla — Silicon Validation Engineer Intern - AI Hardware Silicon Validation Engineer - AI Hardware
-- Tesla — Systems Architecture & Integration Engineer Intern - LV Architecture
 - Thales — Computer Science Intern Co-op
 - The Federal Reserve System — Graduate Statistical Analysis Intern - Regional & Community Outreach
 - The Hartford — Data Engineer Intern - Tech & Data Program
@@ -584,6 +598,7 @@ _Generated 2026-09-27_
 - Trillium — Equity Trader Intern
 - Tuckernuck — Product Management Intern
 - Twilio — Software Engineer Intern (January 12th start, 23 weeks)
+- Tyler Technologies — Software Development Intern - Summer 2027
 - Unify — GTM Engineering Intern
 - United Airlines — Air Traffic Strategy Data Analytics Intern - Summer 2027
 - United Airlines — Onboard Experience Intern - Summer 2027

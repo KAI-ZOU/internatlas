@@ -1,6 +1,6 @@
-# 📬 InternAtlas Weekly Digest — 2026-09-27
+# 📬 InternAtlas Weekly Digest — 2026-09-28
 
-## 🆕 New this week (398)
+## 🆕 New this week (397)
 
 - **ABB** — [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) · product · —
 - **AMD** — [AI Engineering Intern](https://careers.amd.com/jobs/91005?icims=1) · ai · —
@@ -337,7 +337,6 @@
 - **Tesla** — [Silicon Validation Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/284821) · ai · —
 - **Tesla** — [Software Engineer Industrial Firmware Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284448) · embedded · —
 - **Tesla** — [Solar Hardware Engineer Intern - PV Cell - Energy Engineering](https://www.tesla.com/careers/search/job/284489) · hardware · —
-- **The Aerospace Corporation** — [Reliability and Statistics Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) · software-engineering · —
 - **The Aerospace Corporation** — [Software Systems Engineer Intern - Acquisition](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431) · software-engineering · —
 - **The Aerospace Corporation** — [Software Tools and Assurance Intern - Information Systems and Cyber Division](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429) · software-engineering · —
 - **The Federal Reserve System** — [Research Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218) · research · —
