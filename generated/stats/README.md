@@ -137,6 +137,7 @@ _Generated 2026-09-28_
 - Barclays — Technology Developer Intern
 - Barclays — Technology Developer Intern - Programme
 - Barr — Data Science Intern
+- Barr — GIS Specialist Intern
 - Barrios — Data and Computer Engineering/Computer Science Intern
 - Bland AI — Machine Learning Research Intern - Audio
 - Block — Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)
@@ -236,6 +237,11 @@ _Generated 2026-09-28_
 - Excellus BCBS — Telecommunications Intern - Telecommunications Team
 - Fannie Mae — Treasury & Capital Markets Intern - Quantitative Research Track
 - FGS Global — Research & Insights Intern
+- Fidelity Investments — Quantitative Analyst Intern - Fixed Income Team
+- Fidelity Investments — Quantitative Research Analyst Intern - Equity Quantitative Research Team
+- Fidelity Investments — Quantitative Research Intern
+- Fidelity Investments — Quantitative Research Intern - Multi-Asset Research Team
+- Fidelity Investments — Quantitative Research Intern - Strategic Advisers
 - Figure — Firmware Intern
 - Figure — Hardware Reliability Intern
 - Finastra — AI Engineer Intern - Summer 2027
@@ -263,36 +269,13 @@ _Generated 2026-09-28_
 - Geotab — Insights & Integrations Consultancy Data Scientist Intern
 - Geotab — Software Developer Intern
 - GlobalFoundries — Systems Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gordon Food Service — Category Technology Intern
+- GovSignals — Engineering Intern
 - Gulfstream — AI Product Collegiate Associate Intern
 - Gulfstream — Azure AI Collegiate Associate Intern
 - Gulfstream — Flight Sciences / Mass Properties College Intern - IEF
@@ -333,6 +316,7 @@ _Generated 2026-09-28_
 - Keysight Technologies — Full Stack Intern
 - Kinaxis — Developer Intern Co-op - Machine Learning
 - Kinaxis — Software Developer Co-op/Intern - Core Algorithms
+- Kinaxis — Software Engineer Co-op/Intern - Data Modeling & Integration
 - Kodiak Robotics — AI/ML Intern - Artificial Intelligence/Machine Learning
 - L3Harris Technologies — Configuration Management Intern
 - L3Harris Technologies — Electrical Engineer Intern
@@ -358,6 +342,7 @@ _Generated 2026-09-28_
 - Mackenzie Investments — Data Science Intern
 - Mackenzie Investments — Platform Developer Intern - Platform Developer
 - Mackenzie Investments — Quantitative Developer Intern - Investment Management - Fixed Income Platform Engineering
+- Mackenzie Investments — Winter Intern - Investment Management - Multi-Asset
 - Marathon Petroleum — Marketing Analyst – Intern to Full-Time Conversion
 - Marvell — Analog Design Intern
 - Marvell — Analog Design Intern
@@ -371,6 +356,8 @@ _Generated 2026-09-28_
 - Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mastercard — Data Engineer Intern
 - Mastercard — Data Scientist Intern - Summer 2027
+- Mastercard — Product Management Intern
+- Mastercard — Product Management Intern
 - Mastercard — Software Engineer Intern
 - Medline — Software Development Intern - Summer 2027
 - Medpace, Inc. — Data Engineer Intern
@@ -500,6 +487,7 @@ _Generated 2026-09-28_
 - RTX — FPGA Design Intern
 - RTX — Numerical Methods Intern - Advanced Software Development
 - RTX — Software Developer Intern
+- RTX — Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer
 - RTX — Software Development Intern - Summer 2027
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern

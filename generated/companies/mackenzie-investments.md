@@ -7,7 +7,6 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Mackenzie Investments | [Intern](https://careersen-mackenzieinvestments.icims.com/jobs/6014/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
-| Mackenzie Investments | [Winter Intern - Investment Management - Multi-Asset](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false) | Winnipeg +1 | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Mackenzie Investments | [Data Engineering Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5983/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | Mackenzie Investments | [Data Science and AI Specialist Intern - Investment Management - Fundamental Equity](https://careersen-mackenzieinvestments.icims.com/jobs/5938/job?mobile=true&needsRedirect=false) | Greater Toronto Area | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | Mackenzie Investments | [Data Science Intern](https://careersen-mackenzieinvestments.icims.com/jobs/5977/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -15,6 +14,7 @@
 | Mackenzie Investments | [Platform Developer Intern - Platform Developer](https://careersen-mackenzieinvestments.icims.com/jobs/5992/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | Mackenzie Investments | [Quantitative Developer Intern - Investment Management - Fixed Income Platform Engineering](https://careersen-mackenzieinvestments.icims.com/jobs/5998/job?mobile=true&needsRedirect=false) | Ontario | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | Mackenzie Investments | [Technology Engineering Intern](https://careersen-mackenzieinvestments.icims.com/jobs/6000/job?mobile=true&needsRedirect=false) | Toronto | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| Mackenzie Investments | [Winter Intern - Investment Management - Multi-Asset](https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false) | Winnipeg +1 | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
