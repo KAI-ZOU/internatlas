@@ -1,21 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
+  "id": "hudson-river-trading-algorithm-development-quant-research-trading-internship-summ-2027",
   "company": {
     "name": "Hudson River Trading",
-    "slug": "hudson-river-trading"
+    "slug": "hudson-river-trading",
+    "career_page": "https://www.hudsonrivertrading.com/careers"
   },
-  "role": "Algorithm Development Intern - Quant Research",
+  "role": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
   "category": "quant",
   "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
     {
       "city": "London",
       "country": "USA"
@@ -44,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "discovered": "2026-09-28",
     "last_verified": "2026-09-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

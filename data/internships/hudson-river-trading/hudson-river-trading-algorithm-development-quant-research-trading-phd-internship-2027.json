@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "upbound-group-software-engineer-intern-2027-a01465",
+  "id": "hudson-river-trading-algorithm-development-quant-research-trading-phd-internship-2027",
   "company": {
-    "name": "Upbound Group",
-    "slug": "upbound-group"
+    "name": "Hudson River Trading",
+    "slug": "hudson-river-trading",
+    "career_page": "https://www.hudsonrivertrading.com/careers"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761",
+  "role": "Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027",
+  "category": "quant",
+  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Plano",
-      "state": "TX",
+      "city": "London",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-21",
-    "discovered": "2026-09-21",
+    "posted": "2026-07-13",
+    "discovered": "2026-09-28",
     "last_verified": "2026-09-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

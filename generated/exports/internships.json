@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-28",
-  "count": 5302,
+  "count": 5298,
   "internships": [
     {
       "schema_version": "1.0",
@@ -19993,12 +19993,12 @@
     },
     {
       "schema_version": "1.0",
-      "id": "appian-software-engineer-intern-2027",
+      "id": "appian-software-engineering-intern-2027-172919",
       "company": {
         "name": "Appian",
         "slug": "appian"
       },
-      "role": "Software Engineer Intern",
+      "role": "Software Engineering Intern",
       "category": "software-engineering",
       "apply_url": "https://job-boards.greenhouse.io/appian/jobs/8041237",
       "season": "summer",
@@ -20033,14 +20033,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-23",
-        "discovered": "2026-09-18",
+        "posted": "2026-07-27",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -40103,9 +40103,9 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-21",
-        "last_verified": "2026-09-25"
+        "last_verified": "2026-09-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -42526,9 +42526,9 @@
       "dates": {
         "posted": "2026-08-28",
         "discovered": "2026-07-29",
-        "last_verified": "2026-09-27"
+        "last_verified": "2026-09-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -47098,60 +47098,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "caci-software-engineer-intern-summer-2027-2027-7996a9",
-      "company": {
-        "name": "CACI",
-        "slug": "caci"
-      },
-      "role": "Software Engineer Intern - Summer 2027",
-      "category": "software-engineering",
-      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Lisle",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-09",
-        "discovered": "2026-09-14",
-        "last_verified": "2026-09-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "caci-software-engineer-intern-summer-2027-2027-e2843f",
       "company": {
         "name": "CACI",
@@ -47213,19 +47159,14 @@
       },
       "role": "Software Engineer Intern - Summer 2027",
       "category": "software-engineering",
-      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999",
+      "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Sterling",
-          "state": "VA",
-          "country": "USA"
-        },
-        {
-          "city": "Denver",
-          "state": "CO",
+          "city": "Lisle",
+          "state": "IL",
           "country": "USA"
         }
       ],
@@ -47253,15 +47194,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-14",
+        "posted": "2026-09-09",
         "discovered": "2026-09-09",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify",
-        "remote-available"
+        "src:simplify"
       ]
     },
     {
@@ -52361,7 +52301,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52544,7 +52484,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86918,7 +86858,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -88654,7 +88594,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98199,9 +98139,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-15",
-        "last_verified": "2026-09-27"
+        "last_verified": "2026-09-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98310,9 +98250,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-15",
-        "last_verified": "2026-09-27"
+        "last_verified": "2026-09-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98547,9 +98487,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-15",
-        "last_verified": "2026-09-27"
+        "last_verified": "2026-09-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101130,7 +101070,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101235,7 +101175,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101288,7 +101228,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101341,7 +101281,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101393,7 +101333,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101445,7 +101385,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101499,7 +101439,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101552,7 +101492,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101603,7 +101543,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101657,7 +101597,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101708,7 +101648,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101759,7 +101699,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101810,7 +101750,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101862,7 +101802,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101913,7 +101853,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102025,7 +101965,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027-904d14",
+      "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -102040,57 +101980,6 @@
         {
           "city": "Salt Lake City",
           "state": "UT",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-americas-engineering-2027",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Americas - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/171564?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -102173,7 +102062,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102224,7 +102113,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102278,7 +102167,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102332,7 +102221,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102385,7 +102274,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102439,7 +102328,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102541,7 +102430,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102696,7 +102585,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105036,7 +104925,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105234,7 +105123,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113374,79 +113263,19 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027-92c392",
+      "id": "hudson-river-trading-algorithm-development-quant-research-trading-internship-summ-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
       },
-      "role": "Algorithm Development Intern - Quant Research",
-      "category": "quant",
-      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "London",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-08-04",
-        "last_verified": "2026-09-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
-      "company": {
-        "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
-      },
-      "role": "Algorithm Development Intern - Quant Research",
+      "role": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
       "category": "quant",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
         {
           "city": "London",
           "country": "USA"
@@ -113475,13 +113304,65 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-17",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hudson-river-trading-algorithm-development-quant-research-trading-phd-internship-2027",
+      "company": {
+        "name": "Hudson River Trading",
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
+      },
+      "role": "Algorithm Development (Quant Research & Trading) PhD Internship – Summer 2027",
+      "category": "quant",
+      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-09-28",
+        "last_verified": "2026-09-28"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -113502,10 +113383,6 @@
         {
           "city": "New York",
           "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -113543,22 +113420,19 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-data-scientist-intern-2027",
+      "id": "hudson-river-trading-data-scientist-intern-2027-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
       },
-      "role": "Data Scientist Intern",
+      "role": "Data Scientist Intern - 2027",
       "category": "data-science",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        },
         {
           "city": "London",
           "country": "USA"
@@ -113587,33 +113461,30 @@
       },
       "dates": {
         "posted": "2026-09-22",
-        "discovered": "2026-09-23",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-hardware-engineer-intern-2027",
+      "id": "hudson-river-trading-hardware-engineer-internship-summer-2027-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
       },
-      "role": "Hardware Engineer Intern",
+      "role": "Hardware Engineer Internship - Summer 2027",
       "category": "hardware",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
         {
           "city": "New York",
           "state": "NY",
@@ -113643,13 +113514,13 @@
       },
       "dates": {
         "posted": "2026-08-31",
-        "discovered": "2026-09-01",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
@@ -113821,13 +113692,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-software-engineer-intern-c-or-python-2027",
+      "id": "hudson-river-trading-software-engineering-internship-c-or-python-summer-2027-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
       },
-      "role": "Software Engineer Intern - C++ or Python",
-      "category": "software-engineering",
+      "role": "Software Engineering Internship (C++ or Python) – Summer 2027",
+      "category": "quant",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
       "season": "summer",
       "year": 2027,
@@ -113836,15 +113708,6 @@
         {
           "city": "Austin",
           "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
           "country": "USA"
         }
       ],
@@ -113871,33 +113734,30 @@
       },
       "dates": {
         "posted": "2026-07-13",
-        "discovered": "2026-07-17",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-trading-and-technology-internship-witti-2027",
+      "id": "hudson-river-trading-women-in-trading-and-technology-internship-witti-winter-2027-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
       },
-      "role": "Trading and Technology Internship - Witti",
+      "role": "Women in Trading and Technology Internship (WiTTI) – Winter 2027",
       "category": "quant",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8188637",
-      "season": "winter",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
         {
           "city": "New York",
           "state": "NY",
@@ -113927,13 +113787,13 @@
       },
       "dates": {
         "posted": "2026-09-14",
-        "discovered": "2026-09-14",
+        "discovered": "2026-09-28",
         "last_verified": "2026-09-28"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
@@ -171442,7 +171302,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171496,7 +171356,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171984,7 +171844,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182502,7 +182362,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184452,7 +184312,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194881,9 +194741,9 @@
       "dates": {
         "posted": "2026-08-26",
         "discovered": "2026-08-26",
-        "last_verified": "2026-09-27"
+        "last_verified": "2026-09-28"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -196778,7 +196638,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -203179,7 +203039,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203695,7 +203555,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -205996,7 +205856,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208817,7 +208677,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -211005,61 +210865,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-2027-e29389",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Cambridge",
-          "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-19",
-        "discovered": "2026-09-26",
-        "last_verified": "2026-09-28"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-e4a660",
       "company": {
         "name": "RTX",
@@ -211281,14 +211086,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878082",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Cedar Rapids",
-          "state": "IA",
+          "city": "Cambridge",
+          "state": "MA",
           "country": "USA"
         }
       ],
@@ -211316,7 +211121,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-25",
+        "posted": "2026-09-19",
         "discovered": "2026-07-27",
         "last_verified": "2026-09-28"
       },
@@ -249245,7 +249050,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -249297,7 +249102,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -269421,7 +269226,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -269473,59 +269278,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "upbound-group-software-engineer-intern-2027-a01465",
-      "company": {
-        "name": "Upbound Group",
-        "slug": "upbound-group"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Plano",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-21",
-        "discovered": "2026-09-21",
-        "last_verified": "2026-09-28"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -269540,14 +269293,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759",
+      "apply_url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Draper",
-          "state": "UT",
+          "city": "Plano",
+          "state": "TX",
           "country": "USA"
         }
       ],
@@ -284737,7 +284490,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-09-28"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

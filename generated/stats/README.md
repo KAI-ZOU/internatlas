@@ -10,7 +10,7 @@ _Generated 2026-09-28_
 |---|---|
 | Tesla | 201 |
 | TikTok | 168 |
-| RTX | 128 |
+| RTX | 127 |
 | AMD | 76 |
 | American Express | 70 |
 | ByteDance | 70 |
@@ -33,9 +33,9 @@ _Generated 2026-09-28_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3149 | `███████████████` |
+| software-engineering | 3144 | `███████████████` |
 | ai | 414 | `██` |
-| quant | 317 | `█` |
+| quant | 318 | `██` |
 | machine-learning | 232 | `█` |
 | data-science | 203 | `█` |
 | hardware | 203 | `█` |
@@ -170,11 +170,9 @@ _Generated 2026-09-28_
 - Booz Allen — Systems Engineer Intern - Summer Games
 - BorgWarner — Validation Intern
 - Bosch Home Comfort — Product Management Intern
-- Boston Scientific — Data Engineer Intern
 - Boston Scientific — Data Science Engineer Intern
 - Boston Scientific — Software Engineer Intern - Interns/Graduates
 - Boston Scientific — Software Engineer Intern - R&D
-- Brunswick — Software Engineer Intern
 - By Light Professional IT Services — AI Intern
 - CACI — Software Developer/Data Scientist Intern - Summer 2027
 - CACI — Software Engineer Intern
@@ -190,6 +188,8 @@ _Generated 2026-09-28_
 - Castleton Commodities International — Commodities Trading Analyst Intern
 - CCC Intelligent Solutions — Data Science Intern - R&D
 - Centene — Data and Analytics Intern - Undergraduate
+- Charles Schwab — Data Engineering Intern - Data Engineering
+- Charles Schwab — Software Engineering Intern - Technology
 - Chemours — Data Visualization Analyst Intern
 - Ciena — Layout Design Intern - Fall 2026
 - Ciena — Wavelogic Systems Design Architecture Intern
@@ -241,11 +241,13 @@ _Generated 2026-09-28_
 - Fidelity Investments — Quantitative Research Analyst Intern - Equity Quantitative Research Team
 - Fidelity Investments — Quantitative Research Intern
 - Fidelity Investments — Quantitative Research Intern - Multi-Asset Research Team
+- Fidelity Investments — Quantitative Research Intern - Multi-Asset Systematic Research Team
 - Fidelity Investments — Quantitative Research Intern - Strategic Advisers
 - Figure — Firmware Intern
 - Figure — Hardware Reliability Intern
 - Finastra — AI Engineer Intern - Summer 2027
 - First Citizens BancShares — IT Intern - Software Developer
+- First Citizens BancShares — Quantitative Analysis Intern - Quantitative Analysis
 - Formlabs — AI Software Intern
 - Formlabs — Embedded Software Intern - Winter/Spring 2027
 - Frontier Health — Applied Scientist / Research Engineer Intern
@@ -254,9 +256,6 @@ _Generated 2026-09-28_
 - GE Aerospace — Applied AI Intern
 - Genentech — Digital Sciences Intern - Product Technical Development
 - General Dynamics Information Technology — Software Development Intern
-- General Motors — Motorsports Strategy Intern - Sportscar Motorsports Strategy
-- General Motors — Race Strategy & Analytics Intern - IndyCar
-- General Motors — Summer Intern - Performance Analysis
 - Genesis Molecular AI — Machine Learning Research Intern
 - Genesis Molecular AI — Machine Learning Research Intern - PhD
 - Genesis Molecular AI — Software Engineer Intern
@@ -269,11 +268,36 @@ _Generated 2026-09-28_
 - Geotab — Insights & Integrations Consultancy Data Scientist Intern
 - Geotab — Software Developer Intern
 - GlobalFoundries — Systems Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - AWM Product Management
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
+- Goldman Sachs — Summer Associate Intern
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Google — Software Engineer Intern - Multiple Teams
+- Google — Software Engineer Intern - Multiple Teams
 - Gordon Food Service — Category Technology Intern
 - GovSignals — Engineering Intern
 - Gulfstream — AI Product Collegiate Associate Intern
@@ -398,10 +422,13 @@ _Generated 2026-09-28_
 - NVIDIA — PhD Research Intern
 - NVIDIA — PhD Research Intern - Circuits
 - NVIDIA — PhD Research Intern - Generalist Embodied Agents Research
+- NVIDIA — PhD Research Intern - Generative AI for Physical AI
+- NVIDIA — PhD Research Intern - Quantum Simulation and AI
 - NVIDIA — Physical Design and Timing Engineer Intern
 - NVIDIA — Product Management MBA Intern - Data Center GPU
 - NVIDIA — Quantum and Chemistry Research Intern - Quantum and AI for Chemistry
 - NVIDIA — Research Intern
+- NVIDIA — Research Intern - Electronic Design Automation
 - NVIDIA — Research Intern - Robotics
 - NXP Semiconductors — Functional Safety Intern
 - NXP Semiconductors — Microcontrollers System Engineering Intern
@@ -419,7 +446,9 @@ _Generated 2026-09-28_
 - Paccar — Software Developer Intern
 - Parsons — Software Developer Intern - Fall 2026/Spring 2027
 - Persona — Software Engineer Intern
+- Philips — AI Engineer Intern - Enterprise AI & Workflow Automation
 - Philips — Software Engineer Intern
+- Planview — Software Engineer Intern
 - Plastipak — Software Engineer Intern
 - Postman — AI Engineer Intern
 - PricewaterhouseCoopers (PwC) — Contracts Intern - Deals - Summer 2027
@@ -434,21 +463,23 @@ _Generated 2026-09-28_
 - Procter & Gamble — Research and Development PhD Intern - Life Cycle Assessment - Data Science
 - Qorvo — RFIC Design Engineer Intern
 - Qorvo — RFIC Design Intern
-- Realm — Software Engineer Intern
 - Regions Bank — Technology Intern - Multiple Teams
 - Regions Bank — Technology, Operations, Digital, and Data Analytics Intern
 - Renesas Electronics — Validation Intern
 - Resultant — Data & Analytics Consultant Intern - Summer 2027
+- Revantage Corporate Services — Quantitative Developer Intern
 - RGA Reinsurance Company — Data Science/AI Intern
 - Rivet Industries — Software Engineer Intern - XR Team - Fall 2026
 - Robert Bosch Venture Capital — AI Engineering Intern
 - ROCKWOOL Group — Product Management Intern
+- Rothesay — Quantitative Strategist Intern
 - Royal Bank of Canada — AI and Stress Testing Analytics Intern - Group Risk Management
 - Royal Bank of Canada — AI Applications Intern
 - Royal Bank of Canada — AI Applications Intern - Group Risk Management
 - Royal Bank of Canada — AI & Stress Testing Analytics Intern - Group Risk Management
 - Royal Bank of Canada — ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk
 - Royal Bank of Canada — ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk
+- Royal Bank of Canada — Capital Markets Analyst Intern
 - Royal Bank of Canada — Data & AI Intern - Balance Sheet and Liquidity Risk
 - Royal Bank of Canada — Data & AI Intern - Group Risk Management - Balance Sheet and Liquidity Risk
 - Royal Bank of Canada — Data Analyst Developer Intern - 8 Months - Group Risk Management
@@ -477,6 +508,7 @@ _Generated 2026-09-28_
 - Royal Bank of Canada — Strategic Delivery Intern - MCCR
 - Royal Bank of Canada — Strategic Delivery Intern - MCCR
 - Royal Bank of Canada — Wealth Management Technology Intern
+- RRS Group — Associate Software Engineer Intern - Sophomore Only
 - RSM — Application Development Intern - Summer 2027
 - RSM — Tax Digital Services Intern - AI Engineering
 - RTX — Customer Data Management and Analysis Intern
@@ -486,6 +518,7 @@ _Generated 2026-09-28_
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — FPGA Design Intern
 - RTX — Numerical Methods Intern - Advanced Software Development
+- RTX — Operations Software Engineering Intern - Summer 2027
 - RTX — Software Developer Intern
 - RTX — Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer
 - RTX — Software Development Intern - Summer 2027
@@ -569,6 +602,8 @@ _Generated 2026-09-28_
 - The Nuclear Company — AI/ML Engineer Intern - Platform Integration & AI/Data
 - The Toro Company — Embedded Software Engineering Intern
 - The Walt Disney Company — Computer Science / Computer Engineering Intern - Multiple Teams
+- The Walt Disney Company — Consumer Insight Data Analyst Intern
+- The Walt Disney Company — Consumer Insight Data Analyst Intern
 - The Walt Disney Company — Costuming Project Analyst Intern - Spring 2027
 - The Walt Disney Company — Show Control Software Intern
 - Thomson Reuters — Research Scientist Intern
@@ -597,6 +632,8 @@ _Generated 2026-09-28_
 - United Airlines — Sales Product Intern
 - United Airlines — Tech Ops Analytics & Business Intelligence Intern - Summer 2027
 - University of St. Thomas — Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub
+- Upbound Group — Digital Commerce Intern
+- Upbound Group — Software Engineer Intern
 - Urban Science — Data Driven Analysis Intern - Fall 2026
 - USAA — AI/ML Engineer Intern
 - USAA — Data Scientist Intern
@@ -629,6 +666,7 @@ _Generated 2026-09-28_
 - Wex — Backend Software Engineer Intern - Java & AI - Master's
 - Wex — Full-Stack Software Engineer Intern - Undergraduate
 - Wex — Software Engineer Intern - AI & Cloud
+- Xcel Energy — AI Solutions Development Intern
 - Xpansiv — Product Management Intern - AI Products
 - Xsolla — AI Engineer Intern
 - Xsolla — AI-First Engineer Intern

@@ -1,29 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-software-engineer-intern-c-or-python-2027",
+  "id": "hudson-river-trading-hardware-engineer-internship-summer-2027-2027",
   "company": {
     "name": "Hudson River Trading",
-    "slug": "hudson-river-trading"
+    "slug": "hudson-river-trading",
+    "career_page": "https://www.hudsonrivertrading.com/careers"
   },
-  "role": "Software Engineer Intern - C++ or Python",
-  "category": "software-engineering",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083",
+  "role": "Hardware Engineer Internship - Summer 2027",
+  "category": "hardware",
+  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -49,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-07-17",
+    "posted": "2026-08-31",
+    "discovered": "2026-09-28",
     "last_verified": "2026-09-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
