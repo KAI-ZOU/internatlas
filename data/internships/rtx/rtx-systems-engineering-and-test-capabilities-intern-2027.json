@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-electrical-engineer-intern-summer-2027-2027-09b55d",
+  "id": "rtx-systems-engineering-and-test-capabilities-intern-2027",
   "company": {
     "name": "RTX",
     "slug": "rtx"
   },
-  "role": "Electrical Engineer Intern - Summer 2027",
+  "role": "Systems Engineering and Test Capabilities Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Electrical-Engineering-Intern--Summer-2027-_01868034",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineering-and-Test-Capabilities-Intern---Summer-2027_01866497",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
+      "city": "Tucson",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-04",
-    "last_verified": "2026-09-08"
+    "posted": "2026-08-17",
+    "discovered": "2026-09-29",
+    "last_verified": "2026-09-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
