@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "cloudflare-software-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Cloudflare",
+    "slug": "cloudflare"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
-  "season": "summer",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8199958",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-25",
+    "posted": "2026-09-29",
+    "discovered": "2026-09-29",
     "last_verified": "2026-09-29"
   },
   "status": "open",

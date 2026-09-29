@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-29",
-  "count": 5307,
+  "count": 5314,
   "internships": [
     {
       "schema_version": "1.0",
@@ -16098,7 +16098,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -40105,7 +40105,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58957,6 +58957,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cloudflare-software-engineer-intern-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8199958",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-software-engineer-intern-fall-2026-2026",
       "company": {
         "name": "Cloudflare",
@@ -70977,7 +71029,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81148,7 +81200,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "epic-games-machine-learning-intern-special-projects-epic-research-group-2027-eae52d",
+      "id": "epic-games-machine-learning-intern-special-projects-epic-research-group-2027",
       "company": {
         "name": "Epic Games",
         "slug": "epic-games"
@@ -81192,63 +81244,9 @@
       "dates": {
         "posted": "2026-08-07",
         "discovered": "2026-08-07",
-        "last_verified": "2026-09-25"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "epic-games-machine-learning-intern-special-projects-epic-research-group-2027",
-      "company": {
-        "name": "Epic Games",
-        "slug": "epic-games"
-      },
-      "role": "Machine Learning Intern - Special Projects - Epic Research Group",
-      "category": "machine-learning",
-      "apply_url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-07",
-        "discovered": "2026-08-07",
-        "last_verified": "2026-09-26"
-      },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92827,7 +92825,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98190,7 +98188,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98242,7 +98240,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98590,7 +98588,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101169,9 +101167,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-27",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101274,9 +101272,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101327,9 +101325,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-26",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101380,9 +101378,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101432,9 +101430,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101484,9 +101482,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-21",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101538,9 +101536,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-16",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101591,9 +101589,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101642,9 +101640,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-25",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101696,9 +101694,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101747,9 +101745,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101798,9 +101796,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-26",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101849,9 +101847,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101901,9 +101899,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101952,9 +101950,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102110,7 +102108,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102161,9 +102159,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102212,60 +102210,6 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-26",
-        "last_verified": "2026-09-28"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-summer-analyst-intern-engineering-2027-3e3ccf",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Summer Analyst Intern - Engineering",
-      "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/177808?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-25",
         "last_verified": "2026-09-28"
       },
       "status": "closed",
@@ -102337,14 +102281,15 @@
       },
       "role": "Summer Analyst Intern - Engineering",
       "category": "software-engineering",
-      "apply_url": "https://higher.gs.com/roles/170637?type=students",
+      "apply_url": "https://higher.gs.com/roles/177808?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Birmingham",
-          "country": "UK"
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -102373,9 +102318,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102427,9 +102372,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102529,9 +102474,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102684,9 +102629,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102737,9 +102682,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-09-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110418,7 +110363,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138096,7 +138041,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138150,7 +138095,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142270,7 +142215,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150176,7 +150121,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -152460,7 +152405,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -153732,7 +153677,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -245846,6 +245791,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "the-aerospace-corporation-software-engineering-intern-software-tools-and-assurance-2027",
+      "company": {
+        "name": "The Aerospace Corporation",
+        "slug": "the-aerospace-corporation"
+      },
+      "role": "Software Engineering Intern - Software Tools and Assurance",
+      "category": "software-engineering",
+      "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-aerospace-corporation-software-systems-engineer-intern-acquisition-2027",
       "company": {
         "name": "The Aerospace Corporation",
@@ -247017,7 +247016,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -250117,6 +250116,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "the-walt-disney-company-marketplace-portfolio-insights-intern-spring-2027-2027-8b6538",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Marketplace & Portfolio Insights Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "the-walt-disney-company-marketplace-portfolio-insights-intern-spring-2027-2027",
+      "company": {
+        "name": "The Walt Disney Company",
+        "slug": "the-walt-disney-company"
+      },
+      "role": "Marketplace & Portfolio Insights Intern - Spring 2027",
+      "category": "software-engineering",
+      "apply_url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Marketplace---Portfolio-Insights-Intern--Spring-2027_10158498",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "the-walt-disney-company-menu-planning-intern-2027",
       "company": {
         "name": "The Walt Disney Company",
@@ -251349,6 +251450,58 @@
         "last_verified": "2026-09-16"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "thrivent-application-engineer-intern-investments-2027",
+      "company": {
+        "name": "Thrivent",
+        "slug": "thrivent"
+      },
+      "role": "Application Engineer Intern - Investments",
+      "category": "software-engineering",
+      "apply_url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Minneapolis",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -256754,7 +256907,7 @@
         "discovered": "2026-08-14",
         "last_verified": "2026-09-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -272678,6 +272831,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "verizon-communications-business-intelligence-intern-fiber-engineering-operations-tr-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Business Intelligence Intern - Fiber Engineering & Operations - Transformation & Business Enablement",
+      "category": "software-engineering",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Business-Intelligence-Summer-2027-Internship_R-1101387",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irving",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-data-science-intern-network-and-technology-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Data Science Intern - Network and Technology",
+      "category": "data-science",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irving",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verizon-communications-data-scientist-intern-fiber-engineering-operations-2027",
+      "company": {
+        "name": "Verizon Communications",
+        "slug": "verizon-communications"
+      },
+      "role": "Data Scientist Intern - Fiber Engineering & Operations",
+      "category": "data-science",
+      "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irving",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "verizon-communications-marketing-technology-intern-consumer-group-2027",
       "company": {
         "name": "Verizon Communications",
@@ -276986,6 +277295,58 @@
       "dates": {
         "posted": "2026-09-17",
         "discovered": "2026-09-18",
+        "last_verified": "2026-09-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "w-w-grainger-business-analyst-intern-2027",
+      "company": {
+        "name": "W.W. Grainger",
+        "slug": "w-w-grainger"
+      },
+      "role": "Business Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.grainger.com/ImperialSupplies/job/GREEN-BAY-Business-Analyst-Intern-WI-54301-5160/1434550000/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Green Bay",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-29",
         "last_verified": "2026-09-29"
       },
       "status": "open",

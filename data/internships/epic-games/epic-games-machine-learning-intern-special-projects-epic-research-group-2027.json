@@ -7,14 +7,14 @@
   },
   "role": "Machine Learning Intern - Special Projects - Epic Research Group",
   "category": "machine-learning",
-  "apply_url": "https://epicgames.com/careers/jobs/5708589004?gh_jid=5708589004",
-  "season": "summer",
+  "apply_url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Montreal",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -44,9 +44,9 @@
   "dates": {
     "posted": "2026-08-07",
     "discovered": "2026-08-07",
-    "last_verified": "2026-09-26"
+    "last_verified": "2026-09-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

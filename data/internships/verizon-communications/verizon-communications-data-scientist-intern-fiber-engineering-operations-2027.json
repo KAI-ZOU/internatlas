@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "epic-games-machine-learning-intern-special-projects-epic-research-group-2027-eae52d",
+  "id": "verizon-communications-data-scientist-intern-fiber-engineering-operations-2027",
   "company": {
-    "name": "Epic Games",
-    "slug": "epic-games"
+    "name": "Verizon Communications",
+    "slug": "verizon-communications"
   },
-  "role": "Machine Learning Intern - Special Projects - Epic Research Group",
-  "category": "machine-learning",
-  "apply_url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004",
-  "season": "winter",
+  "role": "Data Scientist Intern - Fiber Engineering & Operations",
+  "category": "data-science",
+  "apply_url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
+      "city": "Irving",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-07",
-    "discovered": "2026-08-07",
-    "last_verified": "2026-09-25"
+    "posted": "2026-09-29",
+    "discovered": "2026-09-29",
+    "last_verified": "2026-09-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
