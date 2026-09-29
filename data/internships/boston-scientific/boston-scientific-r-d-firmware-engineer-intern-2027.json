@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-software-engineering-sys-intel-ml-2027",
+  "id": "boston-scientific-r-d-firmware-engineer-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Boston Scientific",
+    "slug": "boston-scientific"
   },
-  "role": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
-  "category": "machine-learning",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234161",
+  "role": "R&D Firmware Engineer Intern",
+  "category": "embedded",
+  "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813547669",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Arden Hills",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -27,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -44,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-25",
-    "discovered": "2026-09-25",
-    "last_verified": "2026-09-28"
+    "posted": "2026-09-29",
+    "discovered": "2026-09-29",
+    "last_verified": "2026-09-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

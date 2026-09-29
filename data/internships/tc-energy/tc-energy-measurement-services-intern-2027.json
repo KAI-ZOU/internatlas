@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-phd-machine-learning-research-2027",
+  "id": "tc-energy-measurement-services-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "TC Energy",
+    "slug": "tc-energy"
   },
-  "role": "2027 Summer Intern, PhD, Machine Learning Research",
-  "category": "machine-learning",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8237997",
+  "role": "Measurement Services Intern",
+  "category": "software-engineering",
+  "apply_url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Intern--Measurement-Services_JR-10976",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Charleston",
+      "state": "WV",
       "country": "USA"
     }
   ],
@@ -42,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-09-28",
-    "discovered": "2026-09-28",
-    "last_verified": "2026-09-28"
+    "discovered": "2026-09-29",
+    "last_verified": "2026-09-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
