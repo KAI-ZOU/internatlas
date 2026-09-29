@@ -1,22 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-bs-ms-software-engineer-2027",
+  "id": "waymo-software-engineer-intern-bs-ms-2027",
   "company": {
     "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "slug": "waymo"
   },
-  "role": "2027 Summer Intern, BS/MS, Software Engineer",
+  "role": "Software Engineer Intern - BS/MS",
   "category": "software-engineering",
   "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "San Francisco",
-      "country": "USA"
-    },
     {
       "city": "SF",
       "country": "USA"
@@ -47,12 +42,12 @@
   },
   "dates": {
     "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "discovered": "2026-09-29",
     "last_verified": "2026-09-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

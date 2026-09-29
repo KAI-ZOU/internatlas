@@ -1,29 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-ic-validation-engineer-intern-ms-multiple-teams-2027-5e56be",
+  "id": "marvell-board-product-engineer-intern-bs-2027",
   "company": {
     "name": "Marvell",
     "slug": "marvell"
   },
-  "role": "IC Validation Engineer Intern - MS - Multiple Teams",
+  "role": "Board Product Engineer Intern - BS",
   "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/IC-Validation-Engineer-Intern--MS---Summer-2027_2604515",
+  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Board-Product-Engineer-Intern--BS---Summer-2027_2603833",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Irvine",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
       "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Westlake Village",
       "state": "CA",
       "country": "USA"
     }
@@ -35,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -52,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-21",
+    "discovered": "2026-09-29",
     "last_verified": "2026-09-29"
   },
   "status": "open",

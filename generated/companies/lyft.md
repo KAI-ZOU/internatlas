@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Lyft | [Applied Scientist Intern](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) | SF | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Data Analyst Intern](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Data Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Lyft | [Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
