@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "invesco-early-career-intern-technology-2027-1e6077",
+  "id": "rtx-electrical-design-engineer-intern-2027",
   "company": {
-    "name": "Invesco",
-    "slug": "invesco"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Early Career Intern - Technology",
-  "category": "software-engineering",
-  "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619",
+  "role": "Electrical Design Engineer Intern",
+  "category": "design",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Windsor Locks",
+      "state": "CT",
       "country": "USA"
     }
   ],
@@ -41,8 +41,8 @@
   },
   "dates": {
     "posted": "2026-09-29",
-    "discovered": "2026-09-29",
-    "last_verified": "2026-09-29"
+    "discovered": "2026-09-30",
+    "last_verified": "2026-09-30"
   },
   "status": "open",
   "tags": [

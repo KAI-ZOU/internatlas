@@ -42,9 +42,9 @@
   "dates": {
     "posted": "2026-06-09",
     "discovered": "2026-08-25",
-    "last_verified": "2026-09-25"
+    "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:ats"
