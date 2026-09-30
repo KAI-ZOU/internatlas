@@ -14,8 +14,8 @@ _Generated 2026-09-30_
 | AMD | 76 |
 | ByteDance | 70 |
 | American Express | 69 |
+| Marvell | 69 |
 | Booz Allen | 67 |
-| Marvell | 65 |
 | Royal Bank of Canada | 54 |
 | Qorvo | 52 |
 | Jump Trading | 49 |
@@ -33,15 +33,15 @@ _Generated 2026-09-30_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3206 | `███████████████` |
-| ai | 425 | `██` |
+| software-engineering | 3216 | `███████████████` |
+| ai | 426 | `██` |
 | quant | 316 | `█` |
-| machine-learning | 236 | `█` |
+| machine-learning | 237 | `█` |
 | data-science | 211 | `█` |
 | hardware | 208 | `█` |
 | product | 175 | `█` |
 | research | 170 | `█` |
-| design | 143 | `█` |
+| design | 144 | `█` |
 | embedded | 130 | `█` |
 | data-engineering | 98 | `█` |
 | cloud | 56 | `█` |
@@ -51,29 +51,29 @@ _Generated 2026-09-30_
 
 - 2026-09-30 — **Amazon**: [Applied Science Intern - Information & Knowledge Management](https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting)
 - 2026-09-30 — **AMCA**: [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009)
+- 2026-09-30 — **Assurant**: [Software Engineer Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727)
 - 2026-09-30 — **CACI**: [Software/Network Engineering Intern](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895)
+- 2026-09-30 — **DraftKings**: [Analytics Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187)
+- 2026-09-30 — **ITT**: [Data Analytics / AI Intern - Summer 2027](https://careersenus-itt-inc.icims.com/jobs/17657/job?mobile=true&needsRedirect=false)
+- 2026-09-30 — **Marvell**: [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1)
+- 2026-09-30 — **Marvell**: [Product Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839)
+- 2026-09-30 — **Marvell**: [Product Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1)
+- 2026-09-30 — **Marvell**: [Test Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002)
+- 2026-09-30 — **Marvell**: [Test Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1)
+- 2026-09-30 — **Muon Space**: [Flight Software Engineer Intern](https://job-boards.greenhouse.io/muonspace/jobs/5247725007)
 - 2026-09-30 — **Northrop Grumman**: [Embedded Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790)
 - 2026-09-30 — **Northrop Grumman**: [Hardware Electronics Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1)
 - 2026-09-30 — **Northrop Grumman**: [Software Digital Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812)
+- 2026-09-30 — **Patch My PC**: [Software Engineer Intern](https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply)
+- 2026-09-30 — **Rivian**: [Engineering Intern/Co-op - Design Verification - Neural Engine](https://careers.rivian.com/jobs/33833?icims=1)
+- 2026-09-30 — **Rivian**: [Engineering Intern Co-op - Machine Learning Hardware](https://careers.rivian.com/jobs/33820?icims=1)
 - 2026-09-30 — **Robinhood**: [Data Science Intern](https://boards.greenhouse.io/robinhood/jobs/8241738)
 - 2026-09-30 — **RTX**: [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986)
-- 2026-09-30 — **Tesla**: [Embedded Software Developer Intern - Vehicle Suspension](https://www.tesla.com/careers/search/job/285153)
-- 2026-09-30 — **Tesla**: [Embedded Software Engineer Intern - Silicon Development](https://www.tesla.com/careers/search/job/285084)
-- 2026-09-30 — **Tesla**: [Software Developer Intern - Integration Tools](https://www.tesla.com/careers/search/job/284924)
-- 2026-09-30 — **Waymo**: [2027 Summer Intern, BS, Software Engineering, Labeling](https://careers.withwaymo.com/jobs?gh_jid=8238525)
-- 2026-09-30 — **Waymo**: [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198)
-- 2026-09-30 — **Wellmark**: [Software Engineer Intern - Metadata Enablement Team](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699)
-- 2026-09-29 — **Acuity**: [Finance AI Engineering Intern](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors)
-- 2026-09-29 — **Acuity**: [Finance AI Product Management Intern](https://careers.acuityinc.com/job/Atlanta-Finance-AI-Product-Management-Intern-Onsite-GA-30309/1434874300/?ats=successfactors)
-- 2026-09-29 — **Acuity**: [Product Management Technology Intern](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors)
-- 2026-09-29 — **Alexion**: [Development Operations AI & Automation Enablement Co-op Intern](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415)
-- 2026-09-29 — **AMCA**: [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009)
-- 2026-09-29 — **Anduril**: [2026 Guidance, Navigation & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007)
 
 ## Recently closed
 
 - AArete — Business Analytics Intern - Summer 2027
-- ABB — Application Engineering Intern
+- AArete — Data Architecture & Engineering Intern
 - ABB — Application Engineering Intern - Summer 2027
 - AbbVie — Business Technology Solutions Intern - Data & Software Engineering
 - Abridge — Software Engineer Intern
@@ -84,7 +84,11 @@ _Generated 2026-09-30_
 - AlixPartners — Data Scientist Intern
 - Allegheny County — Business Analytics Intern
 - Alliance Laundry Systems — Data & Analytics Intern
+- Allied Solutions — Data Governance Intern
+- Allied Solutions — Data Science Intern - Data Intelligence
 - Allied Solutions — IT Performance Analyst Intern
+- Allied Solutions — Product Management Intern - Risk Management
+- Allied Solutions — Sales Analytics Intern
 - Allied Solutions — Software Engineer Intern
 - Amazon — Applied Science Intern - Multiple Teams
 - Amazon — Applied Science Intern - PhD Student Science Recruiting
@@ -153,6 +157,7 @@ _Generated 2026-09-30_
 - Belden — R&D Cable Intern
 - Bland AI — Machine Learning Research Intern - Audio
 - Blue Cross and Blue Shield of Kansas — RPA Engineer Intern
+- BlueCross BlueShield of Nebraska — Digital Experience Information Systems Intern
 - BlueCross BlueShield of Nebraska — Healthcare Reimbursement Analytics Intern - Summer 2027
 - Booz Allen — Data Scientist Intern
 - Booz Allen — Data Scientist Intern
@@ -297,23 +302,15 @@ _Generated 2026-09-30_
 - Geotab — Software Developer Intern
 - GlobalFoundries — Design Application Engineering Intern
 - GlobalFoundries — Systems Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Software Engineer Intern - Multiple Teams
 - Google — Software Engineer Intern - Multiple Teams
 - Gordon Food Service — Category Technology Intern
@@ -334,8 +331,6 @@ _Generated 2026-09-30_
 - Highgate — Revenue Management Intern - Summer 2027
 - Highgate — Revenue Management Intern - Summer 2027
 - Highgate — Revenue Management Intern - Summer 2027
-- Hitachi — Onboard Software Developer Intern
-- Hitachi Energy — Electrical Component Engineering Intern
 - HMH — Software Engineer Intern
 - Hone Health — Data Engineering Intern
 - Howden — Analytics Intern
@@ -402,7 +397,6 @@ _Generated 2026-09-30_
 - Marvell — Analog Design Intern
 - Marvell — Applied Machine Learning Scientist Intern
 - Marvell — Design/DSP/Verification Intern
-- Marvell — Firmware Engineer Intern
 - Marvell — Firmware Engineer Intern
 - Marvell — Reliability Intern
 - Marvell — Reliability Intern
@@ -475,7 +469,6 @@ _Generated 2026-09-30_
 - NVIDIA — Quantum and Chemistry Research Intern - Quantum and AI for Chemistry
 - NVIDIA — Research Intern
 - NVIDIA — Research Intern - Electronic Design Automation
-- NVIDIA — Research Intern - Robotics
 - NVIDIA — Software Engineering Intern
 - NXP Semiconductors — Device Engineering Intern - Summer 2027
 - NXP Semiconductors — Functional Safety Intern
@@ -530,6 +523,7 @@ _Generated 2026-09-30_
 - Revantage Corporate Services — Quantitative Developer Intern
 - RF-SMART — Software Support Engineer Intern - Netsuite
 - RGA Reinsurance Company — Data Science/AI Intern
+- Rho — Quantitative Analyst Intern
 - Rivet Industries — Software Engineer Intern - XR Team - Fall 2026
 - Robert Bosch Venture Capital — AI Engineering Intern
 - Robinhood — iOS Software Developer Intern
@@ -549,6 +543,7 @@ _Generated 2026-09-30_
 - Royal Bank of Canada — AI & Stress Testing Analytics Intern - Group Risk Management
 - Royal Bank of Canada — ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk
 - Royal Bank of Canada — ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk
+- Royal Bank of Canada — Capital Markets AidenEdge Program Winter Analyst Intern
 - Royal Bank of Canada — Capital Markets Analyst Intern
 - Royal Bank of Canada — Data & AI Intern - Balance Sheet and Liquidity Risk
 - Royal Bank of Canada — Data & AI Intern - Group Risk Management - Balance Sheet and Liquidity Risk
@@ -705,6 +700,7 @@ _Generated 2026-09-30_
 - TJX — IT Engineer Intern
 - TMEIC Corporation Americas — Applications Intern - AI and Machine Learning
 - Tower Research Capital — Software Engineer Intern - Summer 2027
+- Toyota Research Institute — Robotics Research Intern - Post-Training
 - Tradeweb — Application Software Engineering Internship - IFI Application
 - Tradeweb — C++ Distributed Systems Developer Intern - C++ Core Services
 - Tradeweb — Data Platform Intern
