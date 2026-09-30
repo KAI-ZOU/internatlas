@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-investment-banking-2027",
+  "id": "invesco-early-career-intern-digital-asset-product-2027-5c1c84",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Invesco",
+    "slug": "invesco"
   },
-  "role": "Quantitative Strategist Intern - Investment Banking",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175428?type=students",
+  "role": "Early Career Intern - Digital Asset Product",
+  "category": "software-engineering",
+  "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "NYC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-14",
+    "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

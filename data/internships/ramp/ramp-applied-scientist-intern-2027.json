@@ -1,22 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-investment-banking-2027",
+  "id": "ramp-applied-scientist-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Ramp",
+    "slug": "ramp",
+    "career_page": "https://ramp.com/careers"
   },
-  "role": "Quantitative Strategist Intern - Investment Banking",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175428?type=students",
+  "role": "Applied Scientist Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "London",
-      "country": "UK"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -39,13 +35,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-09-15",
+    "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
