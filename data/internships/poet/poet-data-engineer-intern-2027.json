@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "poet-data-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "POET",
+    "slug": "poet"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
+  "role": "Data Engineer Intern",
+  "category": "data-engineering",
+  "apply_url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Sioux Falls",
+      "state": "SD",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-25",
+    "posted": "2026-09-28",
+    "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

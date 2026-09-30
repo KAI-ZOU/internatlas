@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | AMCA | [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009) | El Segundo, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
+| AMCA | [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) | El Segundo, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

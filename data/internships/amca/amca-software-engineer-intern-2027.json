@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-ams-validation-intern-2027-5f14df",
+  "id": "amca-software-engineer-intern-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "AMCA",
+    "slug": "amca"
   },
-  "role": "AMS Validation Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AMS-Validation-Intern_2603863",
+  "apply_url": "https://job-boards.greenhouse.io/amca/jobs/4425120009",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
+      "city": "El Segundo",
       "state": "CA",
       "country": "USA"
     }
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
+    "posted": "2026-09-30",
     "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-ams-validation-intern-2027-5f14df",
+  "id": "td-bank-data-analytics-insights-intern-co-op-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "TD Bank",
+    "slug": "td-bank"
   },
-  "role": "AMS Validation Intern",
+  "role": "Data Analytics & Insights Intern Co-op",
   "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AMS-Validation-Intern_2603863",
-  "season": "summer",
+  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern---Co-op--Winter-2027-_R_1513914",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
+    },
+    {
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -44,7 +47,7 @@
     "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

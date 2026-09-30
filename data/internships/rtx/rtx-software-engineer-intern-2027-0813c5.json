@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
+  "id": "rtx-software-engineer-intern-2027-0813c5",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Quantitative Strategist Intern - Multiple Teams",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175424?type=students",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Richardson",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-26",
+    "posted": "2026-09-29",
+    "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

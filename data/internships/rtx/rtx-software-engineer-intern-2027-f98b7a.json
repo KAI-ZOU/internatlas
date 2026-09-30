@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-ams-validation-intern-2027-5f14df",
+  "id": "rtx-software-engineer-intern-2027-f98b7a",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "AMS Validation Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AMS-Validation-Intern_2603863",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01874951",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Largo",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -44,7 +46,7 @@
     "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
