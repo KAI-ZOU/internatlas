@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "block-applied-research-intern-proactive-intelligence-customer-worl-2027-05ffb6",
+  "id": "rtx-software-engineer-intern-2027-34bce1",
   "company": {
-    "name": "Block",
-    "slug": "block",
-    "career_page": "https://block.xyz/careers"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
-  "category": "research",
-  "apply_url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
+      "city": "Cedar Rapids",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-06-09",
-    "discovered": "2026-08-25",
+    "posted": "2026-09-29",
+    "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

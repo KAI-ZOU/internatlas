@@ -1,24 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "american-express-software-engineer-intern-enterprise-technology-services-2027-40ddcf",
+  "id": "block-applied-research-intern-co-op-2026",
   "company": {
-    "name": "American Express",
-    "slug": "american-express"
+    "name": "Block",
+    "slug": "block"
   },
-  "role": "Software Engineer Intern - Enterprise Technology Services",
-  "category": "software-engineering",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
-  "season": "summer",
-  "year": 2027,
+  "role": "Applied Research Intern Co-op",
+  "category": "research",
+  "apply_url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     },
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "Toronto",
       "country": "USA"
     }
   ],
@@ -29,9 +28,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -46,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-18",
+    "posted": "2026-06-09",
+    "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
   "status": "open",

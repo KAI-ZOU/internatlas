@@ -1,6 +1,6 @@
 {
   "generated": "2026-09-30",
-  "count": 5371,
+  "count": 5380,
   "internships": [
     {
       "schema_version": "1.0",
@@ -488,7 +488,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5590,6 +5590,60 @@
       "dates": {
         "posted": "2026-07-23",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-applied-science-intern-information-knowledge-management-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Applied Science Intern - Information & Knowledge Management",
+      "category": "software-engineering",
+      "apply_url": "https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-09-30",
         "last_verified": "2026-09-30"
       },
       "status": "open",
@@ -15510,7 +15564,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15662,64 +15716,6 @@
       "dates": {
         "posted": "2026-08-17",
         "discovered": "2026-08-17",
-        "last_verified": "2026-09-30"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "american-express-software-engineer-intern-enterprise-technology-services-2027-40ddcf",
-      "company": {
-        "name": "American Express",
-        "slug": "american-express"
-      },
-      "role": "Software Engineer Intern - Enterprise Technology Services",
-      "category": "software-engineering",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-17",
-        "discovered": "2026-08-18",
         "last_verified": "2026-09-30"
       },
       "status": "open",
@@ -16001,14 +15997,18 @@
       },
       "role": "Software Engineer Intern - Enterprise Technology Services",
       "category": "software-engineering",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Sunrise",
-          "state": "FL",
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -16036,7 +16036,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-18",
+        "posted": "2026-08-17",
         "discovered": "2026-08-17",
         "last_verified": "2026-09-30"
       },
@@ -18429,6 +18429,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "anduril-2026-guidance-navigation-control-engineer-intern-2027",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers"
+      },
+      "role": "2026 Guidance, Navigation & Control Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sydney",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "anduril-2026-mechanical-engineering-intern-2027",
       "company": {
         "name": "Anduril",
@@ -18627,7 +18679,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -18679,7 +18731,7 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-15",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -18783,7 +18835,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -18835,7 +18887,7 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -18939,7 +18991,7 @@
       "dates": {
         "posted": "2026-06-11",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -19095,7 +19147,7 @@
       "dates": {
         "posted": "2026-06-10",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -33740,19 +33792,22 @@
     },
     {
       "schema_version": "1.0",
-      "id": "block-applied-research-intern-proactive-intelligence-customer-worl-2027-05ffb6",
+      "id": "block-applied-research-intern-co-op-2026",
       "company": {
         "name": "Block",
-        "slug": "block",
-        "career_page": "https://block.xyz/careers"
+        "slug": "block"
       },
-      "role": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+      "role": "Applied Research Intern Co-op",
       "category": "research",
       "apply_url": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
-      "season": "summer",
-      "year": 2027,
+      "season": "fall",
+      "year": 2026,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        },
         {
           "city": "Toronto",
           "country": "USA"
@@ -33781,30 +33836,34 @@
       },
       "dates": {
         "posted": "2026-06-09",
-        "discovered": "2026-08-25",
+        "discovered": "2026-09-30",
         "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "block-applied-research-intern-proactive-intelligence-customer-worl-2027",
+      "id": "block-applied-research-intern-phd-graduate-co-op-2026",
       "company": {
         "name": "Block",
-        "slug": "block",
-        "career_page": "https://block.xyz/careers"
+        "slug": "block"
       },
-      "role": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+      "role": "Applied Research Intern PhD / Graduate Co-op",
       "category": "research",
       "apply_url": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
-      "season": "summer",
-      "year": 2027,
+      "season": "fall",
+      "year": 2026,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "Oakland",
+          "state": "CA",
+          "country": "USA"
+        },
         {
           "city": "Bay Area",
           "state": "CA",
@@ -33834,13 +33893,13 @@
       },
       "dates": {
         "posted": "2026-06-09",
-        "discovered": "2026-08-25",
+        "discovered": "2026-09-30",
         "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -37060,7 +37119,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60586,7 +60645,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79146,7 +79205,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -95841,7 +95900,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95895,7 +95954,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95903,7 +95962,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ge-vernova-hardware-automation-and-test-engineering-intern-spring-summe-2027-a397f2",
+      "id": "ge-vernova-hardware-automation-and-test-engineering-intern-spring-summe-2027",
       "company": {
         "name": "GE Vernova",
         "slug": "ge-vernova"
@@ -95931,58 +95990,6 @@
         "degree_levels": [
           "masters"
         ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-09",
-        "discovered": "2026-09-09",
-        "last_verified": "2026-09-30"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "ge-vernova-hardware-automation-and-test-engineering-intern-spring-summe-2027",
-      "company": {
-        "name": "GE Vernova",
-        "slug": "ge-vernova"
-      },
-      "role": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
-      "category": "hardware",
-      "apply_url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-1",
-      "season": "spring",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Rochester",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -96055,7 +96062,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96109,7 +96116,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101762,7 +101769,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101867,7 +101874,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101920,7 +101927,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101973,7 +101980,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102025,7 +102032,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102077,7 +102084,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102131,7 +102138,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102184,7 +102191,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102235,7 +102242,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102289,7 +102296,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102340,7 +102347,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102391,7 +102398,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102442,7 +102449,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102494,7 +102501,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102545,7 +102552,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102701,7 +102708,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102754,7 +102761,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102913,7 +102920,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102967,7 +102974,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103069,7 +103076,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103224,7 +103231,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103277,7 +103284,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111859,7 +111866,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123808,7 +123815,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "invesco-early-career-intern-technology-2027",
+      "id": "invesco-early-career-intern-technology-2027-1e6077",
       "company": {
         "name": "Invesco",
         "slug": "invesco"
@@ -123816,6 +123823,58 @@
       "role": "Early Career Intern - Technology",
       "category": "software-engineering",
       "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "invesco-early-career-intern-technology-2027",
+      "company": {
+        "name": "Invesco",
+        "slug": "invesco"
+      },
+      "role": "Early Career Intern - Technology",
+      "category": "software-engineering",
+      "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -124275,6 +124334,114 @@
         "last_verified": "2026-09-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "itron-data-science-intern-distributed-intelligence-2027-0277b9",
+      "company": {
+        "name": "Itron",
+        "slug": "itron"
+      },
+      "role": "Data Science Intern - Distributed Intelligence",
+      "category": "data-science",
+      "apply_url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Liberty Lake",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "itron-data-science-intern-distributed-intelligence-2027",
+      "company": {
+        "name": "Itron",
+        "slug": "itron"
+      },
+      "role": "Data Science Intern - Distributed Intelligence",
+      "category": "data-science",
+      "apply_url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Liberty Lake",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -157356,6 +157523,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "moog-artificial-intelligence-intern-2026",
+      "company": {
+        "name": "Moog",
+        "slug": "moog"
+      },
+      "role": "Artificial Intelligence Intern",
+      "category": "ai",
+      "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "moog-computer-science-intern-information-technology-2026",
       "company": {
         "name": "Moog",
@@ -168893,7 +169114,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168947,7 +169168,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171352,7 +171573,7 @@
       "dates": {
         "posted": "2026-09-29",
         "discovered": "2026-09-29",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -171404,7 +171625,7 @@
       "dates": {
         "posted": "2025-10-22",
         "discovered": "2026-07-18",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-09-30"
       },
       "status": "open",
       "tags": [
@@ -177192,7 +177413,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197072,7 +197293,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202499,6 +202720,58 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robinhood-data-science-intern-2027",
+      "company": {
+        "name": "Robinhood",
+        "slug": "robinhood"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8241738",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Menlo Park",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -208217,7 +208490,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210635,7 +210908,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -211312,7 +211585,7 @@
         "discovered": "2026-08-22",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -211894,6 +212167,61 @@
         "last_verified": "2026-09-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-34bce1",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cedar Rapids",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-29",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -216804,7 +217132,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -239381,6 +239709,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-embedded-software-developer-intern-vehicle-suspension-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Embedded Software Developer Intern - Vehicle Suspension",
+      "category": "embedded",
+      "apply_url": "https://www.tesla.com/careers/search/job/285153",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-embedded-software-engineer-intern-ai-platforms-embedded-soft-2026",
       "company": {
         "name": "Tesla",
@@ -239789,6 +240169,58 @@
       "dates": {
         "posted": "2026-09-03",
         "discovered": "2026-09-04",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-embedded-software-engineer-intern-silicon-development-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Embedded Software Engineer Intern - Silicon Development",
+      "category": "embedded",
+      "apply_url": "https://www.tesla.com/careers/search/job/285084",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-09-30",
         "last_verified": "2026-09-30"
       },
       "status": "open",
@@ -243350,6 +243782,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-software-developer-intern-integration-tools-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Developer Intern - Integration Tools",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/284924",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-09-30",
+        "last_verified": "2026-09-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -248406,7 +248890,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -250191,7 +250675,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-09-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

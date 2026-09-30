@@ -7,14 +7,18 @@
   },
   "role": "Software Engineer Intern - Enterprise Technology Services",
   "category": "software-engineering",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015",
+  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunrise",
-      "state": "FL",
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -42,7 +46,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-18",
+    "posted": "2026-08-17",
     "discovered": "2026-08-17",
     "last_verified": "2026-09-30"
   },

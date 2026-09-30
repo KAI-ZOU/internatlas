@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ge-vernova-hardware-automation-and-test-engineering-intern-spring-summe-2027-a397f2",
+  "id": "itron-data-science-intern-distributed-intelligence-2027",
   "company": {
-    "name": "GE Vernova",
-    "slug": "ge-vernova"
+    "name": "Itron",
+    "slug": "itron"
   },
-  "role": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
-  "category": "hardware",
-  "apply_url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Hardware-Automation-and-Test-Engineering-Intern---Spring-Summer-2027_R5051788-2",
-  "season": "spring",
+  "role": "Data Science Intern - Distributed Intelligence",
+  "category": "data-science",
+  "apply_url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Rochester",
-      "state": "NY",
+      "city": "Liberty Lake",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-09-09",
+    "posted": "2026-09-28",
+    "discovered": "2026-09-30",
     "last_verified": "2026-09-30"
   },
   "status": "open",
