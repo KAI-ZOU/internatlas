@@ -5,17 +5,13 @@
     "name": "American Express",
     "slug": "american-express"
   },
-  "role": "Software Engineer Intern - Technology",
+  "role": "Software Engineer Intern, Technology",
   "category": "software-engineering",
   "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
     {
       "city": "New York",
       "state": "NY",
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
+    "posted": "2026-08-21",
     "discovered": "2026-08-17",
     "last_verified": "2026-10-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

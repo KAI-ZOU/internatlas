@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-7d8d40",
+  "id": "southwest-airlines-sales-analytics-intern-2027",
   "company": {
-    "name": "American Express",
-    "slug": "american-express"
+    "name": "Southwest Airlines",
+    "slug": "southwest-airlines"
   },
-  "role": "Data Engineer Intern - Enterprise Technology Services",
-  "category": "data-engineering",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831",
+  "role": "Sales Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Sales-Analytics-Internship_R-2026-73022",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunrise",
-      "state": "FL",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-10-01",
+    "discovered": "2026-10-01",
     "last_verified": "2026-10-01"
   },
   "status": "open",

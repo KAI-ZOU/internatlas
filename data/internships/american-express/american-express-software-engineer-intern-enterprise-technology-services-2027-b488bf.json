@@ -5,7 +5,7 @@
     "name": "American Express",
     "slug": "american-express"
   },
-  "role": "Software Engineer Intern - Enterprise Technology Services",
+  "role": "Software Engineer Intern, Enterprise Technology Services",
   "category": "software-engineering",
   "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
   "season": "summer",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
+    "posted": "2026-08-21",
     "discovered": "2026-08-17",
     "last_verified": "2026-10-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

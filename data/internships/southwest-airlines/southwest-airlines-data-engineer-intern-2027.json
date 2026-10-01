@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-ficc-and-equities-sales-and-trading-2027",
+  "id": "southwest-airlines-data-engineer-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Southwest Airlines",
+    "slug": "southwest-airlines"
   },
-  "role": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/181628?type=students",
+  "role": "Data Engineer Intern",
+  "category": "data-engineering",
+  "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "West Palm Beach",
-      "state": "FL",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-10-01",
+    "discovered": "2026-10-01",
     "last_verified": "2026-10-01"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

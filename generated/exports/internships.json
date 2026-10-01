@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-01",
-  "count": 5436,
+  "count": 5440,
   "internships": [
     {
       "schema_version": "1.0",
@@ -4430,7 +4430,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -12734,7 +12734,7 @@
         "name": "American Express",
         "slug": "american-express"
       },
-      "role": "AI Engineer Intern - Enterprise Technology Services",
+      "role": "AI Engineer Intern, Enterprise Technology Services",
       "category": "ai",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
       "season": "summer",
@@ -12769,14 +12769,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-17",
+        "posted": "2026-08-21",
         "discovered": "2026-08-17",
         "last_verified": "2026-10-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -12786,7 +12786,7 @@
         "name": "American Express",
         "slug": "american-express"
       },
-      "role": "AI Engineer Intern - Enterprise Technology Services",
+      "role": "AI Engineer Intern, Enterprise Technology Services",
       "category": "ai",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
       "season": "summer",
@@ -12821,14 +12821,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-17",
+        "posted": "2026-08-21",
         "discovered": "2026-08-17",
         "last_verified": "2026-10-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -13413,7 +13413,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13467,61 +13467,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "american-express-data-analytics-intern-enterprise-technology-services-2027-1626dc",
-      "company": {
-        "name": "American Express",
-        "slug": "american-express"
-      },
-      "role": "Data Analytics Intern - Enterprise Technology Services",
-      "category": "software-engineering",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Palo Alto",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-01",
-        "discovered": "2026-09-01",
-        "last_verified": "2026-10-01"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13572,7 +13518,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13624,7 +13570,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13746,14 +13692,14 @@
       },
       "role": "Data Analytics Intern - Enterprise Technology Services",
       "category": "software-engineering",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Charlotte",
-          "state": "NC",
+          "city": "Palo Alto",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -13764,7 +13710,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -14003,58 +13951,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-7d8d40",
-      "company": {
-        "name": "American Express",
-        "slug": "american-express"
-      },
-      "role": "Data Engineer Intern - Enterprise Technology Services",
-      "category": "data-engineering",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Sunrise",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-01",
-        "discovered": "2026-09-01",
-        "last_verified": "2026-10-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "american-express-data-engineer-intern-enterprise-technology-services-2027-e0e8bb",
       "company": {
         "name": "American Express",
@@ -14101,7 +13997,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14168,14 +14064,14 @@
       },
       "role": "Data Engineer Intern - Enterprise Technology Services",
       "category": "data-engineering",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Charlotte",
-          "state": "NC",
+          "city": "Sunrise",
+          "state": "FL",
           "country": "USA"
         }
       ],
@@ -14522,7 +14418,7 @@
         "discovered": "2026-08-03",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14627,7 +14523,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14733,7 +14629,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15271,10 +15167,6 @@
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
           "city": "New York",
           "state": "NY",
           "country": "USA"
@@ -15309,7 +15201,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -15785,7 +15677,7 @@
         "name": "American Express",
         "slug": "american-express"
       },
-      "role": "Software Engineer Intern - Enterprise Technology Services",
+      "role": "Software Engineer Intern, Enterprise Technology Services",
       "category": "software-engineering",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781",
       "season": "summer",
@@ -15820,14 +15712,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-18",
+        "posted": "2026-08-21",
         "discovered": "2026-08-18",
         "last_verified": "2026-10-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -15943,7 +15835,7 @@
         "name": "American Express",
         "slug": "american-express"
       },
-      "role": "Software Engineer Intern - Enterprise Technology Services",
+      "role": "Software Engineer Intern, Enterprise Technology Services",
       "category": "software-engineering",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
       "season": "summer",
@@ -15978,14 +15870,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-17",
+        "posted": "2026-08-21",
         "discovered": "2026-08-17",
         "last_verified": "2026-10-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -16107,17 +15999,13 @@
         "name": "American Express",
         "slug": "american-express"
       },
-      "role": "Software Engineer Intern - Technology",
+      "role": "Software Engineer Intern, Technology",
       "category": "software-engineering",
       "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
         {
           "city": "New York",
           "state": "NY",
@@ -16146,14 +16034,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-17",
+        "posted": "2026-08-21",
         "discovered": "2026-08-17",
         "last_verified": "2026-10-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -77269,7 +77157,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77338,62 +77226,10 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "duolingo-software-engineer-intern-thrive-2027-e75d22",
-      "company": {
-        "name": "Duolingo",
-        "slug": "duolingo"
-      },
-      "role": "Software Engineer Intern - Thrive",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Pittsburgh",
-          "state": "PA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-15",
-        "discovered": "2026-09-16",
-        "last_verified": "2026-10-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
       ]
     },
     {
@@ -77405,7 +77241,7 @@
       },
       "role": "Software Engineer Intern - Thrive",
       "category": "software-engineering",
-      "apply_url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+      "apply_url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -102611,7 +102447,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102716,7 +102552,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102731,14 +102567,14 @@
       },
       "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "apply_url": "https://higher.gs.com/roles/175427?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -102821,7 +102657,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102873,7 +102709,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102927,7 +102763,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102980,7 +102816,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102995,15 +102831,14 @@
       },
       "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -103085,7 +102920,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103100,14 +102935,14 @@
       },
       "role": "Quantitative Strategist Intern - Multiple Teams",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "apply_url": "https://higher.gs.com/roles/175424?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "London",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -103188,7 +103023,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103239,7 +103074,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103395,7 +103230,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103448,7 +103283,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103607,7 +103442,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103661,7 +103496,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103763,7 +103598,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103918,7 +103753,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103971,7 +103806,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143871,7 +143706,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150065,60 +149900,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "mckesson-software-engineer-intern-2027-58caa6",
-      "company": {
-        "name": "McKesson",
-        "slug": "mckesson"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Longmont",
-          "state": "CO",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-02",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-10-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "mckesson-software-engineer-intern-2027-c401f9",
       "company": {
         "name": "McKesson",
@@ -150183,7 +149964,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
+      "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -156299,8 +156080,14 @@
       "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
       "season": "summer",
       "year": 2027,
-      "work_mode": "remote",
-      "locations": [],
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
       "compensation": {
         "currency": "USD",
         "housing_stipend": false,
@@ -156326,14 +156113,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-04",
+        "posted": "2026-08-03",
         "discovered": "2026-08-03",
         "last_verified": "2026-10-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -159008,7 +158795,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159224,7 +159011,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165987,7 +165774,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175959,7 +175746,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190852,7 +190639,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190904,7 +190691,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -212682,6 +212469,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-embedded-software-engineer-intern-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "East Hartford",
+          "state": "CT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-engine-control-system-simulation-developer-intern-2027",
       "company": {
         "name": "RTX",
@@ -227795,6 +227634,370 @@
       "dates": {
         "posted": "2026-09-29",
         "discovered": "2026-09-30",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-customer-experience-and-analytics-data-science-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Customer Experience and Analytics Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-data-engineer-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-digital-product-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Digital Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-digital-testing-optimization-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Digital Testing & Optimization Intern",
+      "category": "software-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-safety-analytics-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Safety Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-sales-analytics-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Sales Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Sales-Analytics-Internship_R-2026-73022",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "southwest-airlines-software-engineer-intern-2027",
+      "company": {
+        "name": "Southwest Airlines",
+        "slug": "southwest-airlines"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
         "last_verified": "2026-10-01"
       },
       "status": "open",
@@ -272753,7 +272956,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -279135,7 +279338,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -294077,7 +294280,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
