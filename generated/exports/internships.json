@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-01",
-  "count": 5440,
+  "count": 5453,
   "internships": [
     {
       "schema_version": "1.0",
@@ -14049,7 +14049,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28157,7 +28157,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50189,6 +50189,74 @@
     },
     {
       "schema_version": "1.0",
+      "id": "capital-one-mba-product-intern-2027",
+      "company": {
+        "name": "Capital One",
+        "slug": "capital-one"
+      },
+      "role": "MBA Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Richmond",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "capital-one-mobile-software-engineer-intern-2027",
       "company": {
         "name": "Capital One",
@@ -64308,9 +64376,9 @@
       "dates": {
         "posted": "2026-09-11",
         "discovered": "2026-09-12",
-        "last_verified": "2026-09-24"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -64360,9 +64428,9 @@
       "dates": {
         "posted": "2026-09-11",
         "discovered": "2026-09-11",
-        "last_verified": "2026-09-25"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77278,7 +77346,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93945,7 +94013,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102552,7 +102620,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102605,7 +102673,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102657,7 +102725,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102709,7 +102777,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102763,7 +102831,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102816,7 +102884,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102869,7 +102937,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102920,7 +102988,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102971,7 +103039,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103023,7 +103091,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103074,7 +103142,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103230,7 +103298,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103598,7 +103666,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103753,7 +103821,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103806,7 +103874,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113856,9 +113924,9 @@
       "dates": {
         "posted": "2026-09-17",
         "discovered": "2026-09-17",
-        "last_verified": "2026-09-27"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123776,7 +123844,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143293,7 +143361,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -155900,9 +155968,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156062,7 +156130,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156292,9 +156360,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156565,9 +156633,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156627,7 +156695,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "microsoft-software-engineer-intern-coreai-2027",
+      "id": "microsoft-software-engineer-intern-coreai-2027-7a33f3",
       "company": {
         "name": "Microsoft",
         "slug": "microsoft"
@@ -156641,6 +156709,58 @@
       "locations": [
         {
           "city": "Multiple Locations",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-03",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-software-engineer-intern-coreai-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Software Engineer Intern - CoreAI",
+      "category": "software-engineering",
+      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
           "country": "USA"
         }
       ],
@@ -156675,7 +156795,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -156724,9 +156844,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162350,7 +162470,7 @@
         "discovered": "2026-08-13",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171457,7 +171577,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177502,6 +177622,58 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-09-03",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "old-mission-quantitative-trader-intern-2027",
+      "company": {
+        "name": "Old Mission",
+        "slug": "old-mission"
+      },
+      "role": "Quantitative Trader Intern",
+      "category": "quant",
+      "apply_url": "https://www.oldmissioncapital.com/careers/?gh_jid=8002345003",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
         "last_verified": "2026-10-01"
       },
       "status": "open",
@@ -190825,7 +190997,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -211238,7 +211410,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214143,6 +214315,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-2241ce",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineer-intern-2027-2640c5",
       "company": {
         "name": "RTX",
@@ -214675,6 +214899,60 @@
         "last_verified": "2026-08-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-531fd7",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Annapolis",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -215690,9 +215968,9 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-21",
-        "last_verified": "2026-09-26"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -216386,58 +216664,6 @@
         "last_verified": "2026-08-20"
       },
       "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-summer-2027-2027-28fe4b",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern - Summer 2027",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Fort Wayne",
-          "state": "IN",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-30",
-        "discovered": "2026-09-30",
-        "last_verified": "2026-10-01"
-      },
-      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -217473,14 +217699,14 @@
       },
       "role": "Software Engineer Intern - Summer 2027",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Huntsville",
-          "state": "AL",
+          "city": "Fort Wayne",
+          "state": "IN",
           "country": "USA"
         }
       ],
@@ -217508,7 +217734,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-27",
+        "posted": "2026-09-30",
         "discovered": "2026-08-05",
         "last_verified": "2026-10-01"
       },
@@ -218149,6 +218375,58 @@
         "last_verified": "2026-09-11"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rubrik-product-growth-intern-mba-2027",
+      "company": {
+        "name": "Rubrik",
+        "slug": "rubrik"
+      },
+      "role": "Product Growth Intern - MBA",
+      "category": "software-engineering",
+      "apply_url": "https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228116,6 +228394,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "space-dynamics-laboratory-fpga-electrical-engineer-intern-civil-commercial-space-divis-2027",
+      "company": {
+        "name": "Space Dynamics Laboratory",
+        "slug": "space-dynamics-laboratory"
+      },
+      "role": "FPGA Electrical Engineer Intern - Civil & Commercial Space Division",
+      "category": "hardware",
+      "apply_url": "https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "North Logan",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "spacex-engineering-intern-2026",
       "company": {
         "name": "SpaceX",
@@ -232258,6 +232588,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "stripe-data-analyst-intern-2027-2852b4",
+      "company": {
+        "name": "Stripe",
+        "slug": "stripe",
+        "career_page": "https://stripe.com/jobs/university"
+      },
+      "role": "Data Analyst, Intern",
+      "category": "software-engineering",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194291",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stripe-data-analyst-intern-2027",
+      "company": {
+        "name": "Stripe",
+        "slug": "stripe",
+        "career_page": "https://stripe.com/jobs/university"
+      },
+      "role": "Data Analyst, Intern",
+      "category": "software-engineering",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194287",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "stripe-financial-data-analyst-intern-technical-operations-2027",
       "company": {
         "name": "Stripe",
@@ -232413,6 +232847,110 @@
       "dates": {
         "posted": "2026-09-22",
         "discovered": "2026-09-22",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stripe-phd-data-scientist-intern-2027-14f577",
+      "company": {
+        "name": "Stripe",
+        "slug": "stripe",
+        "career_page": "https://stripe.com/jobs/university"
+      },
+      "role": "PhD Data Scientist, Intern",
+      "category": "data-science",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194285",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stripe-phd-data-scientist-intern-2027",
+      "company": {
+        "name": "Stripe",
+        "slug": "stripe",
+        "career_page": "https://stripe.com/jobs/university"
+      },
+      "role": "PhD Data Scientist, Intern",
+      "category": "data-science",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8194283",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
         "last_verified": "2026-10-01"
       },
       "status": "open",
@@ -240773,9 +241311,9 @@
       "dates": {
         "posted": "2026-08-28",
         "discovered": "2026-08-28",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -270915,9 +271453,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277683,6 +278221,112 @@
         "last_verified": "2026-09-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "varda-space-avionics-engineering-intern-2027",
+      "company": {
+        "name": "Varda Space",
+        "slug": "varda-space"
+      },
+      "role": "Avionics Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010158003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "varda-space-flight-software-intern-2027",
+      "company": {
+        "name": "Varda Space",
+        "slug": "varda-space"
+      },
+      "role": "Flight Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010159003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -286017,6 +286661,59 @@
         "last_verified": "2026-09-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-machine-learning-driver-refinement-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-01",
+        "last_verified": "2026-10-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"

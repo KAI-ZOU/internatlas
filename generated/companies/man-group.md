@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Man Group | [Quantitative Researcher Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101) | London | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| Man Group | [Quantitative Researcher Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/4969142101) | London | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
