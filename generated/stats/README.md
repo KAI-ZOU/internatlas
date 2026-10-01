@@ -33,15 +33,15 @@ _Generated 2026-10-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3237 | `███████████████` |
+| software-engineering | 3241 | `███████████████` |
 | ai | 428 | `██` |
-| quant | 318 | `█` |
-| machine-learning | 239 | `█` |
-| data-science | 215 | `█` |
+| quant | 319 | `█` |
+| machine-learning | 243 | `█` |
+| data-science | 217 | `█` |
 | hardware | 210 | `█` |
 | product | 175 | `█` |
 | research | 172 | `█` |
-| design | 147 | `█` |
+| design | 148 | `█` |
 | embedded | 132 | `█` |
 | data-engineering | 101 | `█` |
 | cloud | 56 | `█` |
@@ -52,23 +52,23 @@ _Generated 2026-10-01_
 - 2026-10-01 — **Astranis**: [Radiation Effects Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4704335006)
 - 2026-10-01 — **Capital One**: [MBA Product Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1)
 - 2026-10-01 — **Old Mission**: [Quantitative Trader Intern](https://www.oldmissioncapital.com/careers/?gh_jid=8002345003)
+- 2026-10-01 — **Pinterest**: [Machine Learning Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138080)
+- 2026-10-01 — **Pinterest**: [Machine Learning Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214757)
+- 2026-10-01 — **Pinterest**: [Master's Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138097)
+- 2026-10-01 — **Pinterest**: [Master's Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8138090)
+- 2026-10-01 — **Pinterest**: [PhD Data Science Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140169)
+- 2026-10-01 — **Pinterest**: [PhD Machine Learning Internship 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140140)
+- 2026-10-01 — **Pinterest**: [Software Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=7838577)
+- 2026-10-01 — **Pinterest**: [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034)
+- 2026-10-01 — **Pinterest**: [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039)
+- 2026-10-01 — **Pinterest**: [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745)
+- 2026-10-01 — **Pinterest**: [UX Engineering Intern (San Francisco)](https://www.pinterestcareers.com/jobs/?gh_jid=8140210)
+- 2026-10-01 — **Pinterest**: [UX Quantitative Research Intern (USA)  *Remote](https://www.pinterestcareers.com/jobs/?gh_jid=8140217)
 - 2026-10-01 — **Rivian**: [Engineer Intern Co-op - Design-for-Test](https://careers.rivian.com/jobs/33810?icims=1)
 - 2026-10-01 — **Rivian**: [Engineer Intern Co-op - ML Compilers](https://careers.rivian.com/jobs/33829?icims=1)
 - 2026-10-01 — **Rivian**: [Software Engineer Intern Co-op - Applied AI](https://careers.rivian.com/jobs/33984?icims=1)
 - 2026-10-01 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineering-Intern--Summer-2027-_01878820)
 - 2026-10-01 — **RTX**: [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Engineering-Intern--Summer-2027-_01873235)
-- 2026-10-01 — **Rubrik**: [Product Growth Intern - MBA](https://www.rubrik.com/company/careers/departments/job.8224424?gh_jid=8224424)
-- 2026-10-01 — **Southwest Airlines**: [Customer Experience and Analytics Data Science Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Customer-Experience---Analytics-Data-Science-Internship_R-2026-73023)
-- 2026-10-01 — **Southwest Airlines**: [Data Engineer Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Data-Engineer-Internship_R-2026-73271)
-- 2026-10-01 — **Southwest Airlines**: [Digital Product Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Product-Internship_R-2026-73049)
-- 2026-10-01 — **Southwest Airlines**: [Digital Testing & Optimization Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Digital-Testing---Optimization-Internship_R-2026-73012)
-- 2026-10-01 — **Southwest Airlines**: [Safety Analytics Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Safety-Analytics-Summer-2027-Intern_R-2026-73047)
-- 2026-10-01 — **Southwest Airlines**: [Sales Analytics Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Sales-Analytics-Internship_R-2026-73022)
-- 2026-10-01 — **Southwest Airlines**: [Software Engineer Intern](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270)
-- 2026-10-01 — **Space Dynamics Laboratory**: [FPGA Electrical Engineer Intern - Civil & Commercial Space Division](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern)
-- 2026-10-01 — **Stripe**: [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-- 2026-10-01 — **Stripe**: [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-- 2026-10-01 — **Stripe**: [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
 
 ## Recently closed
 
@@ -170,6 +170,7 @@ _Generated 2026-10-01_
 - Booz Allen — Data Scientist Intern
 - Booz Allen — Data Scientist Intern
 - Booz Allen — Data Scientist Intern
+- Booz Allen — Electronic Warfare FPGA Engineer Intern
 - Booz Allen — Software Developer Intern
 - Booz Allen — Software Developer Intern
 - Booz Allen — Software Developer Intern - Summer Games
@@ -281,6 +282,7 @@ _Generated 2026-10-01_
 - Gallup — Data Science Intern - Summer 2027
 - GCI — Telecommunications Intern - Computer Science/Data Analytics
 - GE Aerospace — Applied AI Intern
+- GE Healthcare — Data Analytics Intern
 - GE Vernova — GridOS Project Engineer Co-op/Intern
 - GE Vernova — GridOS Project Engineer Intern Co-op - GridOS
 - GE Vernova — Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications
@@ -469,6 +471,7 @@ _Generated 2026-10-01_
 - Northwestern Mutual — Investment Data & Analytics Intern
 - Northwestern Mutual — Investment Risk Management Intern - Fall 2026
 - Northwood Space — Electrical Engineer Intern - Summer Internship
+- NTT DATA AIVista — AI Scientist Intern
 - Nucor — Commodity Markets Analyst Intern
 - NVIDIA — Architecture Research Intern - Architecture - 2027
 - NVIDIA — Deep Learning Computer Architecture Intern
@@ -501,6 +504,7 @@ _Generated 2026-10-01_
 - Oshkosh — Software Engineer Intern
 - Ovintiv — Technology Intern - Data & Digital
 - Paccar — Software Developer Intern
+- Patch My PC — Software Engineer Intern
 - Persona — Software Engineer Intern
 - Philips — AI Engineer Intern - Enterprise AI & Workflow Automation
 - Philips — Service Contracts Lifecycle Operations Intern
@@ -516,6 +520,7 @@ _Generated 2026-10-01_
 - PricewaterhouseCoopers (PwC) — Tax Innovation Delivery Experience Intern - Multiple Teams
 - PricewaterhouseCoopers (PwC) — Tax Innovation Delivery Experience Intern - Product Management
 - Principal Financial Group — Data Engineer Intern
+- Principal Financial Group — Software Engineer Intern - Summer 2027
 - Principal Financial Group — Software Engineer Intern - Summer 2027
 - Procter & Gamble — Analytics & Insights Intern
 - Procter & Gamble — Analytics & Insights Intern/Co-op
@@ -612,6 +617,7 @@ _Generated 2026-10-01_
 - RTX — Production Hardware Electrical Engineer Intern
 - RTX — Quality Project Management and Data Analysis Tool Development Intern
 - RTX — Repair & Overhaul Intern
+- RTX — Software Developer Intern
 - RTX — Software Development Intern - Summer 2027
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -633,6 +639,10 @@ _Generated 2026-10-01_
 - Samsung Research America — Digital Health Algorithms Intern
 - Samsung Research America — Memory and Personalization Intern - Memory and Personalization
 - Samsung Research America — SoC Modeling Intern - SOC Modeling
+- Schonfeld — Business Analytics Intern
+- Schonfeld — Data Science Intern
+- Schonfeld — Software Engineering Intern
+- Schonfeld — Technology Intern - DMFI
 - Schroders — Public Markets Quants Intern - Quants (Public Markets)
 - SECURE — Measurement Intern - Measurement & Quality
 - SECURE — Software Developer Intern
@@ -762,6 +772,7 @@ _Generated 2026-10-01_
 - Wells Fargo — Quantitative Analytics Intern - Risk Analytics and Decision Sciences
 - Wells Fargo — Software Engineering Intern - Early Careers - Software Engineering
 - Westinghouse Electric Company — Finance Analyst Intern
+- Wex — AI & Data Platform Engineering Intern - Undergraduate
 - Wex — Backend Software Engineer Intern - Cloud Security & AI - Undergraduate
 - Wex — Backend Software Engineer Intern - Java & AI - Master's
 - Wex — Full-Stack Software Engineer Intern - Undergraduate
