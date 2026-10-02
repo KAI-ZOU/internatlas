@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-02",
-  "count": 5534,
+  "count": 5553,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1224,7 +1224,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8830,7 +8830,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8889,7 +8889,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -9953,7 +9953,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10196,7 +10196,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10465,7 +10465,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11209,7 +11209,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "amd-product-development-engineer-intern-co-op-2027-e21b23",
+      "id": "amd-product-development-engineer-intern-co-op-2027",
       "company": {
         "name": "AMD",
         "slug": "amd"
@@ -11229,83 +11229,6 @@
         {
           "city": "Santa Clara",
           "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-21",
-        "discovered": "2026-09-03",
-        "last_verified": "2026-10-02"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "amd-product-development-engineer-intern-co-op-2027",
-      "company": {
-        "name": "AMD",
-        "slug": "amd"
-      },
-      "role": "Product Development Engineer Intern/Co-op",
-      "category": "software-engineering",
-      "apply_url": "https://careers.amd.com/jobs/90790?icims=1",
-      "season": "winter",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Rochester",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "Austin",
-          "state": "TX",
-          "country": "USA"
-        },
-        {
-          "city": "Longmont",
-          "state": "CO",
-          "country": "USA"
-        },
-        {
-          "city": "Fishkill",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "Fort Collins",
-          "state": "CO",
-          "country": "USA"
-        },
-        {
-          "city": "Boxborough",
-          "state": "MA",
           "country": "USA"
         }
       ],
@@ -12362,6 +12285,61 @@
       "dates": {
         "posted": "2026-08-26",
         "discovered": "2026-08-26",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-bankers-association-quantitative-research-intern-2027",
+      "company": {
+        "name": "American Bankers Association",
+        "slug": "american-bankers-association"
+      },
+      "role": "Quantitative Research Intern",
+      "category": "quant",
+      "apply_url": "https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
       "status": "open",
@@ -27555,7 +27533,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41336,7 +41314,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41442,7 +41420,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41708,7 +41686,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43230,7 +43208,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43283,7 +43261,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43338,7 +43316,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43393,7 +43371,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67089,7 +67067,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67732,7 +67710,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68049,7 +68027,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68101,7 +68079,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -70960,6 +70938,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "databricks-product-management-intern-2026-amsterdam-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Product Management Intern (2026) - Amsterdam",
+      "category": "product",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Amsterdam",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2025-08-29",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-product-management-intern-2026-belgrade-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Product Management Intern (2026) - Belgrade",
+      "category": "product",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Belgrade",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-product-management-intern-2026-berlin-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Product Management Intern (2026) - Berlin",
+      "category": "product",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Berlin",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2025-08-29",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "databricks-product-management-intern-2027",
       "company": {
         "name": "Databricks",
@@ -71132,6 +71266,266 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-software-engineering-intern-2027-start-aarhus-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Software Engineering Intern (2027 Start) - Aarhus",
+      "category": "software-engineering",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Aarhus",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2025-08-29",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-software-engineering-intern-2027-start-amsterdam-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Software Engineering Intern (2027 Start) - Amsterdam",
+      "category": "software-engineering",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Amsterdam",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2023-09-01",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-software-engineering-intern-2027-start-belgrade-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Software Engineering Intern (2027 Start) - Belgrade",
+      "category": "software-engineering",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Belgrade",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2024-09-27",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-software-engineering-intern-2027-start-berlin-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Software Engineering Intern (2027 Start) - Berlin",
+      "category": "software-engineering",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Berlin",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2023-09-01",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "databricks-software-engineering-intern-2027-start-london-2027",
+      "company": {
+        "name": "Databricks",
+        "slug": "databricks",
+        "career_page": "https://www.databricks.com/company/careers/university-recruiting"
+      },
+      "role": "Software Engineering Intern (2027 Start) - London",
+      "category": "software-engineering",
+      "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -72706,6 +73100,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "definity-financial-operations-analyst-co-op-intern-2027",
+      "company": {
+        "name": "Definity Financial",
+        "slug": "definity-financial"
+      },
+      "role": "Operations Analyst Co-op Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9410",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        },
+        {
+          "city": "Waterloo",
+          "country": "ON"
+        },
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "definity-financial-reporting-specialist-co-op-intern-2026",
       "company": {
         "name": "Definity Financial",
@@ -73971,7 +74424,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81227,7 +81680,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89374,7 +89827,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -96181,6 +96634,58 @@
       "dates": {
         "posted": "2026-08-13",
         "discovered": "2026-08-13",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gas-south-analyst-intern-2027",
+      "company": {
+        "name": "Gas South",
+        "slug": "gas-south"
+      },
+      "role": "Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/gassouth/jobs/8247586",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
       "status": "open",
@@ -103050,7 +103555,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104061,7 +104566,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105635,6 +106140,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "google-associate-product-manager-intern-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google"
+      },
+      "role": "Associate Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/103464941339452102",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "google-business-data-scientist-intern-2027",
       "company": {
         "name": "Google",
@@ -107037,7 +107595,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -109966,6 +110524,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "great-american-insurance-company-enterprise-analytics-intern-2027",
+      "company": {
+        "name": "Great American Insurance Company",
+        "slug": "great-american-insurance-company"
+      },
+      "role": "Enterprise Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cincinnati",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gritt-robotics-perception-engineer-intern-2026",
       "company": {
         "name": "Gritt",
@@ -111928,6 +112538,60 @@
         "last_verified": "2026-08-26"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "helion-energy-computational-plasma-research-intern-2027",
+      "company": {
+        "name": "Helion Energy",
+        "slug": "helion-energy"
+      },
+      "role": "Computational Plasma Research Intern",
+      "category": "research",
+      "apply_url": "https://jobs.ashbyhq.com/helion/d2a1f8af-a310-44af-a5bc-c68816ebb7f6/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Everett",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116778,19 +117442,22 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-phd-winter-internship-2027-2027",
+      "id": "hudson-river-trading-phd-winter-intern-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading",
-        "career_page": "https://www.hudsonrivertrading.com/careers"
+        "slug": "hudson-river-trading"
       },
-      "role": "PhD Winter Internship - 2027",
-      "category": "quant",
+      "role": "PhD Winter Intern",
+      "category": "software-engineering",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741",
-      "season": "summer",
+      "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
         {
           "city": "New York",
           "state": "NY",
@@ -116820,13 +117487,13 @@
       },
       "dates": {
         "posted": "2026-09-18",
-        "discovered": "2026-09-18",
+        "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -124824,7 +125491,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126991,7 +127658,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -136559,7 +137226,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149301,6 +149968,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marvell-firmware-engineer-intern-2027-d0a34b",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Firmware Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marvell-firmware-engineer-intern-2027-f90f6d",
       "company": {
         "name": "Marvell",
@@ -149365,15 +150086,14 @@
       },
       "role": "Firmware Engineer Intern",
       "category": "embedded",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
-      "season": "summer",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738",
+      "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Santa Clara",
-          "state": "CA",
-          "country": "USA"
+          "city": "Ottawa",
+          "country": "ON"
         }
       ],
       "compensation": {
@@ -149400,7 +150120,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-04",
+        "posted": "2026-10-02",
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
@@ -156310,6 +157030,58 @@
         "last_verified": "2026-09-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mfs-enterprise-data-management-intern-2027",
+      "company": {
+        "name": "MFS",
+        "slug": "mfs"
+      },
+      "role": "Enterprise Data Management Intern",
+      "category": "software-engineering",
+      "apply_url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Enterprise-Data-Management-Intern--June---August-_MFS-231987",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173918,7 +174690,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178793,7 +179565,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -179009,7 +179781,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -179117,7 +179889,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -179172,7 +179944,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -179384,7 +180156,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214203,7 +214975,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214719,7 +215491,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -214872,9 +215644,9 @@
       "dates": {
         "posted": "2026-08-17",
         "discovered": "2026-08-18",
-        "last_verified": "2026-10-01"
+        "last_verified": "2026-10-02"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221996,7 +222768,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -234808,7 +235580,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "squarepoint-capital-software-developer-intern-2026",
+      "id": "squarepoint-capital-software-developer-intern-2026-e2a43b",
       "company": {
         "name": "Squarepoint Capital",
         "slug": "squarepoint-capital"
@@ -234848,6 +235620,57 @@
       },
       "dates": {
         "posted": "2026-05-07",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "squarepoint-capital-software-developer-intern-2026",
+      "company": {
+        "name": "Squarepoint Capital",
+        "slug": "squarepoint-capital"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/embed/job_app?token=7231006",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
         "discovered": "2026-08-18",
         "last_verified": "2026-10-02"
       },
@@ -237556,7 +238379,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237710,9 +238533,9 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-12"
+        "last_verified": "2026-10-02"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -240531,7 +241354,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -268645,6 +269468,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-product-marketing-management-intern-systems-strategy-operati-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Product Marketing Management Intern - Systems Strategy & Operations",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7683679497136179509",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-product-operations-intern-2027",
       "company": {
         "name": "TikTok",
@@ -277906,7 +278782,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -278180,6 +279056,57 @@
       "dates": {
         "posted": "2026-09-28",
         "discovered": "2026-09-30",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ul-solutions-sar-laboratory-intern-2026",
+      "company": {
+        "name": "UL Solutions",
+        "slug": "ul-solutions"
+      },
+      "role": "SAR Laboratory Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10868",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Basingstoke",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-28",
+        "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
       "status": "open",
@@ -281991,6 +282918,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "vanguard-college-to-corporate-it-intern-application-development-2027",
+      "company": {
+        "name": "Vanguard",
+        "slug": "vanguard"
+      },
+      "role": "College to Corporate IT Intern - Application Development",
+      "category": "software-engineering",
+      "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Malvern",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "vanguard-data-analysis-intern-2027",
       "company": {
         "name": "Vanguard",
@@ -282251,7 +283232,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-phd-winter-internship-2027-2027",
+  "id": "databricks-software-engineering-intern-2027-start-london-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading",
-    "career_page": "https://www.hudsonrivertrading.com/careers"
+    "name": "Databricks",
+    "slug": "databricks",
+    "career_page": "https://www.databricks.com/company/careers/university-recruiting"
   },
-  "role": "PhD Winter Internship - 2027",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741",
+  "role": "Software Engineering Intern (2027 Start) - London",
+  "category": "software-engineering",
+  "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "London",
       "country": "USA"
     }
   ],
@@ -41,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-18",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-02",
     "last_verified": "2026-10-02"
   },
   "status": "open",

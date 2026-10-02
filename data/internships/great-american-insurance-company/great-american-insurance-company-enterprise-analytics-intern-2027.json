@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "amd-product-development-engineer-intern-co-op-2027-e21b23",
+  "id": "great-american-insurance-company-enterprise-analytics-intern-2027",
   "company": {
-    "name": "AMD",
-    "slug": "amd"
+    "name": "Great American Insurance Company",
+    "slug": "great-american-insurance-company"
   },
-  "role": "Product Development Engineer Intern/Co-op",
+  "role": "Enterprise Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.amd.com/jobs/91227?icims=1",
-  "season": "spring",
+  "apply_url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Cincinnati",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -45,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-09-03",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-02",
     "last_verified": "2026-10-02"
   },
   "status": "open",
