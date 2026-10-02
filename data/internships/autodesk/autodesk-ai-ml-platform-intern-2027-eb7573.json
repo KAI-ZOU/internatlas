@@ -1,22 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-master-s-machine-learning-internship-2027-usa-2027",
+  "id": "autodesk-ai-ml-platform-intern-2027-eb7573",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "name": "Autodesk",
+    "slug": "autodesk"
   },
-  "role": "Master's Machine Learning Internship 2027 (USA)",
+  "role": "AI/ML Platform Intern",
   "category": "machine-learning",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
-  "season": "summer",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -26,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,12 +42,12 @@
   },
   "dates": {
     "posted": "2026-10-01",
-    "discovered": "2026-10-01",
-    "last_verified": "2026-10-01"
+    "discovered": "2026-10-02",
+    "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -7,18 +7,13 @@
   },
   "role": "Firmware Engineer Intern",
   "category": "embedded",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1",
+  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Westlake Village",
       "state": "CA",
       "country": "USA"
     }
@@ -30,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,9 +42,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-30",
+    "posted": "2026-09-04",
     "discovered": "2026-09-04",
-    "last_verified": "2026-10-01"
+    "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [

@@ -1,18 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-software-engineer-intern-2027-usa-2027",
+  "id": "the-home-depot-ai-machine-learning-developer-intern-2027",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "name": "The Home Depot",
+    "slug": "the-home-depot"
   },
-  "role": "Software Engineer Intern 2027 (USA)",
-  "category": "software-engineering",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
-  "season": "summer",
+  "role": "AI Machine Learning Developer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010",
+  "season": "winter",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Toronto",
+      "country": "ON"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -36,12 +40,12 @@
   },
   "dates": {
     "posted": "2026-10-01",
-    "discovered": "2026-10-01",
-    "last_verified": "2026-10-01"
+    "discovered": "2026-10-02",
+    "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "radiance-technologies-software-engineer-intern-2027-6fdfb5",
+  "id": "the-federal-reserve-system-computer-science-and-software-engineering-intern-2027",
   "company": {
-    "name": "Radiance Technologies",
-    "slug": "radiance-technologies"
+    "name": "The Federal Reserve System",
+    "slug": "the-federal-reserve-system"
   },
-  "role": "Software Engineer Intern",
+  "role": "Computer Science and Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102443",
-  "season": "spring",
+  "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dayton",
-      "state": "OH",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-09-25",
-    "last_verified": "2026-09-28"
+    "posted": "2026-10-01",
+    "discovered": "2026-10-02",
+    "last_verified": "2026-10-02"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

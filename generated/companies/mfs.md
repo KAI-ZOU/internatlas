@@ -1,0 +1,15 @@
+<!-- ⚠️ AUTO-GENERATED FILE — do not edit by hand.
+     Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
+# MFS
+
+## Current openings
+
+| Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
+|---|---|---|---|---|---|---|---|
+| MFS | [Software Data Intern](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984) | Boston, MA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| MFS | [Software Engineer Intern](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985) | Boston, MA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| MFS | [Software Engineer Intern](https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983) | Boston, MA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+
+## Related
+
+Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)

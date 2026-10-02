@@ -1,21 +1,38 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-machine-learning-intern-2027-toronto-2027",
+  "id": "pinterest-data-science-intern-2027-b43b94",
   "company": {
     "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "slug": "pinterest"
   },
-  "role": "Machine Learning Intern 2027 (Toronto)",
-  "category": "machine-learning",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "state": "ON",
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -42,12 +59,12 @@
   },
   "dates": {
     "posted": "2026-10-01",
-    "discovered": "2026-10-01",
-    "last_verified": "2026-10-01"
+    "discovered": "2026-10-02",
+    "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

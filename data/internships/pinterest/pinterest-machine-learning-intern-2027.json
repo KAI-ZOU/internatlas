@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-phd-data-science-internship-2027-usa-2027",
+  "id": "pinterest-machine-learning-intern-2027",
   "company": {
     "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "slug": "pinterest"
   },
-  "role": "PhD Data Science Internship 2027 (USA)",
-  "category": "data-science",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140169",
+  "role": "Machine Learning Intern",
+  "category": "machine-learning",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "Toronto",
+      "state": "ON",
       "country": "USA"
     }
   ],
@@ -42,12 +45,12 @@
   },
   "dates": {
     "posted": "2026-10-01",
-    "discovered": "2026-10-01",
-    "last_verified": "2026-10-01"
+    "discovered": "2026-10-02",
+    "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
