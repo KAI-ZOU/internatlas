@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "opengov-product-intern-2027-d2d076",
+  "id": "xai-spring-2027-software-engineering-internship-co-op-2027",
   "company": {
-    "name": "OpenGov",
-    "slug": "opengov"
+    "name": "xAI",
+    "slug": "xai",
+    "career_page": "https://x.ai/careers"
   },
-  "role": "Product Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/opengov/2581c459-07f2-4bd8-9cbd-1d242beaac66/application?embed=true",
+  "role": "Spring 2027 Software Engineering Internship/Co-op",
+  "category": "ai",
+  "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Palo Alto",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-21",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-02",
     "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

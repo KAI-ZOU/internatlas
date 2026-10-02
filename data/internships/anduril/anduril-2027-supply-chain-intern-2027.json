@@ -1,18 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "dropbox-software-engineering-intern-summer-2027-2027",
+  "id": "anduril-2027-supply-chain-intern-2027",
   "company": {
-    "name": "Dropbox",
-    "slug": "dropbox",
-    "career_page": "https://www.dropbox.com/jobs"
+    "name": "Anduril",
+    "slug": "anduril",
+    "career_page": "https://www.anduril.com/careers"
   },
-  "role": "Software Engineering Intern (Summer 2027)",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+  "role": "2027 Supply Chain Intern",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Costa Mesa",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -35,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-07",
-    "discovered": "2026-09-07",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-02",
     "last_verified": "2026-10-02"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:ats"

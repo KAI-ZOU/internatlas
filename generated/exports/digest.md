@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-02
 
-## 🆕 New this week (313)
+## 🆕 New this week (321)
 
 - **AMCA** — [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009) · software-engineering · —
 - **AMCA** — [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) · software-engineering · —
@@ -16,6 +16,8 @@
 - **American Century Investments** — [Software Developer Intern](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1) · software-engineering · —
 - **American Family Insurance Group** — [GenAI Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-Intern_R39561) · software-engineering · —
 - **Anduril** — [2026 Guidance, Navigation & Control Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5252665007?gh_jid=5252665007) · hardware · —
+- **Anduril** — [2027 Industrial Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) · hardware · —
+- **Anduril** — [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007) · hardware · —
 - **Assurant** — [Product Analyst Intern - Housing](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) · software-engineering · —
 - **Assurant** — [Software Engineer Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727) · software-engineering · —
 - **Astranis** — [Radiation Effects Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4704335006) · software-engineering · —
@@ -151,6 +153,7 @@
 - **Neighbor** — [Data Scientist Intern - Current PhD](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply) · data-science · —
 - **Noblis** — [Data Science and Innovation Intern](https://careers.noblis.org/jobs/27942?icims=1) · data-science · —
 - **Nokia** — [Operations Analytics Co-op Intern - Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40261) · software-engineering · —
+- **Northrop Grumman** — [College Technical Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146) · software-engineering · —
 - **Northrop Grumman** — [Embedded Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790) · embedded · —
 - **Northrop Grumman** — [Hardware Electronics Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Electronics-Engineer-Intern---Rolling-Meadows-IL_R10252779-1) · hardware · —
 - **Northrop Grumman** — [Software Digital Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812) · software-engineering · —
@@ -305,6 +308,7 @@
 - **Waymo** — [2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8237997) · machine-learning · —
 - **Waymo** — [2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision](https://careers.withwaymo.com/jobs?gh_jid=8234670) · software-engineering · —
 - **Waymo** — [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) · machine-learning · —
+- **Waymo** — [2027 Summer Intern, PhD, Research, World Action Model](https://careers.withwaymo.com/jobs?gh_jid=8243732) · research · —
 - **Wellmark** — [Software Engineer Intern - Metadata Enablement Team](https://jobs.smartrecruiters.com/WellmarkInc/744000152679699) · software-engineering · —
 - **Western National Insurance** — [Data Engineering Intern - Data & Integrations](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4537849) · data-engineering · —
 - **Westinghouse Electric Company** — [Software Developer Intern - Tools & Apps](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors) · software-engineering · —
@@ -315,6 +319,10 @@
 - **onsemi** — [Test Engineer Intern - Intelligent Sensor Group - Test Engineering](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506604) · software-engineering · —
 - **onsemi** — [Validation Engineer Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506611) · software-engineering · —
 - **onsemi** — [Validation Engineer Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506606) · software-engineering · —
+- **xAI** — [Spring 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255113007) · ai · —
+- **xAI** — [Spring 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5252108007) · ai · —
+- **xAI** — [Summer 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255116007) · ai · —
+- **xAI** — [Summer 2027 Software Engineering Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255111007) · ai · —
 
 ## ⏰ Closing within 7 days (0)
 

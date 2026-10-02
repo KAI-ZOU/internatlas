@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-02",
-  "count": 5553,
+  "count": 5557,
   "internships": [
     {
       "schema_version": "1.0",
@@ -18839,6 +18839,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "anduril-2027-industrial-engineer-intern-2027",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers"
+      },
+      "role": "2027 Industrial Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ashville",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "anduril-2027-manufacturing-engineer-intern-2027",
       "company": {
         "name": "Anduril",
@@ -19248,6 +19300,58 @@
         "last_verified": "2026-09-18"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "anduril-2027-supply-chain-intern-2027",
+      "company": {
+        "name": "Anduril",
+        "slug": "anduril",
+        "career_page": "https://www.anduril.com/careers"
+      },
+      "role": "2027 Supply Chain Intern",
+      "category": "hardware",
+      "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Costa Mesa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -25245,7 +25349,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27541,57 +27645,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "autodesk-software-developer-intern-2027-651c55",
-      "company": {
-        "name": "Autodesk",
-        "slug": "autodesk"
-      },
-      "role": "Software Developer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
-      "season": "winter",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Montreal",
-          "country": "QC"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-17",
-        "discovered": "2026-09-17",
-        "last_verified": "2026-10-02"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "autodesk-software-developer-intern-2027-b9385f",
       "company": {
         "name": "Autodesk",
@@ -27635,7 +27688,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27754,7 +27807,7 @@
       },
       "role": "Software Developer Intern",
       "category": "software-engineering",
-      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101101-2",
+      "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
@@ -27786,7 +27839,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-15",
+        "posted": "2026-09-17",
         "discovered": "2026-08-11",
         "last_verified": "2026-10-02"
       },
@@ -31788,7 +31841,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "barclays-technology-developer-intern-2027-fb9fa5",
+      "id": "barclays-technology-developer-intern-2027",
       "company": {
         "name": "Barclays",
         "slug": "barclays"
@@ -31802,57 +31855,6 @@
       "locations": [
         {
           "city": "Knutsford",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-09",
-        "discovered": "2026-09-09",
-        "last_verified": "2026-10-02"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "barclays-technology-developer-intern-2027",
-      "company": {
-        "name": "Barclays",
-        "slug": "barclays"
-      },
-      "role": "Technology Developer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
           "country": "UK"
         }
       ],
@@ -43687,7 +43689,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65423,7 +65425,7 @@
         "discovered": "2026-09-12",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65475,7 +65477,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -67871,7 +67873,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68596,7 +68598,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74640,7 +74642,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77716,7 +77718,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77763,7 +77765,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -81731,7 +81733,7 @@
         "discovered": "2026-09-12",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84892,7 +84894,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -89772,7 +89774,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -135445,7 +135447,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148608,60 +148610,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "marvell-architecture-intern-ms-2027-aca9f5",
-      "company": {
-        "name": "Marvell",
-        "slug": "marvell"
-      },
-      "role": "Architecture Intern - MS",
-      "category": "software-engineering",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Santa Clara",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-14",
-        "discovered": "2026-09-15",
-        "last_verified": "2026-10-02"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "marvell-architecture-intern-ms-2027",
       "company": {
         "name": "Marvell",
@@ -148669,7 +148617,7 @@
       },
       "role": "Architecture Intern - MS",
       "category": "software-engineering",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436-1",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -154468,7 +154416,7 @@
         "discovered": "2026-07-31",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173684,6 +173632,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "northrop-grumman-college-technical-intern-2027",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "College Technical Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "northrop-grumman-cyber-software-engineer-intern-2027",
       "company": {
         "name": "Northrop Grumman",
@@ -182147,7 +182147,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "opengov-product-intern-2027-d2d076",
+      "id": "opengov-product-intern-2027",
       "company": {
         "name": "OpenGov",
         "slug": "opengov"
@@ -182162,58 +182162,6 @@
         {
           "city": "Atlanta",
           "state": "GA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-14",
-        "discovered": "2026-09-21",
-        "last_verified": "2026-10-02"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "opengov-product-intern-2027",
-      "company": {
-        "name": "OpenGov",
-        "slug": "opengov"
-      },
-      "role": "Product Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.ashbyhq.com/opengov/163f2c69-851d-4215-ae4b-bb717b2e66d6/application?embed=true",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Boston",
-          "state": "MA",
           "country": "USA"
         }
       ],
@@ -204143,7 +204091,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -215182,7 +215130,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -293515,6 +293463,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-research-world-action-model-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Research, World Action Model",
+      "category": "research",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8243732",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-phd-road-understanding-ml-engineer-2027",
       "company": {
         "name": "Waymo",
@@ -297664,6 +297665,218 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "xai-spring-2027-business-operations-internship-co-op-2027",
+      "company": {
+        "name": "xAI",
+        "slug": "xai",
+        "career_page": "https://x.ai/careers"
+      },
+      "role": "Spring 2027 Business Operations Internship/Co-op",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255113007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "xai-spring-2027-software-engineering-internship-co-op-2027",
+      "company": {
+        "name": "xAI",
+        "slug": "xai",
+        "career_page": "https://x.ai/careers"
+      },
+      "role": "Spring 2027 Software Engineering Internship/Co-op",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "xai-summer-2027-business-operations-internship-co-op-2027",
+      "company": {
+        "name": "xAI",
+        "slug": "xai",
+        "career_page": "https://x.ai/careers"
+      },
+      "role": "Summer 2027 Business Operations Internship/Co-op",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255116007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "xai-summer-2027-software-engineering-internship-co-op-2027",
+      "company": {
+        "name": "xAI",
+        "slug": "xai",
+        "career_page": "https://x.ai/careers"
+      },
+      "role": "Summer 2027 Software Engineering Internship/Co-op",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-advanced-analytics-products-change-management-intern-advance-2027",
+  "id": "northrop-grumman-college-technical-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Northrop Grumman",
+    "slug": "northrop-grumman"
   },
-  "role": "Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project",
-  "category": "ai",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Analyste-systmes-d-affaires-et-transformation---Internship---Winter-2027---Analyst-Business-Systems-and-Transformation_01869327",
-  "season": "winter",
+  "role": "College Technical Intern",
+  "category": "software-engineering",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-College-Technical-Intern---McLean-VA_R10253146",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Longueuil",
-      "country": "QC"
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-03",
-    "discovered": "2026-09-04",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-02",
     "last_verified": "2026-10-02"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

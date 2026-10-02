@@ -1,20 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "autodesk-software-developer-intern-2027-651c55",
+  "id": "xai-summer-2027-software-engineering-internship-co-op-2027",
   "company": {
-    "name": "Autodesk",
-    "slug": "autodesk"
+    "name": "xAI",
+    "slug": "xai",
+    "career_page": "https://x.ai/careers"
   },
-  "role": "Software Developer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
-  "season": "winter",
+  "role": "Summer 2027 Software Engineering Internship/Co-op",
+  "category": "ai",
+  "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
-    "discovered": "2026-09-17",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-02",
     "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

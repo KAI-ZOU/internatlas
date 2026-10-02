@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-architecture-intern-ms-2027-aca9f5",
+  "id": "anduril-2027-industrial-engineer-intern-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "Anduril",
+    "slug": "anduril",
+    "career_page": "https://www.anduril.com/careers"
   },
-  "role": "Architecture Intern - MS",
-  "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Architecture-Intern--MS---Summer-2027_2604436",
+  "role": "2027 Industrial Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Ashville",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-15",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-02",
     "last_verified": "2026-10-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

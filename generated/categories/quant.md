@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**323** tracked · **217** open now
+**323** tracked · **215** open now
 
 ## Current openings
 
@@ -51,7 +51,6 @@
 | [ConocoPhillips](generated/companies/conocophillips.md) | [Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) | Houston, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative FIC Intern - Quantitative Trading](https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs](https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog) | London | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative Trading Intern - Fixed Income & Currencies](https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg) | NYC | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Quantitative Research Intern](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670) | Chicago, IL +1 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
@@ -61,7 +60,6 @@
 | [DV Trading](generated/companies/dv-trading.md) | [Quantitative Trading Intern - DV Equities](https://job-boards.greenhouse.io/dvtrading/jobs/4702083005) | NYC | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Trading Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4719135005) | London | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Energy Transfer Partners](generated/companies/energy-transfer-partners.md) | [Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) | Overland Park, KS | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
-| [Fidelity Investments](generated/companies/fidelity-investments.md) | [Quantitative Analyst Intern - Fixed Income Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109) | Boston, MA +1 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Fidelity Investments](generated/companies/fidelity-investments.md) | [Quantitative Research Intern - Multi-Asset Research Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361) | Boston, MA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Fidelity Investments](generated/companies/fidelity-investments.md) | [Quantitative Research Intern - Multi-Asset Systematic Research Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Multi-Asset-Systematic-Research-Team_2135128) | Boston, MA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Fidelity Investments](generated/companies/fidelity-investments.md) | [Quantitative Research Intern - Strategic Advisers](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Master-s-and-PhD-students_2135370) | Boston, MA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -255,8 +253,10 @@
 | [Detroit Lions](generated/companies/detroit-lions.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/detroitlions/jobs/4723291005) | Allen Park, MI | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quant Intern - Strategic Analytics](https://db.recsolu.com/external/requisitions/o6Cp44Ol7NVnH0MbcO81eA) | NYC | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative Analyst Intern - GSA](https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw) | London | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| [Deutsche Bank](generated/companies/deutsche-bank.md) | [Quantitative Trading Intern - Fixed Income & Currencies](https://db.recsolu.com/external/requisitions/gtKeu9-kQinTxakrqIWSRg) | NYC | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [Trading Intern - Summer 2027 - DV Commodities](https://job-boards.greenhouse.io/dvtrading/jobs/4719134005) | NYC | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Fannie Mae](generated/companies/fannie-mae.md) | [Treasury & Capital Markets Intern - Quantitative Research Track](https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872) | Washington, DC | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
+| [Fidelity Investments](generated/companies/fidelity-investments.md) | [Quantitative Analyst Intern - Fixed Income Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Fixed-Income-Team_2135109) | Boston, MA +1 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Fidelity Investments](generated/companies/fidelity-investments.md) | [Quantitative Research Analyst Intern - Equity Quantitative Research Team](https://fmr.wd1.myworkdayjobs.com/targeted/job/200-Seaport-Blvd-Boston-MA/Quantitative-Research-Intern--Equity-Quantitative-Research-Team_2135122) | Boston, MA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Fidelity Investments](generated/companies/fidelity-investments.md) | [Quantitative Research Intern](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Strategic-Advisers-Quantitative-Research-Intern---Undergrad_2135905) | Boston, MA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [First Citizens BancShares](generated/companies/first-citizens-bancshares.md) | [Quantitative Analysis Intern - Quantitative Analysis](https://firstcitizens.jibeapply.com/jobs/35602?icims=1) | Raleigh, NC | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
