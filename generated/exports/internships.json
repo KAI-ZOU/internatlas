@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-02",
-  "count": 5528,
+  "count": 5534,
   "internships": [
     {
       "schema_version": "1.0",
@@ -13848,7 +13848,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -15058,7 +15058,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41656,7 +41656,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -43448,7 +43448,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100521,6 +100521,114 @@
     },
     {
       "schema_version": "1.0",
+      "id": "general-motors-ai-ml-engineer-intern-autonomous-vehicle-simulation-2027",
+      "company": {
+        "name": "General Motors",
+        "slug": "general-motors"
+      },
+      "role": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+      "category": "machine-learning",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-motors-ai-ml-engineer-intern-autonomous-vehicles-simulation-2027",
+      "company": {
+        "name": "General Motors",
+        "slug": "general-motors"
+      },
+      "role": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+      "category": "machine-learning",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "general-motors-battery-and-sustainability-intern-battery-research-and-devel-2026",
       "company": {
         "name": "General Motors",
@@ -101140,6 +101248,60 @@
         "last_verified": "2026-08-09"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-motors-simulation-intern-software-engineer-autonomous-vehicle-simul-2027",
+      "company": {
+        "name": "General Motors",
+        "slug": "general-motors"
+      },
+      "role": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+      "category": "software-engineering",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104004,7 +104166,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104057,7 +104219,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104110,7 +104272,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104162,7 +104324,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104214,7 +104376,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104268,7 +104430,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104321,7 +104483,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104372,7 +104534,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104426,7 +104588,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104477,7 +104639,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104528,7 +104690,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104579,7 +104741,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104631,7 +104793,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104682,7 +104844,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104838,7 +105000,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104891,7 +105053,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105050,7 +105212,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105104,7 +105266,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105206,7 +105368,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105361,7 +105523,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105414,7 +105576,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106116,6 +106278,59 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-forward-deployed-engineer-intern-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google"
+      },
+      "role": "Forward Deployed Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
         "last_verified": "2026-10-02"
       },
       "status": "open",
@@ -116189,7 +116404,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124301,7 +124516,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124352,7 +124567,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124405,7 +124620,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124662,7 +124877,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -134719,7 +134934,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -141361,7 +141576,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -141413,7 +141628,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151136,7 +151351,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154218,7 +154433,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159227,9 +159442,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-09-03"
+        "last_verified": "2026-10-02"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162849,6 +163064,61 @@
         "last_verified": "2026-08-25"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "muon-space-electrical-engineer-intern-2027",
+      "company": {
+        "name": "Muon Space",
+        "slug": "muon-space"
+      },
+      "role": "Electrical Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/muonspace/jobs/5255112007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173700,7 +173970,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175152,9 +175422,9 @@
       "dates": {
         "posted": "2026-08-03",
         "discovered": "2026-08-03",
-        "last_verified": "2026-10-01"
+        "last_verified": "2026-10-02"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178147,7 +178417,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178199,7 +178469,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178253,7 +178523,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178307,7 +178577,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178415,7 +178685,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178469,7 +178739,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178577,7 +178847,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178631,7 +178901,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178954,7 +179224,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193792,7 +194062,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -217498,7 +217768,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -219539,7 +219809,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -241668,7 +241938,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -242039,7 +242309,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277373,7 +277643,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277529,7 +277799,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -280424,7 +280694,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -280582,7 +280852,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -280957,7 +281227,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -281276,7 +281546,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -288980,6 +289250,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "walleye-capital-special-projects-developer-intern-2027",
+      "company": {
+        "name": "Walleye Capital",
+        "slug": "walleye-capital"
+      },
+      "role": "Special Projects Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-02",
+        "last_verified": "2026-10-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "walleye-capital-technology-intern-2027",
       "company": {
         "name": "Walleye Capital",
@@ -290557,7 +290880,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
