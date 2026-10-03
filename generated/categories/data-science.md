@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**221** tracked · **144** open now
+**221** tracked · **143** open now
 
 ## Current openings
 
@@ -141,7 +141,6 @@
 | [URBN](generated/companies/urbn.md) | [Data Science Intern](https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false) | Philadelphia, PA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - College to Corporate IT](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765) | Charlotte, NC | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | Malvern, PA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
-| [Verizon Communications](generated/companies/verizon-communications.md) | [Data Science Intern - Network and Technology](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384) | Irving, TX | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Viking Global](generated/companies/viking-global.md) | [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Senior Data Scientist Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -224,6 +223,7 @@
 | [The Walt Disney Company](generated/companies/the-walt-disney-company.md) | [Commercial Data Science Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1) | Celebration, FL | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [U.S. Venture](generated/companies/u-s-venture.md) | [Data Science Intern - Breakthrough](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Data-Science-Intern---Breakthrough_R8528-1) | Green Bay, WI +1 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [USAA](generated/companies/usaa.md) | [Data Scientist Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200) | Plano, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
+| [Verizon Communications](generated/companies/verizon-communications.md) | [Data Science Intern - Network and Technology](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384) | Irving, TX | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [Data Scientist Intern - Fiber Engineering & Operations](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386) | Irving, TX | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Walleye Capital](generated/companies/walleye-capital.md) | [Investment Data Science Intern](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125) | Sunnyvale, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
@@ -273,13 +273,13 @@
 - The Nuclear Company (2)
 - TWG Global (2)
 - Vanguard (2)
-- Verizon Communications (2)
 - Xcel Energy (2)
 - CCC Intelligent Solutions (2)
 - EMC Insurance (2)
 - Geotab (2)
 - RTX (2)
 - The Walt Disney Company (2)
+- Verizon Communications (2)
 - AARP (1)
 - Acxiom (1)
 - APEX Analytix (1)

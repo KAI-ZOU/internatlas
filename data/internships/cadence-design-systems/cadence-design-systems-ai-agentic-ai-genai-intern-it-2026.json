@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "amd-hardware-design-engineer-intern-co-op-2027-e951e4",
+  "id": "cadence-design-systems-ai-agentic-ai-genai-intern-it-2026",
   "company": {
-    "name": "AMD",
-    "slug": "amd"
+    "name": "Cadence Design Systems",
+    "slug": "cadence-design-systems"
   },
-  "role": "Hardware Design Engineer Intern/Co-op",
-  "category": "hardware",
-  "apply_url": "https://careers.amd.com/jobs/91360?icims=1",
-  "season": "winter",
-  "year": 2027,
+  "role": "AI / Agentic AI / GenAI Intern - IT",
+  "category": "ai",
+  "apply_url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Markham",
-      "country": "ON"
+      "city": "California",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-03",
     "last_verified": "2026-10-03"
   },
   "status": "open",

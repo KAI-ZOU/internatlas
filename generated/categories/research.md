@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**174** tracked · **87** open now
+**174** tracked · **86** open now
 
 ## Current openings
 
@@ -32,7 +32,6 @@
 | [Canva](generated/companies/canva.md) | [PhD Research Scientist Intern](https://jobs.smartrecruiters.com/Canva/6000000001291655-phd-research-scientist-intern) | San Francisco, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Applied Research Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1) | San Jose, CA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| [Dandy](generated/companies/dandy.md) | [PhD Research Intern](https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application?embed=true) | NYC | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | San Francisco | Onsite | 2023-11-07 | Rolling | 🟢 Open | ❔ |
 | [Datadog](generated/companies/datadog.md) | [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | New York | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Definity Financial](generated/companies/definity-financial.md) | [Analyst Co-op Intern - Consumer Insights & Market Research](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9344) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -116,6 +115,7 @@
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | In-Office | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | In-Office | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Cohere](generated/companies/cohere.md) | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Montreal +3 | Onsite | 2026-05-01 | Rolling | 🔴 Closed | ❔ |
+| [Dandy](generated/companies/dandy.md) | [PhD Research Intern](https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application?embed=true) | NYC | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | [DatologyAI](generated/companies/datologyai.md) | [Research Intern](https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true) | San Mateo, CA | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
 | [Ecolab](generated/companies/ecolab.md) | [Research and Development Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540) | Naperville, IL +1 | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [FGS Global](generated/companies/fgs-global.md) | [Research & Insights Intern](https://job-boards.greenhouse.io/fgsglobal/jobs/4805006007) | Washington, DC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -218,7 +218,6 @@
 - Brevan Howard (1)
 - Capital One (1)
 - Coinbase (1)
-- Dandy (1)
 - Databricks (1)
 - Datadog (1)
 - Definity Financial (1)
@@ -252,6 +251,7 @@
 - Center for AI Safety (1)
 - City of Austin (1)
 - Cohere (1)
+- Dandy (1)
 - DatologyAI (1)
 - Ecolab (1)
 - FGS Global (1)

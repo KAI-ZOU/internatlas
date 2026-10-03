@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-03
 
-## 🆕 New this week (305)
+## 🆕 New this week (306)
 
 - **AMCA** — [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009) · software-engineering · —
 - **AMCA** — [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) · software-engineering · —
@@ -47,6 +47,7 @@
 - **CACI** — [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776) · software-engineering · —
 - **CACI** — [Software Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037) · software-engineering · —
 - **CACI** — [Software/Network Engineering Intern](https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895) · software-engineering · —
+- **Cadence Design Systems** — [AI / Agentic AI / GenAI Intern - IT](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657) · ai · —
 - **Capital One** — [MBA Product Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/MBA-Product-Intern---Summer-2027_R244815-1) · software-engineering · —
 - **Capstone Investment Advisors** — [Quant Intern](https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8859054002) · quant · —
 - **Centene** — [Medical Economics Analyst Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662089) · software-engineering · —
@@ -188,7 +189,7 @@
 - **Pinterest** — [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) · software-engineering · —
 - **Pinterest** — [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) · software-engineering · —
 - **Pinterest** — [UX Engineering Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) · design · —
-- **Pinterest** — [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) · quant · —
+- **Pinterest** — [UX Quantitative Research Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) · quant · —
 - **Primient** — [Digital Data & Analytics Intern](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011) · software-engineering · —
 - **Principal Financial Group** — [Quantitative Analyst Intern - Quantitative Research](https://careers.principal.com/jobs/52721?icims=1) · quant · —
 - **Q2** — [Data Science Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799) · data-science · —

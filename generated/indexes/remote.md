@@ -33,7 +33,7 @@
 | [Notion](generated/companies/notion.md) | [Software Engineer Intern, Mobile (Winter 2027)](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) | Remote | Remote | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [ONE Finance](generated/companies/one-finance.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true) | Remote | Remote | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Penta Group](generated/companies/penta-group.md) | [Monitoring & Insights Intern](https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951/apply) | Remote | Remote | 2026-08-25 | Rolling | 🟢 Open | ❔ |
-| [Pinterest](generated/companies/pinterest.md) | [UX Quantitative Research Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| [Pinterest](generated/companies/pinterest.md) | [UX Quantitative Research Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Ramp](generated/companies/ramp.md) | [Applied Scientist Intern](https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956) | Remote | Remote | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Ramp](generated/companies/ramp.md) | [Software Engineer Internship, Frontend](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | Remote | Remote | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Ramp](generated/companies/ramp.md) | [Software Engineering Intern, iOS](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) | Remote | Remote | 2026-09-24 | Rolling | 🟢 Open | ❔ |

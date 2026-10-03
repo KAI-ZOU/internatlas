@@ -1,12 +1,11 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-ux-quantitative-research-intern-usa-2027",
+  "id": "pinterest-ux-quantitative-research-intern-2027",
   "company": {
     "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "slug": "pinterest"
   },
-  "role": "UX Quantitative Research Intern (USA)",
+  "role": "UX Quantitative Research Intern",
   "category": "quant",
   "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
   "season": "summer",
@@ -42,6 +41,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Cadence Design Systems | [AI / Agentic AI / GenAI Intern - IT](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657) | California | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | Cadence Design Systems | [Characterization and Support Intern - Fall 2026](https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108) | San Jose, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | Cadence Design Systems | [Characterization and Support Intern - Fall 2026](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-1) | San Jose, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | Cadence Design Systems | [Post-Silicon Validation Engineering Intern - Characterization and Support](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Intern---Characterization-and-Support--Fall-2026-_R56108-2) | San Jose, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -21,4 +22,4 @@
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [💻 Software Engineering](../categories/software-engineering.md)

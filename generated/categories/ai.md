@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**442** tracked · **240** open now
+**443** tracked · **239** open now
 
 ## Current openings
 
@@ -69,6 +69,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern, AI Platform](https://joinbytedance.com/search/7668212952030841093) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | [C3.ai](generated/companies/c3-ai.md) | [AI Product Manager Intern - Summer 2027](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | Redwood City, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [AI Prompt Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1) | Ashburn, VA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| [Cadence Design Systems](generated/companies/cadence-design-systems.md) | [AI / Agentic AI / GenAI Intern - IT](https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657) | California | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Campbell Soup Company](generated/companies/campbell-soup-company.md) | [Data Engineer Intern, DA&AI Co-Op](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65838) | Camden, NJ | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [AI Engineer Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-Master-s--AI-Engineering-Internship-Program---Summer-2027_R249109-1) | San Jose, CA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [AI Engineering Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1) | San Jose, CA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -167,7 +168,6 @@
 | [Oshkosh](generated/companies/oshkosh.md) | [AI Engineer Intern](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265) | Oshkosh, WI | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Data & AI Engineering Intern](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data---AI-Engineering-Internship_R000157499) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [R&D Intern - AI Research Engineer](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern---AI-Research-Engineer_R000159371) | Mason, OH | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
-| [PSP Investments](generated/companies/psp-investments.md) | [AI Solutions Intern - External Manager Selection & Monitoring](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | Montreal | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Low Power AI Software Development Intern - Interim Engineering Intern - Software](https://qualcomm.eightfold.ai/careers/job/446721143440) | Markham | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Sensors Subsystem Engineering Intern - Low-Power AI - Audio](https://qualcomm.eightfold.ai/careers/job/446721109229) | Markham | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Qualified Health](generated/companies/qualified-health.md) | [Clinical AI Evaluation Intern](https://jobs.ashbyhq.com/qualified-health-pbc/6cae1651-ea0d-4779-bf8c-778be1ac8789/application?embed=true) | Palo Alto, CA | Onsite | 2026-08-29 | Rolling | 🟢 Open | ❔ |
@@ -239,7 +239,6 @@
 | [Veeam Software](generated/companies/veeam-software.md) | [Competitive Intelligence AI Engineer Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101) | Georgia | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Customer Care AI Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101) | Columbus, OH | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Security & AI Engineer Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101) | San Jose, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Verisk](generated/companies/verisk.md) | [AI Intern - Summer Internship Program](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) | Jersey City, NJ | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Workato](generated/companies/workato.md) | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | SF | Onsite | 2026-04-10 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Spring 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255113007) | Palo Alto, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Summer 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255116007) | Palo Alto, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -381,6 +380,7 @@
 | [PricewaterhouseCoopers (PwC)](generated/companies/pricewaterhousecoopers-pwc.md) | [Cloud, Data and AI Intern](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---Cloud--Data-and-AI---Summer-Intern---Calgary_752586WD) | Calgary | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [PricewaterhouseCoopers (PwC)](generated/companies/pricewaterhousecoopers-pwc.md) | [Cloud, Data and AI Intern - Cloud, Data and AI](https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Vancouver/May-2027---Cloud--Data-and-AI---Summer-Intern---Vancouver_752583WD) | Vancouver | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Prophet](generated/companies/prophet.md) | [AI Engineer Intern - AI Foundry & Digital Growth](https://job-boards.greenhouse.io/prophet/jobs/4689859005) | NYC | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
+| [PSP Investments](generated/companies/psp-investments.md) | [AI Solutions Intern - External Manager Selection & Monitoring](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | Montreal | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Revvity](generated/companies/revvity.md) | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | Remote | Remote | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | [RGA Reinsurance Company](generated/companies/rga-reinsurance-company.md) | [Data Science/AI Intern](https://rgare.wd1.myworkdayjobs.com/en-US/Careers/job/United-States-Chesterfield-MO-RGA-HQ/Fall-Intern---Data-Science-AI_J28774) | Chesterfield, MO | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Data Engineering Intern - AI & Analytics](https://jobs.ashbyhq.com/rivianvw.tech/3864f83a-7b29-4c96-b00e-436d60c0508a/application) | Palo Alto, CA | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
@@ -438,6 +438,7 @@
 | [University of St. Thomas](generated/companies/university-of-st-thomas.md) | [Semiconductor Test AI Intern - Minnesota Semiconductor AI Hub](https://studentemployment-stthomas.icims.com/jobs/9529/job?mobile=true&needsRedirect=false) | St Paul, MN | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | San Jose, CA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
 | [Veeda AI](generated/companies/veeda-ai.md) | [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) | Seattle, WA +2 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Verisk](generated/companies/verisk.md) | [AI Intern - Summer Internship Program](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) | Jersey City, NJ | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [AI Science Intern - Multiple Teams](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169) | Basking Ridge | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [AI Science Intern - Network and Technology](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167) | Basking Ridge | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Wex](generated/companies/wex.md) | [AI & Data Platform Engineering Intern - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055) | Remote | Remote | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
@@ -543,6 +544,7 @@
 - Bot Auto (1)
 - Brevan Howard (1)
 - C3.ai (1)
+- Cadence Design Systems (1)
 - Campbell Soup Company (1)
 - Chemours (1)
 - Ciena (1)
@@ -592,7 +594,6 @@
 - ONE Finance (1)
 - Oracle (1)
 - Oshkosh (1)
-- PSP Investments (1)
 - Qualified Health (1)
 - SimIS (1)
 - Solidigm (1)
@@ -605,7 +606,6 @@
 - TWG Global (1)
 - Two Sigma (1)
 - V2X (1)
-- Verisk (1)
 - Workato (1)
 - Xaira Therapeutics (1)
 - Yotta Labs (1)
@@ -667,6 +667,7 @@
 - Photon (1)
 - Postman (1)
 - Prophet (1)
+- PSP Investments (1)
 - Revvity (1)
 - RGA Reinsurance Company (1)
 - Rivian and Volkswagen Group Technologies (1)
@@ -683,5 +684,6 @@
 - Turabify (1)
 - University of St. Thomas (1)
 - Veeda AI (1)
+- Verisk (1)
 - Xpansiv (1)
 - Zurich Insurance (1)
