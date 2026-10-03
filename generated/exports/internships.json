@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-03",
-  "count": 5597,
+  "count": 5606,
   "internships": [
     {
       "schema_version": "1.0",
@@ -23964,6 +23964,108 @@
     },
     {
       "schema_version": "1.0",
+      "id": "astranis-electrical-engineer-intern-2027",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "Electrical Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4704784006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "astranis-electrical-reliability-intern-2027",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "Electrical Reliability Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4704782006",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "astranis-embedded-software-developer-network-payload-software-intern-2026",
       "company": {
         "name": "Astranis",
@@ -24885,7 +24987,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24934,6 +25036,57 @@
       "dates": {
         "posted": "2026-09-23",
         "discovered": "2026-09-25",
+        "last_verified": "2026-10-03"
+      },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "astranis-rf-validation-intern-2027",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "RF Validation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4716184006",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-03",
         "last_verified": "2026-10-03"
       },
       "status": "open",
@@ -24985,6 +25138,57 @@
       "dates": {
         "posted": "2026-09-24",
         "discovered": "2026-09-25",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "astranis-software-defined-radio-hardware-associate-intern-2027",
+      "company": {
+        "name": "Astranis",
+        "slug": "astranis"
+      },
+      "role": "Software Defined Radio Hardware Associate Intern",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/astranis/jobs/4715983006",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-03",
         "last_verified": "2026-10-03"
       },
       "status": "open",
@@ -26426,7 +26630,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75451,7 +75655,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97249,7 +97453,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97353,7 +97557,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97875,7 +98079,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105816,7 +106020,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105921,7 +106125,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105929,7 +106133,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -105971,10 +106175,63 @@
       },
       "dates": {
         "posted": "2026-08-15",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171535?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106026,7 +106283,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106080,7 +106337,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106133,7 +106390,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106141,7 +106398,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -106156,6 +106413,58 @@
         {
           "city": "London",
           "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Salt Lake City",
+          "state": "UT",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -106186,7 +106495,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106237,7 +106546,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106245,7 +106554,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027-323368",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -106285,10 +106594,61 @@
       },
       "dates": {
         "posted": "2026-08-15",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-multiple-teams-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Multiple Teams",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/171563?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106340,7 +106700,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106391,7 +106751,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106545,9 +106905,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106600,7 +106960,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106915,7 +107275,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107070,7 +107430,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107121,9 +107481,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-15",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158342,7 +158702,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -167320,6 +167680,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "national-life-market-research-intern-2027",
+      "company": {
+        "name": "National Life",
+        "slug": "national-life"
+      },
+      "role": "Market Research Intern",
+      "category": "research",
+      "apply_url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montpelier",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Addison",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "national-life-strategic-operations-analyst-intern-2027",
       "company": {
         "name": "National Life",
@@ -167369,7 +167786,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180419,9 +180836,9 @@
       "dates": {
         "posted": "2026-09-13",
         "discovered": "2026-09-13",
-        "last_verified": "2026-09-18"
+        "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184287,7 +184704,7 @@
         "discovered": "2026-07-23",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -213004,6 +213421,61 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-03"
       },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rocket-lab-usa-electrical-engineering-intern-2027",
+      "company": {
+        "name": "Rocket Lab USA",
+        "slug": "rocket-lab-usa"
+      },
+      "role": "Electrical Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990683003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Long Beach",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
       "status": "open",
       "tags": [
         "auto-ingested",
@@ -213169,7 +213641,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -300146,7 +300618,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

@@ -7,8 +7,9 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | National Life | [IT Application Development Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009) | Montpelier, VT +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| National Life | [Strategic Operations Analyst Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009) | Montpelier, VT +1 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
+| National Life | [Market Research Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) | Montpelier, VT +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| National Life | [Strategic Operations Analyst Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4410899009) | Montpelier, VT +1 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

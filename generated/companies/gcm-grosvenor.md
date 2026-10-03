@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| GCM Grosvenor | [Fund Data Reporting and Analytics Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003) | Chicago, IL | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| GCM Grosvenor | [Fund Data Reporting and Analytics Intern](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8003490003) | Chicago, IL | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

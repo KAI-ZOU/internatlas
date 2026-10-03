@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**214** tracked · **145** open now
+**215** tracked · **146** open now
 
 ## Current openings
 
@@ -37,6 +37,7 @@
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [FPGA Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4704803006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Hardware Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4707012006) | SF | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
+| [Astranis](generated/companies/astranis.md) | [Software Defined Radio Hardware Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4715983006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Software Defined Radio Hardware Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Software Defined Radio Hardware Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Hardware Engineer Intern](https://jobs.ashbyhq.com/bedrock-robotics/949feb1b-c60f-43c5-94de-7dd9cd70ba4a/application?embed=true) | SF | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -229,7 +230,7 @@
 - AMD (18)
 - Anduril (17)
 - Neuralink (13)
-- Astranis (8)
+- Astranis (9)
 - Ciena (6)
 - Marvell (6)
 - NVIDIA (6)

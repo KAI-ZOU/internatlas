@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**174** tracked · **86** open now
+**175** tracked · **88** open now
 
 ## Current openings
 
@@ -54,8 +54,10 @@
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Organic Optoelectronic Materials (PhD)](https://www.metacareers.com/profile/job_details/843617948284299) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Mistral AI](generated/companies/mistral-ai.md) | [Applied Scientist / Research Engineer Intern](https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e/application?embed=true) | London +1 | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
+| [National Life](generated/companies/national-life.md) | [Market Research Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) | Montpelier, VT +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [NeoCognition](generated/companies/neocognition.md) | [Research Intern](https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Programming Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379) | Santa Clara, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) | Santa Clara, CA | Onsite | 2026-09-13 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Research Intern - Robotics](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) | Seattle, WA +1 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [PennState University](generated/companies/pennstate-university.md) | [Research and Development Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | State College, PA | Onsite | 2026-03-03 | Rolling | 🟢 Open | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Guidance and Control Research & Development Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Guidance-and-Control-Research---Development-Internship_REQ_0000071517-1) | State College, PA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
@@ -155,7 +157,6 @@
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Circuits](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) | Santa Clara, CA +1 | Onsite | 2026-09-13 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Generalist Embodied Agents Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103) | Santa Clara, CA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - System Software and I/O Architecture](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667) | Urbana, IL +1 | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
-| [NVIDIA](generated/companies/nvidia.md) | [Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) | Santa Clara, CA | Onsite | 2026-09-13 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Robotics Intern - Ph.D. Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--PhD-Research-Robotics_JR2023847) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Outpost Technologies](generated/companies/outpost-technologies.md) | [Technical Marketing Intern - Analytics - Research & Automation](https://jobs.ashbyhq.com/outpostnow/6f63d0c8-c332-498f-ac69-08c305f5a9ee/application?embed=true) | London | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Research and Development Engineer Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000072876-1) | State College, PA | Onsite | 2026-07-02 | Rolling | 🔴 Closed | ❔ |
@@ -230,6 +231,7 @@
 - J.M. Smucker (1)
 - Jump Trading (1)
 - Merck (1)
+- National Life (1)
 - NeoCognition (1)
 - PennState University (1)
 - Pika (1)

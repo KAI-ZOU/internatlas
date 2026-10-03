@@ -7,6 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Astranis | [Backend Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4705214006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
+| Astranis | [Electrical Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4704784006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
+| Astranis | [Electrical Reliability Intern](https://job-boards.greenhouse.io/astranis/jobs/4704782006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Flight Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4704595006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Flight Software Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704598006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Astranis | [FPGA Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4704805006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -15,9 +17,9 @@
 | Astranis | [Network Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4705597006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Radiation Effects Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4704335006) | SF | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4677973006) | San Francisco, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
-| Astranis | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4705629006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
-| Astranis | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4705626006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
+| Astranis | [RF Validation Intern](https://job-boards.greenhouse.io/astranis/jobs/4716184006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Astranis | [RF Validation Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716499006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
+| Astranis | [Software Defined Radio Hardware Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4715983006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Software Defined Radio Hardware Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4716088006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Software Defined Radio Hardware Intern - Winter 2027](https://job-boards.greenhouse.io/astranis/jobs/4716087006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Software Developer – Network Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4705599006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -33,6 +35,8 @@
 | Astranis | [Radiation Effects Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4694853006) | SF | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | Astranis | [Reliability Design Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4681416006) | SF | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
 | Astranis | [Reliability Design Intern](https://job-boards.greenhouse.io/astranis/jobs/4681472006) | SF | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
+| Astranis | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4705629006) | SF | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
+| Astranis | [Reliability Test Intern](https://job-boards.greenhouse.io/astranis/jobs/4705626006) | SF | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | Astranis | [Software Engineer-Backend Intern](https://job-boards.greenhouse.io/astranis/jobs/4681183006) | SF | Onsite | 2026-05-13 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

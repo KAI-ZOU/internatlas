@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**443** tracked · **238** open now
+**443** tracked · **236** open now
 
 ## Current openings
 
@@ -86,7 +86,6 @@
 | [Crowe](generated/companies/crowe.md) | [AI Engineering Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782) | Chicago, IL | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | [Deloitte](generated/companies/deloitte.md) | [AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) | Austin, TX | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [Delta Air Lines](generated/companies/delta-air-lines.md) | [Intern, Innovation - AI Engineering](https://delta.avature.net/en_US/careers/JobDetail?jobId=32774) | Atlanta, GA | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❌ |
-| [Dev Technology Group](generated/companies/dev-technology-group.md) | [AI/Agentic Solution Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/devtechnology/jobs/8728292002) | Reston, VA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Dev Technology Group](generated/companies/dev-technology-group.md) | [Microsoft Power Platform & AI Intern - Summer 2027](https://job-boards.greenhouse.io/devtechnology/jobs/8726259002) | Reston, VA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [DV Trading](generated/companies/dv-trading.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/dvtrading/jobs/4732429005) | Chicago, IL | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Ecolab](generated/companies/ecolab.md) | [Digital & AI Technology Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249) | Naperville, IL +2 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -241,7 +240,6 @@
 | [Workato](generated/companies/workato.md) | [Intern AI Engineering](https://job-boards.greenhouse.io/workato/jobs/8492935002) | SF | Onsite | 2026-04-10 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Spring 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255113007) | Palo Alto, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Summer 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255116007) | Palo Alto, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
-| [Xaira Therapeutics](generated/companies/xaira-therapeutics.md) | [AI Scientist Intern - Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) | Seattle, WA +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [AI & Automation Intern - Regulatory](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1) | Denver, CO | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [AI and Analytics Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/AI-and-Analytics-Intern-MN--CO_JR115877-1) | Minneapolis, MN +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Remote | Remote | 2026-08-02 | Rolling | 🟢 Open | ❔ |
@@ -307,6 +305,7 @@
 | [Datasite](generated/companies/datasite.md) | [AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer](https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255) | NYC | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [Deloitte](generated/companies/deloitte.md) | [AI Innovation Summer Scholar Intern - AI Innovation](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-AI-Innovation/364696) | McLean, VA | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Deloitte](generated/companies/deloitte.md) | [Data & AI Solutions Engineering Summer Scholar Intern](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475) | Atlanta, GA | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
+| [Dev Technology Group](generated/companies/dev-technology-group.md) | [AI/Agentic Solution Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/devtechnology/jobs/8728292002) | Reston, VA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Dmg Media](generated/companies/dmg-media.md) | [AI Engineer Intern - Innovation Team](https://www.dmgmedia.co.uk/careers/jobs/id/8130352?gh_jid=8130352) | London | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [DNV](generated/companies/dnv.md) | [AI Research Intern](https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7094) | Oakland, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Egra](generated/companies/egra.md) | [AI Researcher Intern](https://jobs.ashbyhq.com/egra/6f295102-6330-4a9e-9fc4-9b414e620003/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
@@ -445,6 +444,7 @@
 | [Wex](generated/companies/wex.md) | [Backend Software Engineer Intern - Cloud Security & AI - Undergraduate](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589) | Remote | Remote | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Wex](generated/companies/wex.md) | [Backend Software Engineer Intern - Java & AI - Master's](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547) | Remote | Remote | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Wex](generated/companies/wex.md) | [Software Engineer Intern - AI & Cloud](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546) | Remote | Remote | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
+| [Xaira Therapeutics](generated/companies/xaira-therapeutics.md) | [AI Scientist Intern - Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) | Seattle, WA +1 | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [AI Solutions Development Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1) | Minneapolis, MN +1 | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | [Xpansiv](generated/companies/xpansiv.md) | [Product Management Intern - AI Products](https://jobs.lever.co/Xpansiv%20/8a1649ec-ef5f-425d-8a36-34f28d67e8a7/apply) | NYC | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [Xsolla](generated/companies/xsolla.md) | [AI Engineer Intern](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply) | Montreal | Onsite | 2026-07-10 | Rolling | 🔴 Closed | ❔ |
@@ -606,7 +606,6 @@
 - Two Sigma (1)
 - V2X (1)
 - Workato (1)
-- Xaira Therapeutics (1)
 - Yotta Labs (1)
 - Zimmer Biomet Holdings (1)
 - ABB (1)
@@ -685,5 +684,6 @@
 - University of St. Thomas (1)
 - Veeda AI (1)
 - Verisk (1)
+- Xaira Therapeutics (1)
 - Xpansiv (1)
 - Zurich Insurance (1)
