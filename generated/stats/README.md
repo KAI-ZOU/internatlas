@@ -12,7 +12,7 @@ _Generated 2026-10-03_
 | TikTok | 169 |
 | RTX | 143 |
 | AMD | 74 |
-| Marvell | 71 |
+| Marvell | 72 |
 | ByteDance | 70 |
 | American Express | 67 |
 | Booz Allen | 67 |
@@ -33,15 +33,15 @@ _Generated 2026-10-03_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 3320 | `███████████████` |
+| software-engineering | 3321 | `███████████████` |
 | ai | 443 | `██` |
 | quant | 319 | `█` |
 | machine-learning | 253 | `█` |
 | data-science | 221 | `█` |
-| hardware | 213 | `█` |
+| hardware | 214 | `█` |
 | product | 186 | `█` |
 | research | 174 | `█` |
-| design | 149 | `█` |
+| design | 150 | `█` |
 | embedded | 136 | `█` |
 | data-engineering | 101 | `█` |
 | cloud | 56 | `█` |
@@ -49,8 +49,10 @@ _Generated 2026-10-03_
 
 ## Newest listings
 
+- 2026-10-03 — **CesiumAstro**: [Electrical Engineering Intern - FPGA](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply)
 - 2026-10-03 — **Electronic Arts**: [Product Manager Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272)
 - 2026-10-03 — **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239)
+- 2026-10-03 — **First Citizens BancShares**: [Summer Intern - Sales Performance & Analytics Strategy](https://firstcitizens.jibeapply.com/jobs/35826?icims=1)
 - 2026-10-03 — **Koch Industries**: [Product Management Intern](https://koch.avature.net/en_US/careers/JobDetail/195099)
 - 2026-10-02 — **Affirm**: [Software Engineer Intern - Machine Learning](https://job-boards.greenhouse.io/affirm/jobs/8008645003)
 - 2026-10-02 — **Affirm**: [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011590003)
@@ -67,8 +69,6 @@ _Generated 2026-10-03_
 - 2026-10-02 — **Centene**: [Medical Economics Analyst Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1)
 - 2026-10-02 — **Centene**: [Medical Economics Intern](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091)
 - 2026-10-02 — **Charter Manufacturing**: [Smart Manufacturing Engineer Intern](https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133)
-- 2026-10-02 — **Databricks**: [Product Management Intern (2026) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002)
-- 2026-10-02 — **Databricks**: [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8847738002)
 
 ## Recently closed
 
@@ -337,12 +337,26 @@ _Generated 2026-10-03_
 - Geotab — Software Developer Intern
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
 - Goldman Sachs — Summer Associate Intern
 - Goldman Sachs — Summer Associate Intern - Multiple Teams
@@ -485,6 +499,7 @@ _Generated 2026-10-03_
 - Microsoft — Silicon Engineer Intern
 - Microsoft — Silicon Engineering Intern - 6-month Program
 - Microsoft — Software Engineer Intern
+- Moog — Artificial Intelligence Intern
 - Moog — Embedded Design Engineering Intern
 - Moog — Hardware Design Engineering Intern
 - Moog — Software Engineer Intern - Military Aircraft
@@ -500,6 +515,7 @@ _Generated 2026-10-03_
 - North Atlantic Industries — Full Stack Software Engineer Intern
 - Northern Trust — Technology Intern - Data Science and Analytics
 - Northern Trust — Technology Intern - Software Engineering
+- Northrop Grumman — Cyber Software Engineer Intern
 - Northrop Grumman — Digital Engineer Intern
 - Northrop Grumman — Embedded Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
@@ -686,6 +702,7 @@ _Generated 2026-10-03_
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern - Receiver Exciter and Processing Architecture
 - RTX — Software Engineer Intern - Summer 2027
 - RTX — Software Engineering Intern
@@ -822,6 +839,7 @@ _Generated 2026-10-03_
 - Wealthsimple — Credit & Fraud Analytics Intern - Winter 2027
 - Wealthsimple — Software Development Intern / Data Science Intern - Multiple Teams
 - Weave — Data Engineer Intern
+- Wellington Management — Technology Undergraduate Intern
 - Wellington Management — Technology Undergraduate Intern
 - Wells Fargo — Quantitative Analytics Intern - Capital Markets - Masters
 - Wells Fargo — Quantitative Analytics Intern - Multiple Teams

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-asset-and-wealth-ma-2027",
+  "id": "cesiumastro-electrical-engineering-intern-fpga-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "CesiumAstro",
+    "slug": "cesiumastro"
   },
-  "role": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175423?type=students",
+  "role": "Electrical Engineering Intern - FPGA",
+  "category": "hardware",
+  "apply_url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -25,6 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
+      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -41,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-10-03",
+    "discovered": "2026-10-03",
     "last_verified": "2026-10-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

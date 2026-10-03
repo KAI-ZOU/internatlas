@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-03",
-  "count": 5594,
+  "count": 5597,
   "internships": [
     {
       "schema_version": "1.0",
@@ -54105,6 +54105,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cesiumastro-electrical-engineering-intern-fpga-2027",
+      "company": {
+        "name": "CesiumAstro",
+        "slug": "cesiumastro"
+      },
+      "role": "Electrical Engineering Intern - FPGA",
+      "category": "hardware",
+      "apply_url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-03",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cesiumastro-embedded-software-engineer-intern-2027-dd0ee2",
       "company": {
         "name": "CesiumAstro",
@@ -92758,6 +92813,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "first-citizens-bancshares-summer-intern-sales-performance-analytics-strategy-2027",
+      "company": {
+        "name": "First Citizens BancShares",
+        "slug": "first-citizens-bancshares"
+      },
+      "role": "Summer Intern - Sales Performance & Analytics Strategy",
+      "category": "software-engineering",
+      "apply_url": "https://firstcitizens.jibeapply.com/jobs/35826?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-03",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "first-national-bank-ai-and-innovation-intern-2027",
       "company": {
         "name": "First National Bank",
@@ -105709,7 +105816,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105814,7 +105921,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105867,7 +105974,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105919,7 +106026,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105973,7 +106080,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106026,7 +106133,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106079,7 +106186,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106130,7 +106237,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106181,7 +106288,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106233,7 +106340,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106284,7 +106391,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106652,7 +106759,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106706,7 +106813,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106808,7 +106915,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -152117,7 +152224,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "marvell-physical-design-engineer-intern-ms-multiple-teams-2027",
+      "id": "marvell-physical-design-engineer-intern-ms-multiple-teams-2027-b4bcb8",
       "company": {
         "name": "Marvell",
         "slug": "marvell"
@@ -152125,6 +152232,90 @@
       "role": "Physical Design Engineer Intern - MS - Multiple Teams",
       "category": "design",
       "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Morrisville",
+          "state": "NC",
+          "country": "USA"
+        },
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Rochester",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Boise",
+          "state": "ID",
+          "country": "USA"
+        },
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        },
+        {
+          "city": "Westborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-physical-design-engineer-intern-ms-multiple-teams-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Physical Design Engineer Intern - MS - Multiple Teams",
+      "category": "design",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -163292,7 +163483,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175368,7 +175559,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221850,7 +222041,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -296184,7 +296375,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

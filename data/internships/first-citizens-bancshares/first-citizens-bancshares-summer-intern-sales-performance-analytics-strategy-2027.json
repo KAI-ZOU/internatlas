@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-associate-intern-asset-and-wealth-ma-2027",
+  "id": "first-citizens-bancshares-summer-intern-sales-performance-analytics-strategy-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "First Citizens BancShares",
+    "slug": "first-citizens-bancshares"
   },
-  "role": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175423?type=students",
+  "role": "Summer Intern - Sales Performance & Analytics Strategy",
+  "category": "software-engineering",
+  "apply_url": "https://firstcitizens.jibeapply.com/jobs/35826?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-10-03",
+    "discovered": "2026-10-03",
     "last_verified": "2026-10-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
