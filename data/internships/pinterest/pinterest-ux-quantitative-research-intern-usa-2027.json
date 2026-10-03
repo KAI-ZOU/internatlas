@@ -1,23 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
+  "id": "pinterest-ux-quantitative-research-intern-usa-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "career_page": "https://www.pinterestcareers.com/"
   },
-  "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+  "role": "UX Quantitative Research Intern (USA)",
   "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171551?type=students",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Salt Lake City",
-      "state": "UT",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -40,13 +35,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-21",
-    "last_verified": "2026-10-02"
+    "posted": "2026-10-01",
+    "discovered": "2026-10-03",
+    "last_verified": "2026-10-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

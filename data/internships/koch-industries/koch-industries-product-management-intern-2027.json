@@ -1,19 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-americas-investment-banking-quantitati-2027",
+  "id": "koch-industries-product-management-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Koch Industries",
+    "slug": "koch-industries"
   },
-  "role": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171547?type=students",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Eden Prairie",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Lisle",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -25,7 +31,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -41,11 +48,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-10-03",
+    "discovered": "2026-10-03",
     "last_verified": "2026-10-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

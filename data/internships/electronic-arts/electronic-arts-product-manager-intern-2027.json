@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-summer-analyst-intern-americas-investment-banking-quantitati-2027",
+  "id": "electronic-arts-product-manager-intern-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Electronic Arts",
+    "slug": "electronic-arts"
   },
-  "role": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171547?type=students",
+  "role": "Product Manager Intern",
+  "category": "product",
+  "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -41,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-09-04",
+    "posted": "2026-10-03",
+    "discovered": "2026-10-03",
     "last_verified": "2026-10-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

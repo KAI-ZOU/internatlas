@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-03",
-  "count": 5593,
+  "count": 5597,
   "internships": [
     {
       "schema_version": "1.0",
@@ -54719,9 +54719,9 @@
       "dates": {
         "posted": "2026-08-29",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-28"
+        "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -71425,7 +71425,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81864,6 +81864,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "electronic-arts-product-manager-intern-2027",
+      "company": {
+        "name": "Electronic Arts",
+        "slug": "electronic-arts"
+      },
+      "role": "Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-03",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "electronic-arts-rendering-engineer-intern-apex-legends-2027",
       "company": {
         "name": "Electronic Arts",
@@ -81966,7 +82019,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "electronic-arts-software-engineer-intern-2027",
+      "id": "electronic-arts-software-engineer-intern-2027-b6bdb3",
       "company": {
         "name": "Electronic Arts",
         "slug": "electronic-arts"
@@ -82007,6 +82060,58 @@
       },
       "dates": {
         "posted": "2026-09-30",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "electronic-arts-software-engineer-intern-2027",
+      "company": {
+        "name": "Electronic Arts",
+        "slug": "electronic-arts"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-03",
         "discovered": "2026-10-01",
         "last_verified": "2026-10-03"
       },
@@ -103354,7 +103459,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105709,7 +105814,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105762,7 +105867,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105813,58 +105918,6 @@
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171551?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-21",
-        "last_verified": "2026-10-02"
       },
       "status": "closed",
       "tags": [
@@ -105935,13 +105988,14 @@
       },
       "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171533?type=students",
+      "apply_url": "https://higher.gs.com/roles/171551?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
+          "city": "Salt Lake City",
+          "state": "UT",
           "country": "USA"
         }
       ],
@@ -106024,7 +106078,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106078,7 +106132,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106129,7 +106183,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106180,7 +106234,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106231,7 +106285,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106283,7 +106337,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106334,7 +106388,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106543,7 +106597,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106756,7 +106810,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106858,7 +106912,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107011,9 +107065,9 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-08-29",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116397,6 +116451,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hntb-ai-business-process-developer-intern-2027-d15b6f",
+      "company": {
+        "name": "HNTB",
+        "slug": "hntb"
+      },
+      "role": "AI Business Process Developer Intern",
+      "category": "ai",
+      "apply_url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hntb-ai-business-process-developer-intern-2027",
+      "company": {
+        "name": "HNTB",
+        "slug": "hntb"
+      },
+      "role": "AI Business Process Developer Intern",
+      "category": "ai",
+      "apply_url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-03",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hntb-gis-intern-2027",
       "company": {
         "name": "HNTB",
@@ -117592,7 +117750,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129020,7 +129178,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137599,9 +137757,9 @@
       "dates": {
         "posted": "2026-09-25",
         "discovered": "2026-09-26",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-10-03"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138111,7 +138269,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138373,6 +138531,66 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-21",
+        "last_verified": "2026-10-03"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "koch-industries-product-management-intern-2027",
+      "company": {
+        "name": "Koch Industries",
+        "slug": "koch-industries"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://koch.avature.net/en_US/careers/JobDetail/195099",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Eden Prairie",
+          "state": "MN",
+          "country": "USA"
+        },
+        {
+          "city": "Lisle",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-03",
+        "discovered": "2026-10-03",
         "last_verified": "2026-10-03"
       },
       "status": "open",
@@ -141695,7 +141913,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159865,7 +160083,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160134,7 +160352,7 @@
         "discovered": "2026-08-28",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173188,7 +173406,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173349,7 +173567,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175820,7 +176038,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193601,13 +193819,13 @@
     },
     {
       "schema_version": "1.0",
-      "id": "pinterest-ux-quantitative-research-intern-usa-remote-2027",
+      "id": "pinterest-ux-quantitative-research-intern-usa-2027",
       "company": {
         "name": "Pinterest",
         "slug": "pinterest",
         "career_page": "https://www.pinterestcareers.com/"
       },
-      "role": "UX Quantitative Research Intern (USA)  *Remote",
+      "role": "UX Quantitative Research Intern (USA)",
       "category": "quant",
       "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
       "season": "summer",
@@ -193637,7 +193855,7 @@
       },
       "dates": {
         "posted": "2026-10-01",
-        "discovered": "2026-10-01",
+        "discovered": "2026-10-03",
         "last_verified": "2026-10-03"
       },
       "status": "open",
@@ -205654,7 +205872,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -220531,7 +220749,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -280294,7 +280512,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -281660,7 +281878,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -281714,7 +281932,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -286610,7 +286828,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-03"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

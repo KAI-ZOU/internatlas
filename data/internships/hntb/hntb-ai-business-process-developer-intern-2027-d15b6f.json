@@ -1,18 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-ux-quantitative-research-intern-usa-remote-2027",
+  "id": "hntb-ai-business-process-developer-intern-2027-d15b6f",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "name": "HNTB",
+    "slug": "hntb"
   },
-  "role": "UX Quantitative Research Intern (USA)  *Remote",
-  "category": "quant",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
+  "role": "AI Business Process Developer Intern",
+  "category": "ai",
+  "apply_url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -35,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
-    "discovered": "2026-10-01",
+    "posted": "2026-10-02",
+    "discovered": "2026-10-03",
     "last_verified": "2026-10-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
