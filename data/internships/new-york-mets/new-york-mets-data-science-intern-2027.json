@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "xai-spring-2027-software-engineering-internship-co-op-2027",
+  "id": "new-york-mets-data-science-intern-2027",
   "company": {
-    "name": "xAI",
-    "slug": "xai",
-    "career_page": "https://x.ai/careers"
+    "name": "New York Mets",
+    "slug": "new-york-mets"
   },
-  "role": "Spring 2027 Software Engineering Internship/Co-op",
-  "category": "ai",
-  "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5252108007",
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Palo Alto",
-      "state": "CA",
+      "city": "Queens",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -42,12 +41,12 @@
   },
   "dates": {
     "posted": "2026-10-02",
-    "discovered": "2026-10-02",
-    "last_verified": "2026-10-02"
+    "discovered": "2026-10-03",
+    "last_verified": "2026-10-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

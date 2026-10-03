@@ -7,7 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Nelnet | [Agentic AI Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern-Program---Agentic-AI_R22904) | Lincoln, NE | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| Nelnet | [IT Software Engineer Intern](https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198) | Lincoln, NE | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [💻 Software Engineering](../categories/software-engineering.md)

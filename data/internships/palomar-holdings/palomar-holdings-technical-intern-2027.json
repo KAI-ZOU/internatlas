@@ -1,21 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "equipmentshare-software-engineer-intern-2027-413100",
+  "id": "palomar-holdings-technical-intern-2027",
   "company": {
-    "name": "EquipmentShare",
-    "slug": "equipmentshare"
+    "name": "Palomar Holdings",
+    "slug": "palomar-holdings"
   },
-  "role": "Software Engineer Intern",
+  "role": "Technical Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926",
+  "apply_url": "https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Columbia",
-      "state": "MO",
+      "city": "Edina",
+      "state": "MN",
       "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "La Jolla",
+      "country": "San Diego"
     }
   ],
   "compensation": {
@@ -40,9 +49,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
-    "last_verified": "2026-10-02"
+    "posted": "2026-10-02",
+    "discovered": "2026-10-03",
+    "last_verified": "2026-10-03"
   },
   "status": "open",
   "tags": [
