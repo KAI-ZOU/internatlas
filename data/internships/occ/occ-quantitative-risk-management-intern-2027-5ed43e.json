@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "roblox-summer-2027-product-management-intern-2027",
+  "id": "occ-quantitative-risk-management-intern-2027-5ed43e",
   "company": {
-    "name": "Roblox",
-    "slug": "roblox",
-    "career_page": "https://careers.roblox.com/"
+    "name": "OCC",
+    "slug": "occ"
   },
-  "role": "[Summer 2027] Product Management Intern",
-  "category": "product",
-  "apply_url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+  "role": "Quantitative Risk Management Intern",
+  "category": "quant",
+  "apply_url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Mateo",
-      "state": "CA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-02",
+    "posted": "2026-09-17",
     "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

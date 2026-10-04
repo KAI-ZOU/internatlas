@@ -1,18 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-software-engineer-intern-2027-usa-2027",
+  "id": "rivian-software-engineer-co-op-intern-enterprise-applications-2027-3569b7",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "name": "Rivian",
+    "slug": "rivian"
   },
-  "role": "Software Engineer Intern 2027 (USA)",
+  "role": "Software Engineer Co-op Intern - Enterprise Applications",
   "category": "software-engineering",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
-  "season": "summer",
+  "apply_url": "https://careers.rivian.com/jobs/33804?icims=1",
+  "season": "spring",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Plymouth",
+      "state": "MI",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -20,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -35,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
+    "posted": "2026-09-22",
     "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

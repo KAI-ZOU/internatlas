@@ -1,21 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-machine-learning-intern-2027-toronto-2027",
+  "id": "emc-insurance-claims-intern-data-2027-178a1d",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "name": "EMC Insurance",
+    "slug": "emc-insurance"
   },
-  "role": "Machine Learning Intern 2027 (Toronto)",
-  "category": "machine-learning",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+  "role": "Claims Intern - Data",
+  "category": "software-engineering",
+  "apply_url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Data-_R6552-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "state": "ON",
+      "city": "Iowa",
       "country": "USA"
     }
   ],
@@ -41,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
+    "posted": "2026-09-21",
     "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

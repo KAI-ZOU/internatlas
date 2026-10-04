@@ -17,6 +17,10 @@
       "city": "Mountain View",
       "state": "CA",
       "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {

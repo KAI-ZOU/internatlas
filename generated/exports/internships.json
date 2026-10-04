@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-04",
-  "count": 5593,
+  "count": 5630,
   "internships": [
     {
       "schema_version": "1.0",
@@ -259,7 +259,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -429,7 +429,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -489,6 +489,60 @@
         "last_verified": "2026-09-30"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "abb-market-research-analysis-intern-2027",
+      "company": {
+        "name": "ABB",
+        "slug": "abb"
+      },
+      "role": "Market Research & Analysis Intern",
+      "category": "research",
+      "apply_url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Market-Research---Analysis-Intern---Summer-2027_JR00045583",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -3260,7 +3314,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5143,7 +5197,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -7526,7 +7580,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -8073,7 +8127,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10532,7 +10586,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -10965,7 +11019,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11019,7 +11073,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -11578,7 +11632,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13603,7 +13657,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -13657,7 +13711,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14135,7 +14189,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14247,7 +14301,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027",
+      "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027-b17b3d",
       "company": {
         "name": "American Express",
         "slug": "american-express"
@@ -14290,6 +14344,60 @@
       },
       "dates": {
         "posted": "2026-09-01",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
+      "category": "data-science",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
@@ -14345,6 +14453,59 @@
         "last_verified": "2026-10-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "american-express-digital-product-management-intern-enterprise-technology-serv-2027-13ba62",
+      "company": {
+        "name": "American Express",
+        "slug": "american-express"
+      },
+      "role": "Digital Product Management Intern - Enterprise Technology Services",
+      "category": "product",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14556,7 +14717,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -14571,7 +14732,7 @@
       },
       "role": "Digital Product Management Intern - Enterprise Technology Services",
       "category": "product",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057",
+      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -15643,7 +15804,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16301,7 +16462,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16619,7 +16780,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -16961,7 +17122,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -17010,7 +17171,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19606,6 +19767,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "antares-nuclear-electrical-engineer-intern-2027",
+      "company": {
+        "name": "Antares Nuclear",
+        "slug": "antares-nuclear"
+      },
+      "role": "Electrical Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/Antares/3061297c-a666-47be-a58a-b62881bf183d/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-10",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "antares-nuclear-software-engineer-intern-2027",
       "company": {
         "name": "Antares Nuclear",
@@ -19865,7 +20080,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -19970,7 +20185,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20078,7 +20293,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20133,7 +20348,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -20952,7 +21167,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23256,7 +23471,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23308,7 +23523,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23458,7 +23673,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25606,7 +25821,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -33874,7 +34089,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34452,7 +34667,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -34556,7 +34771,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48116,7 +48331,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48546,7 +48761,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48598,7 +48813,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48650,7 +48865,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48866,7 +49081,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50761,7 +50976,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50887,7 +51102,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52658,7 +52873,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53962,7 +54177,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -55822,7 +56037,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "cibc-software-engineer-intern-2027",
+      "id": "cibc-software-engineer-intern-2027-5d4325",
       "company": {
         "name": "CIBC",
         "slug": "cibc"
@@ -55830,6 +56045,58 @@
       "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cibc-software-engineer-intern-2027",
+      "company": {
+        "name": "CIBC",
+        "slug": "cibc"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -56084,7 +56351,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ciena-hardware-design-and-verification-intern-pcba-2027",
+      "id": "ciena-hardware-design-and-verification-intern-pcba-2027-41af8c",
       "company": {
         "name": "Ciena",
         "slug": "ciena"
@@ -56124,6 +56391,57 @@
       },
       "dates": {
         "posted": "2026-09-29",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ciena-hardware-design-and-verification-intern-pcba-2027",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Hardware Design and Verification Intern - PCBA",
+      "category": "hardware",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-25",
         "discovered": "2026-09-26",
         "last_verified": "2026-10-04"
       },
@@ -57242,7 +57560,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -59580,7 +59898,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -64806,7 +65124,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -64858,7 +65176,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -64910,7 +65228,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65060,7 +65378,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -65112,7 +65430,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66423,7 +66741,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68074,7 +68392,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68754,7 +69072,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69175,7 +69493,111 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cox-product-management-intern-2027",
+      "company": {
+        "name": "Cox",
+        "slug": "cox"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cox-product-management-intern-summer-2027-2027-18334b",
+      "company": {
+        "name": "Cox",
+        "slug": "cox"
+      },
+      "role": "Product Management Intern - Summer 2027",
+      "category": "product",
+      "apply_url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burlington",
+          "state": "VT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69227,7 +69649,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69278,7 +69700,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -69293,14 +69715,14 @@
       },
       "role": "Product Management Intern - Summer 2027",
       "category": "product",
-      "apply_url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191",
+      "apply_url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Burlington",
-          "state": "VT",
+          "city": "Atlanta",
+          "state": "GA",
           "country": "USA"
         }
       ],
@@ -69433,7 +69855,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72480,6 +72902,66 @@
     },
     {
       "schema_version": "1.0",
+      "id": "datadog-software-engineer-intern-summer-2027",
+      "company": {
+        "name": "Datadog",
+        "slug": "datadog"
+      },
+      "role": "Software Engineer Intern - Summer",
+      "category": "software-engineering",
+      "apply_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "Boston",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-08",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "datadog-software-engineering-intern-2027-8ae0aa",
       "company": {
         "name": "Datadog",
@@ -72694,58 +73176,6 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "datadog-software-engineering-intern-summer-2027",
-      "company": {
-        "name": "Datadog",
-        "slug": "datadog",
-        "career_page": "https://careers.datadoghq.com/"
-      },
-      "role": "Software Engineering Intern (Summer)",
-      "category": "software-engineering",
-      "apply_url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Boston",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-08",
-        "discovered": "2026-10-04",
-        "last_verified": "2026-10-04"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
       ]
     },
     {
@@ -73933,7 +74363,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76435,7 +76865,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76488,6 +76918,58 @@
         "last_verified": "2026-08-10"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "diversified-energy-information-technology-intern-2027",
+      "company": {
+        "name": "Diversified Energy",
+        "slug": "diversified-energy"
+      },
+      "role": "Information Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.div.energy/jobs/2734?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Birmingham",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-04",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76696,7 +77178,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76747,7 +77229,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77174,7 +77656,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77328,7 +77810,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -77960,6 +78442,57 @@
       "dates": {
         "posted": "2026-09-29",
         "discovered": "2026-09-29",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dreamworks-animation-audience-insights-analytics-intern-2027",
+      "company": {
+        "name": "DreamWorks Animation",
+        "slug": "dreamworks-animation"
+      },
+      "role": "Audience Insights & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153373639",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-04",
+        "discovered": "2026-10-04",
         "last_verified": "2026-10-04"
       },
       "status": "open",
@@ -80437,7 +80970,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80564,7 +81097,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "eaton-firmware-engineer-intern-co-op-research-development-engineer-2027",
+      "id": "eaton-firmware-engineer-intern-co-op-research-development-engineer-2027-4cb4de",
       "company": {
         "name": "Eaton",
         "slug": "eaton"
@@ -80605,6 +81138,58 @@
       },
       "dates": {
         "posted": "2026-09-01",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "eaton-firmware-engineer-intern-co-op-research-development-engineer-2027",
+      "company": {
+        "name": "Eaton",
+        "slug": "eaton"
+      },
+      "role": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
+      "category": "embedded",
+      "apply_url": "https://eaton.eightfold.ai/careers/job/687238593356",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Moon Twp",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
@@ -81724,7 +82309,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81777,7 +82362,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -81828,7 +82413,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82429,7 +83014,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "emc-insurance-claims-intern-data-2027",
+      "id": "emc-insurance-claims-intern-data-2027-178a1d",
       "company": {
         "name": "EMC Insurance",
         "slug": "emc-insurance"
@@ -82469,7 +83054,262 @@
       },
       "dates": {
         "posted": "2026-09-21",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "emc-insurance-claims-intern-data-2027",
+      "company": {
+        "name": "EMC Insurance",
+        "slug": "emc-insurance"
+      },
+      "role": "Claims Intern - Data",
+      "category": "software-engineering",
+      "apply_url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Data-_R6552",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Iowa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
         "discovered": "2026-09-21",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "emc-insurance-claims-intern-property-2027-bf982f",
+      "company": {
+        "name": "EMC Insurance",
+        "slug": "emc-insurance"
+      },
+      "role": "Claims Intern - Property",
+      "category": "software-engineering",
+      "apply_url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern--Claims--Property-_R6553-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Iowa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "emc-insurance-claims-intern-property-2027",
+      "company": {
+        "name": "EMC Insurance",
+        "slug": "emc-insurance"
+      },
+      "role": "Claims Intern - Property",
+      "category": "software-engineering",
+      "apply_url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa/Intern--Claims--Property-_R6553",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Iowa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "emc-insurance-claims-intern-workers-compensation-2027-bba054",
+      "company": {
+        "name": "EMC Insurance",
+        "slug": "emc-insurance"
+      },
+      "role": "Claims Intern - Workers' Compensation",
+      "category": "software-engineering",
+      "apply_url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Iowa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "emc-insurance-claims-intern-workers-compensation-2027",
+      "company": {
+        "name": "EMC Insurance",
+        "slug": "emc-insurance"
+      },
+      "role": "Claims Intern - Workers' Compensation",
+      "category": "software-engineering",
+      "apply_url": "https://emcins.wd5.myworkdayjobs.com/EMC_Internships/job/Iowa---Work-From-Home/Claims-Intern---Worker-s-Compensation_R6548",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Iowa",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-21",
+        "discovered": "2026-10-04",
         "last_verified": "2026-10-04"
       },
       "status": "open",
@@ -84328,7 +85168,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -86562,7 +87402,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -90451,7 +91291,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -92513,7 +93353,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -93847,7 +94687,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94423,7 +95263,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -94475,7 +95315,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97165,7 +98005,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97269,7 +98109,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -97321,7 +98161,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -98533,7 +99373,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100136,7 +100976,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -100243,7 +101083,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101284,6 +102124,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "general-dynamics-information-technology-software-development-intern-2027-232635",
+      "company": {
+        "name": "General Dynamics Information Technology",
+        "slug": "general-dynamics-information-technology"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Falls Church",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "general-dynamics-information-technology-software-development-intern-2027-8c7786",
       "company": {
         "name": "General Dynamics Information Technology",
@@ -101330,7 +102224,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101399,7 +102293,7 @@
       },
       "role": "Software Development Intern",
       "category": "software-engineering",
-      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406",
+      "apply_url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -101913,7 +102807,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -101967,7 +102861,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102135,7 +103029,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102258,7 +103152,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102371,7 +103265,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102482,7 +103376,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102534,7 +103428,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102701,7 +103595,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102760,7 +103654,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102829,7 +103723,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -102938,7 +103832,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105679,7 +106573,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105732,7 +106626,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105785,7 +106679,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -105906,13 +106800,14 @@
       },
       "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171533?type=students",
+      "apply_url": "https://higher.gs.com/roles/171551?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
+          "city": "Salt Lake City",
+          "state": "UT",
           "country": "USA"
         }
       ],
@@ -105995,7 +106890,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106049,7 +106944,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106100,7 +106995,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106151,7 +107046,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106202,7 +107097,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106254,7 +107149,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106305,7 +107200,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106461,7 +107356,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106514,7 +107409,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106727,7 +107622,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106829,7 +107724,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -106984,7 +107879,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107037,7 +107932,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107341,7 +108236,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107594,7 +108489,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108047,7 +108942,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108247,7 +109142,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108312,7 +109207,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108615,7 +109510,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108674,7 +109569,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -110049,7 +110944,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112111,7 +113006,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112224,7 +113119,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113174,7 +114069,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -113232,7 +114127,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115355,7 +116250,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116096,7 +116991,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116200,7 +117095,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -116793,7 +117688,7 @@
         "discovered": "2026-08-22",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -119552,7 +120447,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120378,7 +121273,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120959,7 +121854,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123183,6 +124078,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "impulse-space-avionics-electric-propulsion-engineering-intern-2027",
+      "company": {
+        "name": "Impulse Space",
+        "slug": "impulse-space"
+      },
+      "role": "Avionics Electric Propulsion Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974?ats=pinpointhq",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redondo Beach",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "impulse-space-data-analytics-intern-2026",
       "company": {
         "name": "Impulse Space",
@@ -123281,7 +124230,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123443,7 +124392,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123545,7 +124494,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -125615,7 +126564,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -125949,7 +126898,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126154,7 +127103,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126283,7 +127232,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126337,7 +127286,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127568,7 +128517,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127637,7 +128586,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127691,7 +128640,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127745,7 +128694,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127859,7 +128808,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127933,7 +128882,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128007,7 +128956,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128067,7 +129016,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128175,7 +129124,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128422,7 +129371,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "invesco-early-career-intern-digital-asset-product-2027",
+      "id": "invesco-early-career-intern-digital-asset-product-2027-5c1c84",
       "company": {
         "name": "Invesco",
         "slug": "invesco"
@@ -128430,6 +129379,57 @@
       "role": "Early Career Intern - Digital Asset Product",
       "category": "software-engineering",
       "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "invesco-early-career-intern-digital-asset-product-2027",
+      "company": {
+        "name": "Invesco",
+        "slug": "invesco"
+      },
+      "role": "Early Career Intern - Digital Asset Product",
+      "category": "software-engineering",
+      "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -128473,7 +129473,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "invesco-early-career-intern-fixed-income-global-technology-2027",
+      "id": "invesco-early-career-intern-fixed-income-global-technology-2027-1b7ff6",
       "company": {
         "name": "Invesco",
         "slug": "invesco"
@@ -128481,6 +129481,58 @@
       "role": "Early Career Intern - Fixed Income Global Technology",
       "category": "software-engineering",
       "apply_url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "invesco-early-career-intern-fixed-income-global-technology-2027",
+      "company": {
+        "name": "Invesco",
+        "slug": "invesco"
+      },
+      "role": "Early Career Intern - Fixed Income Global Technology",
+      "category": "software-engineering",
+      "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -128569,7 +129621,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128621,7 +129673,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128673,7 +129725,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129201,7 +130253,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130895,7 +131947,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131004,7 +132056,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131165,7 +132217,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131328,7 +132380,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132246,7 +133298,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -132301,7 +133353,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137469,7 +138521,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137573,7 +138625,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137624,7 +138676,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137675,7 +138727,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -137726,7 +138778,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -138458,7 +139510,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -141731,7 +142783,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -142148,7 +143200,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142252,7 +143304,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -142989,7 +144041,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143463,7 +144515,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -143517,7 +144569,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144090,7 +145142,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145159,7 +146211,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145383,7 +146435,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -145434,7 +146486,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146170,7 +147222,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146330,7 +147382,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146384,7 +147436,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146438,7 +147490,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146491,7 +147543,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146544,7 +147596,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146597,7 +147649,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -146757,7 +147809,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -147065,7 +148117,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148891,7 +149943,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148999,7 +150051,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149105,7 +150157,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149157,7 +150209,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149208,7 +150260,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150033,7 +151085,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150139,7 +151191,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150423,7 +151475,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150795,7 +151847,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -150869,7 +151921,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151017,7 +152069,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151089,7 +152141,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151161,7 +152213,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151235,7 +152287,59 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-electrical-validation-intern-bs-2027-bf25ac",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Electrical Validation Intern - BS",
+      "category": "software-engineering",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151250,7 +152354,7 @@
       },
       "role": "Electrical Validation Intern - BS",
       "category": "software-engineering",
-      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Electrical-Validation-Intern--BS---Summer-2027_2603795-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -151558,7 +152662,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151746,7 +152850,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -151892,7 +152996,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -152150,7 +153254,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "marvell-product-engineer-intern-2027",
+      "id": "marvell-product-engineer-intern-2027-7383a8",
       "company": {
         "name": "Marvell",
         "slug": "marvell"
@@ -152158,6 +153262,58 @@
       "role": "Product Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "marvell-product-engineer-intern-2027",
+      "company": {
+        "name": "Marvell",
+        "slug": "marvell"
+      },
+      "role": "Product Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -152568,7 +153724,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -153933,6 +155089,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "mckesson-business-analyst-intern-product-performance-2027",
+      "company": {
+        "name": "McKesson",
+        "slug": "mckesson"
+      },
+      "role": "Business Analyst Intern - Product Performance",
+      "category": "software-engineering",
+      "apply_url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Irving-TX-USA---6555-North-State-Highway-161-P001/Business-Analyst-Intern--Product-Performance---Summer-2027_JR0153111",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irving",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mckesson-data-analyst-intern-2027",
       "company": {
         "name": "McKesson",
@@ -154137,7 +155345,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154567,9 +155775,9 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-08-31",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154725,7 +155933,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154834,7 +156042,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -154941,7 +156149,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156746,7 +157954,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159906,6 +161114,61 @@
     },
     {
       "schema_version": "1.0",
+      "id": "micron-technology-semiconductor-research-technology-development-intern-2027",
+      "company": {
+        "name": "Micron Technology",
+        "slug": "micron-technology"
+      },
+      "role": "Semiconductor Research & Technology Development Intern",
+      "category": "research",
+      "apply_url": "https://micron.wd1.myworkdayjobs.com/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Albany",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "micron-technology-soc-rtl-design-engineer-intern-hbm-2026",
       "company": {
         "name": "Micron Technology",
@@ -162402,7 +163665,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162508,7 +163771,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162720,7 +163983,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -163568,6 +164831,60 @@
         "last_verified": "2026-10-01"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "moog-test-engineer-intern-2027",
+      "company": {
+        "name": "Moog",
+        "slug": "moog"
+      },
+      "role": "Test Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Test-Engineering_R-26-20243-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Buffalo",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -167457,7 +168774,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168049,7 +169366,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168116,6 +169433,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "navy-federal-associate-intern-lending-automation-technology-solutions-2027",
+      "company": {
+        "name": "Navy Federal",
+        "slug": "navy-federal"
+      },
+      "role": "Associate Intern - Lending Automation Technology & Solutions",
+      "category": "software-engineering",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pensacola",
+          "state": "FL",
+          "country": "USA"
+        },
+        {
+          "city": "Vienna",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "navy-federal-business-intelligence-analyst-intern-2027-72d0cd",
       "company": {
         "name": "Navy Federal",
@@ -168162,7 +169536,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168216,7 +169590,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168278,7 +169652,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168330,7 +169704,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168382,7 +169756,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168456,7 +169830,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168513,7 +169887,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168567,7 +169941,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168619,7 +169993,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168728,9 +170102,9 @@
       "dates": {
         "posted": "2026-09-09",
         "discovered": "2026-09-09",
-        "last_verified": "2026-09-16"
+        "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168784,7 +170158,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -168950,7 +170324,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169009,7 +170383,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169073,7 +170447,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169127,7 +170501,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169186,7 +170560,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169240,7 +170614,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169292,7 +170666,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169416,7 +170790,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169475,7 +170849,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169636,7 +171010,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169700,7 +171074,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169754,7 +171128,61 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "navy-federal-summer-associate-internship-technical-product-analyst-2027",
+      "company": {
+        "name": "Navy Federal",
+        "slug": "navy-federal"
+      },
+      "role": "Summer Associate Internship - Technical Product Analyst",
+      "category": "software-engineering",
+      "apply_url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32305",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vienna",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-09",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169812,6 +171240,159 @@
         "last_verified": "2026-07-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nbcuniversal-data-analytics-intern-2027",
+      "company": {
+        "name": "NBCUniversal",
+        "slug": "nbcuniversal"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-04",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nbcuniversal-media-product-intern-2027",
+      "company": {
+        "name": "NBCUniversal",
+        "slug": "nbcuniversal"
+      },
+      "role": "Media Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-04",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nbcuniversal-product-intern-2027",
+      "company": {
+        "name": "NBCUniversal",
+        "slug": "nbcuniversal"
+      },
+      "role": "Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-04",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170175,7 +171756,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -171136,7 +172717,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173437,7 +175018,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -173489,7 +175070,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174794,9 +176375,9 @@
       "dates": {
         "posted": "2026-09-02",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-14"
+        "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175268,7 +176849,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175538,7 +177119,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175592,7 +177173,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180184,7 +181765,7 @@
         "discovered": "2026-09-13",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180297,7 +181878,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180569,7 +182150,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182008,7 +183589,59 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "occ-quantitative-risk-management-intern-2027-5ed43e",
+      "company": {
+        "name": "OCC",
+        "slug": "occ"
+      },
+      "role": "Quantitative Risk Management Intern",
+      "category": "quant",
+      "apply_url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182063,7 +183696,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182078,7 +183711,7 @@
       },
       "role": "Quantitative Risk Management Intern",
       "category": "quant",
-      "apply_url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864",
+      "apply_url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4862",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -182170,6 +183803,58 @@
         "last_verified": "2026-09-19"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "occ-year-round-intern-stress-testing-liquidity-management-2027",
+      "company": {
+        "name": "OCC",
+        "slug": "occ"
+      },
+      "role": "Year-Round Intern - Stress Testing & Liquidity Management",
+      "category": "software-engineering",
+      "apply_url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Year-Round-Intern---Stress-Testing---Liquidity-Management_REQ-4869",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -182845,7 +184530,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -183001,7 +184686,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -185088,7 +186773,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -185412,7 +187097,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -185516,7 +187201,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -188042,7 +189727,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192918,22 +194603,39 @@
     },
     {
       "schema_version": "1.0",
-      "id": "pinterest-machine-learning-intern-2027-toronto-2027",
+      "id": "pinterest-machine-learning-intern-2027-f28ff2",
       "company": {
         "name": "Pinterest",
-        "slug": "pinterest",
-        "career_page": "https://www.pinterestcareers.com/"
+        "slug": "pinterest"
       },
-      "role": "Machine Learning Intern 2027 (Toronto)",
+      "role": "Machine Learning Intern",
       "category": "machine-learning",
-      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Toronto",
-          "state": "ON",
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -192966,7 +194668,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -193031,32 +194733,18 @@
       },
       "role": "Machine Learning Intern",
       "category": "machine-learning",
-      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Palo Alto",
-          "state": "CA",
-          "country": "USA"
+          "city": "Toronto",
+          "country": "ON"
         },
         {
-          "city": "Seattle",
-          "state": "WA",
-          "country": "USA"
-        },
-        {
-          "city": "SF",
-          "country": "USA"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "San Francisco",
-          "state": "CA",
+          "city": "Toronto",
+          "state": "ON",
           "country": "USA"
         }
       ],
@@ -193267,19 +194955,23 @@
     },
     {
       "schema_version": "1.0",
-      "id": "pinterest-software-engineer-intern-2027-usa-2027",
+      "id": "pinterest-software-engineer-intern-2027-7acc1d",
       "company": {
         "name": "Pinterest",
-        "slug": "pinterest",
-        "career_page": "https://www.pinterestcareers.com/"
+        "slug": "pinterest"
       },
-      "role": "Software Engineer Intern 2027 (USA)",
+      "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
       "season": "summer",
       "year": 2027,
-      "work_mode": "remote",
-      "locations": [],
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
       "compensation": {
         "currency": "USD",
         "housing_stipend": false,
@@ -193309,7 +195001,8 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify",
+        "remote-available"
       ]
     },
     {
@@ -193524,19 +195217,22 @@
     },
     {
       "schema_version": "1.0",
-      "id": "pinterest-ux-engineering-intern-san-francisco-2027",
+      "id": "pinterest-ux-engineering-intern-2027",
       "company": {
         "name": "Pinterest",
-        "slug": "pinterest",
-        "career_page": "https://www.pinterestcareers.com/"
+        "slug": "pinterest"
       },
-      "role": "UX Engineering Intern (San Francisco)",
+      "role": "UX Engineering Intern",
       "category": "design",
       "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
         {
           "city": "San Francisco",
           "state": "CA",
@@ -193572,7 +195268,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -193930,7 +195626,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194641,7 +196337,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -196538,7 +198234,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -196937,7 +198633,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -197364,7 +199060,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198163,7 +199859,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201775,7 +203471,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201931,7 +203627,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -201982,7 +203678,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202033,7 +203729,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202084,7 +203780,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202137,7 +203833,7 @@
         "discovered": "2026-09-12",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202239,7 +203935,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202290,7 +203986,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202392,7 +204088,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202443,7 +204139,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203027,7 +204723,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203133,7 +204829,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -203709,7 +205405,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -206412,7 +208108,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -207628,7 +209324,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -207747,7 +209443,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208011,7 +209707,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208512,7 +210208,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rivian-software-engineer-co-op-intern-enterprise-applications-2027",
+      "id": "rivian-software-engineer-co-op-intern-enterprise-applications-2027-3569b7",
       "company": {
         "name": "Rivian",
         "slug": "rivian"
@@ -208527,6 +210223,60 @@
         {
           "city": "Plymouth",
           "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rivian-software-engineer-co-op-intern-enterprise-applications-2027",
+      "company": {
+        "name": "Rivian",
+        "slug": "rivian"
+      },
+      "role": "Software Engineer Co-op Intern - Enterprise Applications",
+      "category": "software-engineering",
+      "apply_url": "https://careers.rivian.com/jobs/33803?icims=1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Normal",
+          "state": "IL",
           "country": "USA"
         }
       ],
@@ -209781,7 +211531,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209943,7 +211693,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -212343,6 +214093,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "roblox-product-management-intern-2027",
+      "company": {
+        "name": "Roblox",
+        "slug": "roblox"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-02",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "roblox-software-engineer-intern-2027",
       "company": {
         "name": "Roblox",
@@ -212438,59 +214240,6 @@
       "dates": {
         "posted": "2026-09-02",
         "discovered": "2026-09-02",
-        "last_verified": "2026-10-04"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "roblox-summer-2027-product-management-intern-2027",
-      "company": {
-        "name": "Roblox",
-        "slug": "roblox",
-        "career_page": "https://careers.roblox.com/"
-      },
-      "role": "[Summer 2027] Product Management Intern",
-      "category": "product",
-      "apply_url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Mateo",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-02",
-        "discovered": "2026-10-04",
         "last_verified": "2026-10-04"
       },
       "status": "open",
@@ -217607,7 +219356,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218246,7 +219995,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218720,7 +220469,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218828,7 +220577,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -219872,7 +221621,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -220345,7 +222094,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221583,7 +223332,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -221906,7 +223655,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -223674,7 +225423,7 @@
         "discovered": "2026-08-05",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -224207,7 +225956,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -226216,7 +227965,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228159,6 +229908,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "semtech-analog-design-engineer-intern-2027-7d3fed",
+      "company": {
+        "name": "Semtech",
+        "slug": "semtech"
+      },
+      "role": "Analog Design Engineer Intern",
+      "category": "design",
+      "apply_url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Calgary",
+          "country": "AB"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-24",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "semtech-analog-design-engineer-intern-2027",
       "company": {
         "name": "Semtech",
@@ -228202,7 +230002,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228355,7 +230155,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228406,7 +230206,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228457,7 +230257,7 @@
         "discovered": "2026-09-24",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229188,7 +230988,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229242,7 +231042,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229294,7 +231094,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229349,7 +231149,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229403,7 +231203,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229512,7 +231312,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229564,7 +231364,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229670,7 +231470,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229722,7 +231522,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229774,7 +231574,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229826,7 +231626,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229878,7 +231678,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229932,7 +231732,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229984,7 +231784,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230036,7 +231836,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230088,7 +231888,59 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "shure-electrical-engineering-intern-digital-circuitry-2027",
+      "company": {
+        "name": "Shure",
+        "slug": "shure"
+      },
+      "role": "Electrical Engineering Intern - Digital Circuitry",
+      "category": "software-engineering",
+      "apply_url": "https://careersus-shure.icims.com/jobs/5013/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Niles",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230140,7 +231992,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230192,7 +232044,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230246,7 +232098,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230298,7 +232150,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230352,7 +232204,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230404,7 +232256,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230456,7 +232308,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230510,7 +232362,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230562,7 +232414,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230614,7 +232466,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230834,6 +232686,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sierra-nevada-corporation-software-engineer-intern-2027-26fb6a",
+      "company": {
+        "name": "Sierra Nevada Corporation",
+        "slug": "sierra-nevada-corporation"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Southern Pines",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-10-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sierra-nevada-corporation-software-engineer-intern-2027-42bb9f",
       "company": {
         "name": "Sierra Nevada Corporation",
@@ -230893,14 +232797,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
+      "apply_url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Southern Pines",
-          "state": "NC",
+          "city": "Folsom",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -231466,7 +233370,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -234111,7 +236015,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -234267,7 +236171,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -236284,7 +238188,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -236336,7 +238240,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237943,9 +239847,9 @@
       "dates": {
         "posted": "2026-09-23",
         "discovered": "2026-09-23",
-        "last_verified": "2026-09-29"
+        "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -238852,6 +240756,10 @@
         {
           "city": "Toronto",
           "country": "USA"
+        },
+        {
+          "city": "Toronto",
+          "country": "ON"
         }
       ],
       "compensation": {
@@ -238957,6 +240865,15 @@
       "locations": [
         {
           "city": "Seattle",
+          "country": "USA"
+        },
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
           "country": "USA"
         }
       ],
@@ -258755,7 +260672,7 @@
         "discovered": "2026-09-20",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -258812,7 +260729,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -258866,7 +260783,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -259894,7 +261811,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262001,7 +263918,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262053,7 +263970,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262263,7 +264180,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262367,7 +264284,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262421,7 +264338,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -264841,7 +266758,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -265206,7 +267123,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -265314,7 +267231,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -266604,6 +268521,57 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
+        "last_verified": "2026-10-04"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-client-solutions-intern-2027-d32014",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Client Solutions Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7684622182248548661",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-10-04",
         "last_verified": "2026-10-04"
       },
       "status": "open",
@@ -269444,7 +271412,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -271200,7 +273168,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -275685,7 +277653,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277292,7 +279260,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277397,7 +279365,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277508,7 +279476,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -277559,7 +279527,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -278678,7 +280646,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -280466,7 +282434,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -280688,7 +282656,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -282474,7 +284442,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -282836,7 +284804,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -284001,7 +285969,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285195,7 +287163,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285508,7 +287476,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285559,7 +287527,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285664,7 +287632,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285717,7 +287685,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285772,7 +287740,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285826,7 +287794,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285984,7 +287952,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -291018,7 +292986,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -292386,7 +294354,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -293152,6 +295120,11 @@
         {
           "city": "Mountain View",
           "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -293255,6 +295228,15 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -293583,6 +295565,10 @@
         {
           "city": "Los Angeles",
           "country": "USA"
+        },
+        {
+          "state": "LA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -293742,6 +295728,11 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -293914,6 +295905,10 @@
           "city": "San Francisco",
           "state": "CA",
           "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -293968,6 +295963,10 @@
       "locations": [
         {
           "city": "San Francisco",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
           "country": "USA"
         }
       ],
@@ -294083,6 +296082,11 @@
         {
           "city": "Mountain View",
           "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -294193,6 +296197,10 @@
       "locations": [
         {
           "city": "San Francisco",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
           "country": "USA"
         }
       ],
@@ -294359,6 +296367,11 @@
         {
           "city": "Mountain View",
           "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -294413,6 +296426,11 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -294524,6 +296542,11 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -294691,6 +296714,11 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -294914,6 +296942,10 @@
           "city": "Mountain View",
           "state": "CA",
           "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -294967,6 +296999,11 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -295022,6 +297059,11 @@
         {
           "city": "Mountain View",
           "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -295075,6 +297117,11 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -295237,6 +297284,10 @@
         {
           "city": "San Francisco",
           "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -295290,6 +297341,15 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -295399,6 +297459,11 @@
       "locations": [
         {
           "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -296842,7 +298907,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -296960,7 +299025,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -297017,7 +299082,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -297074,7 +299139,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -298501,7 +300566,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -302145,7 +304210,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -302193,7 +304258,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -304558,7 +306623,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -304610,7 +306675,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-04"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

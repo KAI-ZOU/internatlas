@@ -17,6 +17,10 @@
       "city": "San Francisco",
       "state": "CA",
       "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
     }
   ],
   "compensation": {

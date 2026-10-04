@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-ux-engineering-intern-san-francisco-2027",
+  "id": "cibc-software-engineer-intern-2027-5d4325",
   "company": {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "career_page": "https://www.pinterestcareers.com/"
+    "name": "CIBC",
+    "slug": "cibc"
   },
-  "role": "UX Engineering Intern (San Francisco)",
-  "category": "design",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
+    "posted": "2026-09-04",
     "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
