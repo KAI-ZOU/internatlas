@@ -7,7 +7,7 @@
   },
   "role": "Digital Product Management Intern - Enterprise Technology Services",
   "category": "product",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143",
+  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -24,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"

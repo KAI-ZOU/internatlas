@@ -1,19 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027-b17b3d",
+  "id": "pinterest-machine-learning-intern-2027-toronto-2027",
   "company": {
-    "name": "American Express",
-    "slug": "american-express"
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "career_page": "https://www.pinterestcareers.com/"
   },
-  "role": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-  "category": "data-science",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
+  "role": "Machine Learning Intern 2027 (Toronto)",
+  "category": "machine-learning",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Toronto",
+      "state": "ON",
       "country": "USA"
     }
   ],
@@ -24,10 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-03",
+    "posted": "2026-10-01",
+    "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

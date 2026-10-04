@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-04
 
-## 🆕 New this week (303)
+## 🆕 New this week (301)
 
 - **AMCA** — [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009) · software-engineering · —
 - **AMCA** — [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) · software-engineering · —
@@ -115,7 +115,6 @@
 - **Intuit** — [Finance Transformation & Analytics Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184) · software-engineering · —
 - **Intuit** — [Marketing Intern - AI Tooling for Marketing Efficiency](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) · ai · —
 - **Invesco** — [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621) · software-engineering · —
-- **Invesco** — [Early Career Intern - Fixed Income Global Technology](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Fixed-Income-Global-Technology_R-15621-1) · software-engineering · —
 - **Invesco** — [Early Career Intern - Technology](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619) · software-engineering · —
 - **Invesco** — [Early Career Intern - Technology](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1) · software-engineering · —
 - **Iridium Communications** — [Software Engineering Intern](https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false) · software-engineering · —
@@ -143,7 +142,6 @@
 - **Marvell** — [Firmware Engineer Intern Co-op](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) · embedded · —
 - **Marvell** — [Firmware Engineer Intern - MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) · embedded · —
 - **Marvell** — [Product Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839) · software-engineering · —
-- **Marvell** — [Product Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1) · software-engineering · —
 - **Marvell** — [Test Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002) · software-engineering · —
 - **Marvell** — [Test Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1) · software-engineering · —
 - **MetLife** — [Global Technology Intern](https://metlife.avature.net/en_US/ml/JobDetail/20701) · software-engineering · —
@@ -180,14 +178,14 @@
 - **Pinterest** — [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) · data-science · —
 - **Pinterest** — [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) · data-science · —
 - **Pinterest** — [Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140140) · machine-learning · —
-- **Pinterest** — [Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) · machine-learning · —
+- **Pinterest** — [Machine Learning Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) · machine-learning · —
 - **Pinterest** — [Machine Learning Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214757) · machine-learning · —
-- **Pinterest** — [Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138080) · machine-learning · —
-- **Pinterest** — [Software Engineer Intern](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) · software-engineering · —
+- **Pinterest** — [Machine Learning Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138090) · machine-learning · —
+- **Pinterest** — [Software Engineer Intern 2027 (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) · software-engineering · —
 - **Pinterest** — [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) · software-engineering · —
 - **Pinterest** — [Software Engineering Intern 2027 (Toronto)](https://www.pinterestcareers.com/jobs/?gh_jid=8138039) · software-engineering · —
 - **Pinterest** — [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) · software-engineering · —
-- **Pinterest** — [UX Engineering Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) · design · —
+- **Pinterest** — [UX Engineering Intern (San Francisco)](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) · design · —
 - **Pinterest** — [UX Quantitative Research Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) · quant · —
 - **Primient** — [Digital Data & Analytics Intern](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011) · software-engineering · —
 - **Principal Financial Group** — [Quantitative Analyst Intern - Quantitative Research](https://careers.principal.com/jobs/52721?icims=1) · quant · —

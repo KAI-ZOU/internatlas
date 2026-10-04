@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "roblox-product-management-intern-2027",
+  "id": "incident-io-product-engineer-placement-intern-2027",
   "company": {
-    "name": "Roblox",
-    "slug": "roblox"
+    "name": "incident.io",
+    "slug": "incident-io"
   },
-  "role": "Product Management Intern",
-  "category": "product",
-  "apply_url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
+  "role": "Product Engineer Placement Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Mateo",
-      "state": "CA",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-02",
-    "discovered": "2026-09-03",
+    "posted": "2026-09-07",
+    "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",

@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Domino Data Lab | [Forward Deployed Engineer Intern - Campus Recruiting 2027](https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534) | NYC | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| Domino Data Lab | [Software Engineer Intern](https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560) | NYC | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Domino Data Lab | [Forward Deployed Engineer Intern - Campus Recruiting 2027](https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534) | NYC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| Domino Data Lab | [Software Engineer Intern](https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560) | NYC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

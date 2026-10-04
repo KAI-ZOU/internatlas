@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| FAST Enterprises | [Implementation Intern](https://careers.fastenterprises.com/jobs/1709?icims=1) | USA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
+| FAST Enterprises | [Implementation Intern](https://careers.fastenterprises.com/jobs/1709?icims=1) | USA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -1,22 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-software-engineer-intern-2027-7acc1d",
+  "id": "pinterest-software-engineer-intern-2027-usa-2027",
   "company": {
     "name": "Pinterest",
-    "slug": "pinterest"
+    "slug": "pinterest",
+    "career_page": "https://www.pinterestcareers.com/"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern 2027 (USA)",
   "category": "software-engineering",
   "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "SF",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -40,13 +36,12 @@
   },
   "dates": {
     "posted": "2026-10-01",
-    "discovered": "2026-10-02",
+    "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify",
-    "remote-available"
+    "src:ats"
   ]
 }

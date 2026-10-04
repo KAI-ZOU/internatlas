@@ -1,35 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "pinterest-machine-learning-intern-2027-f28ff2",
+  "id": "pinterest-ux-engineering-intern-san-francisco-2027",
   "company": {
     "name": "Pinterest",
-    "slug": "pinterest"
+    "slug": "pinterest",
+    "career_page": "https://www.pinterestcareers.com/"
   },
-  "role": "Machine Learning Intern",
-  "category": "machine-learning",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
+  "role": "UX Engineering Intern (San Francisco)",
+  "category": "design",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Palo Alto",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Seattle",
-      "state": "WA",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
     {
       "city": "San Francisco",
       "state": "CA",
@@ -59,12 +42,12 @@
   },
   "dates": {
     "posted": "2026-10-01",
-    "discovered": "2026-10-02",
+    "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -7,18 +7,32 @@
   },
   "role": "Machine Learning Intern",
   "category": "machine-learning",
-  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138080",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138090",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Palo Alto",
+      "state": "CA",
+      "country": "USA"
     },
     {
-      "city": "Toronto",
-      "state": "ON",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],

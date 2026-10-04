@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| CDM Smith | [Electrical Engineer Intern - Summer 2027](https://careers.cdmsmith.com/jobs/4398?icims=1) | Latham, NY | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| CDM Smith | [Electrical Engineer Intern - Summer 2027](https://careers.cdmsmith.com/jobs/4398?icims=1) | Latham, NY | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "cox-product-management-intern-summer-2027-2027-18334b",
+  "id": "roblox-summer-2027-product-management-intern-2027",
   "company": {
-    "name": "Cox",
-    "slug": "cox"
+    "name": "Roblox",
+    "slug": "roblox",
+    "career_page": "https://careers.roblox.com/"
   },
-  "role": "Product Management Intern - Summer 2027",
+  "role": "[Summer 2027] Product Management Intern",
   "category": "product",
-  "apply_url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191",
+  "apply_url": "https://careers.roblox.com/jobs/8143981?gh_jid=8143981",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Burlington",
-      "state": "VT",
+      "city": "San Mateo",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-09-08",
+    "posted": "2026-09-02",
+    "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

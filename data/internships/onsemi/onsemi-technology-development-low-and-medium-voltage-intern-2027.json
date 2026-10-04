@@ -1,39 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "aig-summer-intern-data-office-2027-7a6b2d",
+  "id": "onsemi-technology-development-low-and-medium-voltage-intern-2027",
   "company": {
-    "name": "AIG",
-    "slug": "aig"
+    "name": "onsemi",
+    "slug": "onsemi"
   },
-  "role": "Summer Intern - Data Office",
+  "role": "Technology Development Low- and Medium-Voltage Intern",
   "category": "software-engineering",
-  "apply_url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655",
+  "apply_url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506492",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Charlotte",
-      "state": "NC",
-      "country": "USA"
-    },
-    {
-      "city": "Jersey City",
-      "state": "NJ",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "Parsippany-Troy Hills",
-      "state": "NJ",
-      "country": "USA"
-    },
-    {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Hopewell Junction",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -45,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -61,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-17",
+    "discovered": "2026-10-04",
     "last_verified": "2026-10-04"
   },
   "status": "open",
