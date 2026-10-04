@@ -1,6 +1,6 @@
-# 📬 InternAtlas Weekly Digest — 2026-10-03
+# 📬 InternAtlas Weekly Digest — 2026-10-04
 
-## 🆕 New this week (308)
+## 🆕 New this week (303)
 
 - **AMCA** — [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009) · software-engineering · —
 - **AMCA** — [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) · software-engineering · —
@@ -23,7 +23,6 @@
 - **Assurant** — [Product Analyst Intern - Housing](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) · software-engineering · —
 - **Assurant** — [Software Engineer Intern](https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727) · software-engineering · —
 - **Astranis** — [Radiation Effects Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4704335006) · software-engineering · —
-- **Atlassian** — [Research Intern](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job) · research · —
 - **Autodesk** — [AI Data Developer Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082) · ai · —
 - **Autodesk** — [AI Data Developer Intern - Winter](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-Data-Developer--Winter-_26WD101082-1) · ai · —
 - **Autodesk** — [AI/ML Platform Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061) · machine-learning · —
@@ -86,7 +85,6 @@
 - **Epic Games** — [Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) · product · —
 - **First Citizens BancShares** — [Model Risk Management Intern](https://firstcitizens.jibeapply.com/jobs/35810?icims=1) · software-engineering · —
 - **First Citizens BancShares** — [Summer Intern - Sales Performance & Analytics Strategy](https://firstcitizens.jibeapply.com/jobs/35826?icims=1) · software-engineering · —
-- **Flint** — [Engineering Intern - Summer 2027](https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true) · software-engineering · —
 - **Freddie Mac** — [Multifamily Capital Markets Analytics & Engineering Intern](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Capital-Markets-Analytics---Engineering-Intern----Summer-2027_JR17690) · software-engineering · —
 - **Gas South** — [Analyst Intern](https://job-boards.greenhouse.io/gassouth/jobs/8247586) · software-engineering · —
 - **General Motors** — [AI/ML Engineer Intern - Autonomous Vehicle: Simulation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) · machine-learning · —
@@ -98,7 +96,6 @@
 - **Glean** — [Software Engineer Intern](https://job-boards.greenhouse.io/gleanwork/jobs/4595665005) · software-engineering · —
 - **Google** — [Associate Product Manager Intern](https://www.google.com/about/careers/applications/jobs/results/103464941339452102) · product · —
 - **Google** — [Forward Deployed Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/135156989620560582) · software-engineering · —
-- **GovSignals** — [Engineering Intern](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true) · software-engineering · —
 - **Great American Insurance Company** — [Enterprise Analytics Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Enterprise-Analytics-Intern---Summer-2027_R9650) · software-engineering · —
 - **H&R Block** — [Financial Services Data Analytics Intern](https://careers-hrblock.icims.com/jobs/76989/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **H&R Block** — [Machine Learning Intern](https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false) · machine-learning · —
@@ -258,8 +255,6 @@
 - **Tesla** — [Distributed Systems Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/285508) · software-engineering · —
 - **Tesla** — [Embedded Software Developer Intern - Vehicle Suspension](https://www.tesla.com/careers/search/job/285153) · embedded · —
 - **Tesla** — [Embedded Software Engineer Intern - Silicon Development](https://www.tesla.com/careers/search/job/285084) · embedded · —
-- **Tesla** — [Mobile Application Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284776) · software-engineering · —
-- **Tesla** — [Silicon Validation Engineer Intern - AI Hardware](https://www.tesla.com/careers/search/job/284821) · ai · —
 - **Tesla** — [Software Developer Intern - Integration Tools](https://www.tesla.com/careers/search/job/284924) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - Data Transformations](https://www.tesla.com/careers/search/job/284925) · software-engineering · —
 - **Tesla** — [Software Integration Engineer Intern - AI Platforms](https://www.tesla.com/careers/search/job/277009) · ai · —
