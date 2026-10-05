@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-friedkin-group-it-data-analytics-intern-business-systems-ai-2027",
+  "id": "etched-chip-simulation-software-intern-2026",
   "company": {
-    "name": "The Friedkin Group",
-    "slug": "the-friedkin-group"
+    "name": "Etched",
+    "slug": "etched"
   },
-  "role": "IT Data Analytics Intern - Business Systems & AI",
-  "category": "ai",
-  "apply_url": "https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false",
-  "season": "summer",
-  "year": 2027,
+  "role": "Chip Simulation Software Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-11",
-    "discovered": "2026-09-11",
+    "posted": "2026-05-20",
+    "discovered": "2026-10-05",
     "last_verified": "2026-10-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

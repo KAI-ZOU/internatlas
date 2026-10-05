@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-10-05
 
-## 🆕 New this week (310)
+## 🆕 New this week (317)
 
 - **AMCA** — [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009) · software-engineering · —
 - **AMCA** — [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) · software-engineering · —
@@ -9,6 +9,7 @@
 - **Acuity** — [Product Management Technology Intern](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) · product · —
 - **Affirm** — [Software Engineer Intern - Machine Learning](https://job-boards.greenhouse.io/affirm/jobs/8008645003) · machine-learning · —
 - **Affirm** — [Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011590003) · software-engineering · —
+- **Airbus** — [Software Engineer Intern Apprentice](https://ag.wd3.myworkdayjobs.com/Airbus/job/Newport/Software-Engineering-Degree-Apprenticeship_JR10433575) · software-engineering · —
 - **Alexion** — [Development Operations AI & Automation Enablement Co-op Intern](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) · ai · —
 - **Amazon** — [Applied Science Intern - Information & Knowledge Management](https://amazon.jobs/en/jobs/10564585/2027-summer-applied-science-internship-information-knowledge-management-machine-learning-united-states-phd-student-science-recruiting) · software-engineering · —
 - **Amazon** — [Software Engineer Intern](https://amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc) · software-engineering · —
@@ -148,9 +149,12 @@
 - **Marvell** — [Product Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Product-Engineer-Intern--BS---Summer-2027_2603839-1) · software-engineering · —
 - **Marvell** — [Test Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002) · software-engineering · —
 - **Marvell** — [Test Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--MS---Summer-2027_2604002-1) · software-engineering · —
+- **Merck** — [IT Developer Analyst Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573) · software-engineering · —
 - **MetLife** — [Global Technology Intern](https://metlife.avature.net/en_US/ml/JobDetail/20701) · software-engineering · —
 - **Metropolitan Transportation Authority** — [EAM Value Realization Emerging Talent Intern](https://jobs.jobvite.com/metropolitantransportationauthority/job/orDQAfwe?nl=1&nl=1&fr=false) · software-engineering · —
+- **Microsoft** — [Firmware Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393557023161) · embedded · —
 - **Moderna** — [Biometrics Intern](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Intern--Biometrics_R19865) · software-engineering · —
+- **Mohawk** — [Product Management Intern](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) · product · —
 - **Moog** — [Artificial Intelligence Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288) · ai · —
 - **Motorola** — [Junior Product Owner Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Jr-Product-Owner---2027-Summer-Internship--Chicago-Hybrid-_R69150) · software-engineering · —
 - **Muon Space** — [Electrical Engineer Intern](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) · software-engineering · —
@@ -246,6 +250,9 @@
 - **Space Dynamics Laboratory** — [FPGA Electrical Engineer Intern - Civil & Commercial Space Division](https://spacedynamicslaboratory.applytojob.com/apply/SznZA6uzbW/CVS-FPGA-Electrical-Engineer-Intern) · hardware · —
 - **Space Dynamics Laboratory** — [Laboratory Technician Intern](https://spacedynamicslaboratory.applytojob.com/apply/LwyTYMQ5h7/Laboratory-Technician-Intern) · software-engineering · —
 - **Stand Together** — [Analytics Intern](https://jobs.lever.co/standtogether/2d8f9d0f-9218-4936-8f39-dfb729db830b/apply) · software-engineering · —
+- **State of North Carolina** — [Data Analytics Intern](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Analytics-Intern_JR-125220) · software-engineering · —
+- **State of North Carolina** — [Data Engineer Intern](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224) · data-engineering · —
+- **State of North Carolina** — [Data Science Intern](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Science-Intern_JR-125225) · data-science · —
 - **Stripe** — [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) · software-engineering · —
 - **Stripe** — [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) · software-engineering · —
 - **Stripe** — [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) · software-engineering · —
