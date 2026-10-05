@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-10-04_
+_Generated 2026-10-05_
 
 ## Top hiring companies
 
@@ -34,7 +34,7 @@ _Generated 2026-10-04_
 | Category | Count | Share |
 |---|---|---|
 | software-engineering | 3345 | `███████████████` |
-| ai | 443 | `██` |
+| ai | 445 | `██` |
 | quant | 322 | `█` |
 | machine-learning | 253 | `█` |
 | data-science | 221 | `█` |
@@ -54,6 +54,8 @@ _Generated 2026-10-04_
 - 2026-10-04 — **NBCUniversal**: [Data Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465)
 - 2026-10-04 — **NBCUniversal**: [Media Product Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153373389)
 - 2026-10-04 — **NBCUniversal**: [Product Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229)
+- 2026-10-04 — **Pangram Labs**: [AI Research Intern](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true)
+- 2026-10-04 — **Primient**: [AI Analyst Intern](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056)
 - 2026-10-03 — **CesiumAstro**: [Electrical Engineering Intern - FPGA](https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply)
 - 2026-10-03 — **Electronic Arts**: [Product Manager Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272)
 - 2026-10-03 — **Electronic Arts**: [Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239)
@@ -67,8 +69,6 @@ _Generated 2026-10-04_
 - 2026-10-02 — **Anduril**: [2027 Supply Chain Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255827007?gh_jid=5255827007)
 - 2026-10-02 — **Arc**: [Electrical Hardware Engineering Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442853008)
 - 2026-10-02 — **Arc**: [Software Engineer Intern](https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008)
-- 2026-10-02 — **C3.ai**: [AI Product Manager Intern - Summer 2027](https://c3.ai/job-description/8860563002?gh_jid=8860563002)
-- 2026-10-02 — **CACI**: [Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051)
 
 ## Recently closed
 
@@ -154,22 +154,9 @@ _Generated 2026-10-04_
 - Axon — Embedded Engineer Intern
 - Axon — Software Engineer Intern
 - Bank of China USA — Risk Data Aggregation Intern - Enterprise Risk Management Department
-- Bank of Montreal — Business Analyst Co-op Intern - Data and Change Management
-- Bank of Montreal — Business Analyst Co-op Intern - Data and Change Management
-- Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
-- Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
-- Bank of Montreal — Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months
-- Bank of Montreal — Data Science Analyst Co-op Intern - Audit AI & Analytics
-- Bank of Montreal — Data Science Analyst Co-op Intern - Audit AI & Analytics
-- Bank of Montreal — Data Science Risk Analyst Co-op Intern
-- Bank of Montreal — Data Science Risk Analyst Co-op Intern
-- Bank of Montreal — Data Science Risk Analyst Co-op Intern
 - Bank of Montreal — Hardware Asset Management Analyst Co-op Intern - 8 months
 - Bank of Montreal — Hardware Asset Management Analyst Co-op Intern - Multiple Teams
 - Bank of Montreal — Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams
-- Bank of Montreal — Software Engineer Co-op Intern - Winter 2027
-- Bank of Montreal — Workforce Analyst Co-op Intern
-- Bank of Montreal — Workforce Analyst Intern/Co-op
 - Barclays — Customer and Digital Data and Analytics Intern
 - Barclays — Data and Analytics Intern - Customer and Digital
 - Barclays — Marketing Analyst Intern - Marketing
@@ -368,22 +355,20 @@ _Generated 2026-10-04_
 - Geotab — Software Developer Intern
 - Geotab — Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months
 - GlobalFoundries — Design Application Engineering Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — AWM Product Management Analyst Intern
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
 - Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
+- Goldman Sachs — Summer Associate Intern
 - Google — Research Scientist PhD Intern
 - Google — Software Engineer Intern - Multiple Teams
 - Google — Software Engineer Intern - Multiple Teams
@@ -500,8 +485,6 @@ _Generated 2026-10-04_
 - Marvell — SRAM Circuit Design Intern - MS
 - Marvell — Test Engineering Intern
 - Marvell — Test Engineering Intern - BS
-- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
-- Marvell — Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation
 - Mastercard — Data Engineer Intern
 - Mastercard — Data Scientist Intern
 - Mastercard — Data Scientist Intern
@@ -533,7 +516,6 @@ _Generated 2026-10-04_
 - Micron Technology — Technical Customer Management Intern - AI
 - Microsoft — Electrical Engineer Intern - 6-Month Program
 - Microsoft — Hardware Engineering Intern
-- Microsoft — Optoelectronics Device Engineer Intern
 - Microsoft — Product Manager Intern
 - Microsoft — Silicon Engineer Intern
 - Microsoft — Silicon Engineering Intern - 6-month Program
@@ -583,7 +565,6 @@ _Generated 2026-10-04_
 - NVIDIA — PhD Research Intern - Generative AI for Physical AI
 - NVIDIA — PhD Research Intern - Quantum Simulation and AI
 - NVIDIA — Physical Design and Timing Engineer Intern
-- NVIDIA — Product Management MBA Intern - Data Center GPU
 - NVIDIA — Quantum and Chemistry Research Intern - Quantum and AI for Chemistry
 - NVIDIA — Research Intern - Electronic Design Automation
 - NVIDIA — Software Engineering Intern
@@ -849,7 +830,6 @@ _Generated 2026-10-04_
 - TRC Companies — Advanced Energy Intern
 - Trillium — Equity Trader Intern
 - Twilio — Software Engineer Intern (January 12th start, 23 weeks)
-- Tyler Technologies — Software Development Intern - Summer 2027
 - U.S. Bank — Business Analytics Intern
 - U.S. Bank — Engineering Intern
 - U.S. Bank — Quantitative Modeling Intern

@@ -506,7 +506,7 @@
 | [GoDaddy](../companies/godaddy.md) | 0/1 | software-engineering |
 | [GoMaterials](../companies/gomaterials.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 10/29 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 12/29 | product, quant, software-engineering |
 | [Google](../companies/google.md) | 17/24 | data-science, hardware, product, research, software-engineering |
 | [Gordon Food Service](../companies/gordon-food-service.md) | 11/12 | data-engineering, data-science, product, software-engineering |
 | [GovSignals](../companies/govsignals.md) | 1/1 | software-engineering |
@@ -845,6 +845,7 @@
 | [Palomar Holdings](../companies/palomar-holdings.md) | 1/1 | software-engineering |
 | [PanAgora](../companies/panagora.md) | 0/1 | software-engineering |
 | [Panasonic Holdings](../companies/panasonic-holdings.md) | 0/2 | cloud, data-engineering |
+| [Pangram Labs](../companies/pangram-labs.md) | 1/1 | ai |
 | [Paragon](../companies/paragon.md) | 1/1 | software-engineering |
 | [Parkdepot](../companies/parkdepot.md) | 1/1 | software-engineering |
 | [Parsons](../companies/parsons.md) | 0/2 | software-engineering |
@@ -891,7 +892,7 @@
 | [PricewaterhouseCoopers (PwC)](../companies/pricewaterhousecoopers-pwc.md) | 0/18 | ai, product, software-engineering |
 | [Primer](../companies/primer.md) | 1/1 | software-engineering |
 | [Primetals Technologies](../companies/primetals-technologies.md) | 1/1 | software-engineering |
-| [Primient](../companies/primient.md) | 1/1 | software-engineering |
+| [Primient](../companies/primient.md) | 2/2 | ai, software-engineering |
 | [Principal Financial Group](../companies/principal-financial-group.md) | 1/5 | data-engineering, quant, software-engineering |
 | [ProNexus](../companies/pronexus.md) | 0/1 | software-engineering |
 | [Procter & Gamble](../companies/procter-gamble.md) | 8/15 | ai, data-science, machine-learning, product, research, software-engineering |
@@ -1172,7 +1173,7 @@
 | [Twilio](../companies/twilio.md) | 0/1 | software-engineering |
 | [Two Sigma](../companies/two-sigma.md) | 4/4 | ai, hardware, quant, software-engineering |
 | [Two Six Technologies](../companies/two-six-technologies.md) | 0/2 | software-engineering |
-| [Tyler Technologies](../companies/tyler-technologies.md) | 4/5 | software-engineering |
+| [Tyler Technologies](../companies/tyler-technologies.md) | 5/5 | software-engineering |
 | [U.S. Bank](../companies/u-s-bank.md) | 1/4 | product, quant, software-engineering |
 | [U.S. Venture](../companies/u-s-venture.md) | 0/1 | data-science |
 | [UHY](../companies/uhy.md) | 0/1 | software-engineering |

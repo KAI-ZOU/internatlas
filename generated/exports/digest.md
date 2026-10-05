@@ -1,6 +1,6 @@
-# 📬 InternAtlas Weekly Digest — 2026-10-04
+# 📬 InternAtlas Weekly Digest — 2026-10-05
 
-## 🆕 New this week (308)
+## 🆕 New this week (310)
 
 - **AMCA** — [Electrical Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/amca/jobs/4396690009) · software-engineering · —
 - **AMCA** — [Software Engineer Intern](https://job-boards.greenhouse.io/amca/jobs/4425120009) · software-engineering · —
@@ -178,6 +178,7 @@
 - **POET** — [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) · data-engineering · —
 - **POET** — [Software Developer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1) · software-engineering · —
 - **Palomar Holdings** — [Technical Intern](https://ats.rippling.com/plmrcareers/jobs/d49be92b-8999-4f38-a39c-81500baadec7) · software-engineering · —
+- **Pangram Labs** — [AI Research Intern](https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true) · ai · —
 - **Patch My PC** — [Software Engineer Intern](https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply) · software-engineering · —
 - **Perchwell** — [Data Analytics Engineering Intern](https://jobs.ashbyhq.com/Perchwell/9d34fc9d-e235-44fc-bdf9-42e75223839a/application?embed=true) · data-engineering · —
 - **Perchwell** — [Software Engineer Intern](https://jobs.ashbyhq.com/Perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f/application?embed=true) · software-engineering · —
@@ -194,6 +195,7 @@
 - **Pinterest** — [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) · software-engineering · —
 - **Pinterest** — [UX Engineering Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140210) · design · —
 - **Pinterest** — [UX Quantitative Research Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140217) · quant · —
+- **Primient** — [AI Analyst Intern](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056) · ai · —
 - **Primient** — [Digital Data & Analytics Intern](https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/Digital-Data---Analytics-Intern---Summer-2027_JREQ7011) · software-engineering · —
 - **Principal Financial Group** — [Quantitative Analyst Intern - Quantitative Research](https://careers.principal.com/jobs/52721?icims=1) · quant · —
 - **Q2** — [Data Science Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799) · data-science · —
