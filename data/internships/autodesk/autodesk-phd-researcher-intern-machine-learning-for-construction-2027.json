@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "caci-software-development-intern-2027-8c37c5",
+  "id": "autodesk-phd-researcher-intern-machine-learning-for-construction-2027",
   "company": {
-    "name": "CACI",
-    "slug": "caci"
+    "name": "Autodesk",
+    "slug": "autodesk"
   },
-  "role": "Software Development Intern",
-  "category": "software-engineering",
-  "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051",
-  "season": "summer",
+  "role": "PhD Researcher Intern - Machine Learning for Construction",
+  "category": "machine-learning",
+  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/Phd-Researcher--Machine-Learning-for-Construction_26WD101430",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ashburn",
-      "state": "VA",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
-    "discovered": "2026-10-03",
+    "posted": "2026-10-05",
+    "discovered": "2026-10-05",
     "last_verified": "2026-10-05"
   },
   "status": "open",
