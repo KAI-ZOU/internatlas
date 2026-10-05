@@ -1,19 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "invesco-early-career-intern-digital-asset-product-2027",
+  "id": "pinterest-machine-learning-intern-2027-dublin-2027",
   "company": {
-    "name": "Invesco",
-    "slug": "invesco"
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "career_page": "https://www.pinterestcareers.com/"
   },
-  "role": "Early Career Intern - Digital Asset Product",
-  "category": "software-engineering",
-  "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1",
+  "role": "Machine Learning Intern 2027 (Dublin)",
+  "category": "machine-learning",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Dublin",
+      "state": "IE",
       "country": "USA"
     }
   ],
@@ -39,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-30",
+    "posted": "2026-10-05",
+    "discovered": "2026-10-05",
     "last_verified": "2026-10-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

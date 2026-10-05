@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-05",
-  "count": 5657,
+  "count": 5662,
   "internships": [
     {
       "schema_version": "1.0",
@@ -12379,7 +12379,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28007,7 +28007,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -41952,7 +41952,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -44641,7 +44641,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58958,7 +58958,7 @@
         "discovered": "2026-07-28",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -61523,6 +61523,58 @@
         "last_verified": "2026-08-24"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cloudflare-people-analytics-data-engineering-intern-winter-spring-2027-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "People Analytics Data Engineering Intern (Winter/Spring 2027)",
+      "category": "data-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Hybrid",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-05",
+        "last_verified": "2026-10-05"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -76287,7 +76339,7 @@
         "discovered": "2026-08-20",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -79675,7 +79727,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "drw-software-developer-intern-2027-6dbc24",
+      "id": "drw-software-developer-intern-2027",
       "company": {
         "name": "DRW",
         "slug": "drw"
@@ -79715,65 +79767,13 @@
       },
       "dates": {
         "posted": "2026-07-31",
-        "discovered": "2026-09-25",
-        "last_verified": "2026-10-05"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "drw-software-developer-intern-2027",
-      "company": {
-        "name": "DRW",
-        "slug": "drw"
-      },
-      "role": "Software Developer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8220587",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-24",
         "discovered": "2026-07-31",
         "last_verified": "2026-10-05"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -80322,6 +80322,59 @@
       "dates": {
         "posted": "2026-09-15",
         "discovered": "2026-09-15",
+        "last_verified": "2026-10-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "duolingo-illustrator-intern-2027",
+      "company": {
+        "name": "Duolingo",
+        "slug": "duolingo",
+        "career_page": "https://careers.duolingo.com/"
+      },
+      "role": "Illustrator, Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Detroit",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-05",
         "last_verified": "2026-10-05"
       },
       "status": "open",
@@ -92808,6 +92861,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "figma-phd-intern-ai-applied-scientist-2027-2027",
+      "company": {
+        "name": "Figma",
+        "slug": "figma",
+        "career_page": "https://www.figma.com/careers"
+      },
+      "role": "PhD Intern, AI Applied Scientist (2027)",
+      "category": "ai",
+      "apply_url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-05",
+        "last_verified": "2026-10-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -117344,7 +117449,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117709,7 +117814,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -120004,7 +120109,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -120020,7 +120125,7 @@
       },
       "role": "Data Scientist Intern - 2027",
       "category": "data-science",
-      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413",
+      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -120052,7 +120157,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-22",
+        "posted": "2026-10-05",
         "discovered": "2026-09-28",
         "last_verified": "2026-10-05"
       },
@@ -127126,7 +127231,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129976,7 +130081,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -130027,7 +130132,7 @@
         "discovered": "2026-09-30",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144759,7 +144864,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -144917,7 +145022,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -155485,7 +155590,7 @@
         "discovered": "2026-08-26",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156495,7 +156600,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158919,7 +159024,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160130,7 +160235,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -160181,7 +160286,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175957,7 +176062,7 @@
         "discovered": "2026-10-01",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191301,7 +191406,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -195647,6 +195752,59 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pinterest-machine-learning-intern-2027-dublin-2027",
+      "company": {
+        "name": "Pinterest",
+        "slug": "pinterest",
+        "career_page": "https://www.pinterestcareers.com/"
+      },
+      "role": "Machine Learning Intern 2027 (Dublin)",
+      "category": "machine-learning",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dublin",
+          "state": "IE",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-05",
+        "last_verified": "2026-10-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
       ]
     },
     {
@@ -209564,7 +209722,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209674,7 +209832,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218394,7 +218552,7 @@
         "discovered": "2026-10-02",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -220130,7 +220288,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -227303,7 +227461,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229789,7 +229947,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -230055,7 +230213,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -252235,7 +252393,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -261545,7 +261703,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262232,7 +262390,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -262397,7 +262555,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -279000,7 +279158,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-10-05"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -297629,6 +297787,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-ml-systems-behavior-discovery-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257159",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-05",
+        "last_verified": "2026-10-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-ms-phd-perception-machine-learning-2027",
       "company": {
         "name": "Waymo",
@@ -297904,6 +298115,59 @@
       "dates": {
         "posted": "2026-09-23",
         "discovered": "2026-09-23",
+        "last_verified": "2026-10-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-ms-phd-software-engineer-eval-data-infra-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8257205",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-10-05",
         "last_verified": "2026-10-05"
       },
       "status": "open",
@@ -298719,6 +298983,66 @@
     },
     {
       "schema_version": "1.0",
+      "id": "waymo-2027-summer-intern-phd-perception-road-understanding-ml-engi-2027",
+      "company": {
+        "name": "Waymo",
+        "slug": "waymo",
+        "career_page": "https://waymo.com/careers"
+      },
+      "role": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
+      "category": "machine-learning",
+      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "country": "USA"
+        },
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-23",
+        "discovered": "2026-10-05",
+        "last_verified": "2026-10-05"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "waymo-2027-summer-intern-phd-perception-systems-engineering-pedest-2027",
       "company": {
         "name": "Waymo",
@@ -298937,66 +299261,6 @@
       "dates": {
         "posted": "2026-10-02",
         "discovered": "2026-10-02",
-        "last_verified": "2026-10-05"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "waymo-2027-summer-intern-phd-road-understanding-ml-engineer-2027",
-      "company": {
-        "name": "Waymo",
-        "slug": "waymo",
-        "career_page": "https://waymo.com/careers"
-      },
-      "role": "2027 Summer Intern, PhD, Road Understanding, ML Engineer",
-      "category": "machine-learning",
-      "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Mountain View",
-          "country": "USA"
-        },
-        {
-          "city": "Mountain View",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-23",
-        "discovered": "2026-09-30",
         "last_verified": "2026-10-05"
       },
       "status": "open",

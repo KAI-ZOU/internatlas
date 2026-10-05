@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "invesco-early-career-intern-digital-asset-product-2027",
+  "id": "figma-phd-intern-ai-applied-scientist-2027-2027",
   "company": {
-    "name": "Invesco",
-    "slug": "invesco"
+    "name": "Figma",
+    "slug": "figma",
+    "career_page": "https://www.figma.com/careers"
   },
-  "role": "Early Career Intern - Digital Asset Product",
-  "category": "software-engineering",
-  "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1",
+  "role": "PhD Intern, AI Applied Scientist (2027)",
+  "category": "ai",
+  "apply_url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-30",
+    "posted": "2026-10-05",
+    "discovered": "2026-10-05",
     "last_verified": "2026-10-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

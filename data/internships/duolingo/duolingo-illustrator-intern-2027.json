@@ -1,19 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "invesco-early-career-intern-digital-asset-product-2027",
+  "id": "duolingo-illustrator-intern-2027",
   "company": {
-    "name": "Invesco",
-    "slug": "invesco"
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "career_page": "https://careers.duolingo.com/"
   },
-  "role": "Early Career Intern - Digital Asset Product",
+  "role": "Illustrator, Intern",
   "category": "software-engineering",
-  "apply_url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern---Digital-Asset_R-15476-1",
+  "apply_url": "https://careers.duolingo.com/jobs/8863967002?gh_jid=8863967002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Detroit",
+      "state": "MI",
       "country": "USA"
     }
   ],
@@ -39,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-30",
+    "posted": "2026-10-05",
+    "discovered": "2026-10-05",
     "last_verified": "2026-10-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
